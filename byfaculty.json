@@ -1,0 +1,5548 @@
+{
+    "FAKULTI PERNIAGAAN,EKONOMI DAN PEMBANGUNAN SOSIAL": [
+        {
+            "course_code": "ACT3012",
+            "course_name": "ACCOUNTING PRINCIPLES "
+        },
+        {
+            "course_code": "ACT3013",
+            "course_name": "BASIC BUSINESS ACCOUNTING"
+        },
+        {
+            "course_code": "ACT3014",
+            "course_name": "BUSINESS ACCOUNTING"
+        },
+        {
+            "course_code": "ACT3023",
+            "course_name": "COST AND MANAGERIAL ACCOUNTING"
+        },
+        {
+            "course_code": "ACT3114",
+            "course_name": "FINANCIAL ACCOUNTING AND REPORTING 1"
+        },
+        {
+            "course_code": "ACT3123",
+            "course_name": "FINANCIAL ACCOUNTING AND REPORTING 2"
+        },
+        {
+            "course_code": "ACT3133",
+            "course_name": "FINANCIAL ACCOUNTING AND REPORTING 3"
+        },
+        {
+            "course_code": "ACT3213",
+            "course_name": "COST ACCOUNTING"
+        },
+        {
+            "course_code": "ACT3223",
+            "course_name": "MANAGEMENT ACCOUNTING"
+        },
+        {
+            "course_code": "ACT3313",
+            "course_name": "AUDIT 1"
+        },
+        {
+            "course_code": "ACT3413",
+            "course_name": "TAXATION 1"
+        },
+        {
+            "course_code": "ACT3423",
+            "course_name": "TAXATION 2"
+        },
+        {
+            "course_code": "ACT3513",
+            "course_name": "ACCOUNTING INFORMATION SYSTEMS"
+        },
+        {
+            "course_code": "ACT3523",
+            "course_name": "ADVANCED ACCOUNTING INFORMATION SYSTEMS"
+        },
+        {
+            "course_code": "ACT3533",
+            "course_name": "BUSINESS DATA ANALYTICS"
+        },
+        {
+            "course_code": "ACT3613",
+            "course_name": "BUSINESS ETHICS AND CORPORATE GOVERNANCE "
+        },
+        {
+            "course_code": "ACT3623",
+            "course_name": "COMPANY SECRETARIAL PRACTICE"
+        },
+        {
+            "course_code": "ACT3633",
+            "course_name": "PUBLIC SECTOR ACCOUNTING "
+        },
+        {
+            "course_code": "ACT3643",
+            "course_name": "ACCOUNTING FOR SPECIALISED INDUSTRIES"
+        },
+        {
+            "course_code": "ACT3653",
+            "course_name": "ACCOUNTING AND REPORTING FOR ENVIRONMENT"
+        },
+        {
+            "course_code": "ACT3713-I",
+            "course_name": "ACCOUNTING WORK INTEGRATED LEARNING ATTACHMENT"
+        },
+        {
+            "course_code": "ACT3723-I",
+            "course_name": "TAXATION INTEGRATED LEARNING ATTACHMENT"
+        },
+        {
+            "course_code": "ACT3733-I",
+            "course_name": "AUDIT WORK INTEGRATED LEARNING ATTACHMENT "
+        },
+        {
+            "course_code": "ACT3743-I",
+            "course_name": "SECRETARIAL INTEGRATED LEARNING ATTACHMENT "
+        },
+        {
+            "course_code": "ACT3753-I",
+            "course_name": "BUSINESS ADVISORY INTEGRATED LEARNING ATTACHMENT"
+        },
+        {
+            "course_code": "ACT4143",
+            "course_name": "FINANCIAL ACCOUNTING AND REPORTING 4"
+        },
+        {
+            "course_code": "ACT4153",
+            "course_name": "FINANCIAL ACCOUNTING AND REPORTING 5"
+        },
+        {
+            "course_code": "ACT4233",
+            "course_name": "ADVANCED MANAGEMENT ACCOUNTING"
+        },
+        {
+            "course_code": "ACT4323",
+            "course_name": "AUDIT 2"
+        },
+        {
+            "course_code": "ACT4613",
+            "course_name": "INTEGRATED CASE STUDY"
+        },
+        {
+            "course_code": "ACT4623",
+            "course_name": "INTERNAL AUDIT"
+        },
+        {
+            "course_code": "ACT4633",
+            "course_name": "ADVANCED TAXATION"
+        },
+        {
+            "course_code": "ACT4683",
+            "course_name": "RESEARCH IN ACCOUNTING 1"
+        },
+        {
+            "course_code": "ACT4693",
+            "course_name": "RESEARCH IN ACCOUNTING 2"
+        },
+        {
+            "course_code": "ACT4713-I",
+            "course_name": "WORK INTEGRATED PROFESSIONALISM AND ETHICS"
+        },
+        {
+            "course_code": "ACT4723-I",
+            "course_name": "WORK INTEGRATED STRATEGY AND STAKEHOLDER RELATIONS"
+        },
+        {
+            "course_code": "ACT4733-I",
+            "course_name": "WORK INTEGRATED RISK AND GOVERNANCE"
+        },
+        {
+            "course_code": "ACT4743-I",
+            "course_name": "WORK INTEGRATED TAX ASSESSMENT"
+        },
+        {
+            "course_code": "ACT4753-I",
+            "course_name": "WORK INTEGRATED AUDIT AND ASSURANCE"
+        },
+        {
+            "course_code": "ACT4813",
+            "course_name": "BUSINESS LEADERSHIP"
+        },
+        {
+            "course_code": "ACT4823",
+            "course_name": "BUSINESS REPORTING"
+        },
+        {
+            "course_code": "ACT4833",
+            "course_name": "AUDIT AND ASSURANCE"
+        },
+        {
+            "course_code": "ACT4843",
+            "course_name": "STRATEGIC FINANCIAL MANAGEMENT"
+        },
+        {
+            "course_code": "ACT4853",
+            "course_name": "STRATEGIC TAXATION MANAGEMENT"
+        },
+        {
+            "course_code": "ACT49712",
+            "course_name": "INDUSTRIAL TRAINING"
+        },
+        {
+            "course_code": "ACT49712-I",
+            "course_name": "INDUSTRIAL ATTACHMENT"
+        },
+        {
+            "course_code": "COU3003",
+            "course_name": "ABNORMAL BEHAVIOUR"
+        },
+        {
+            "course_code": "COU3004",
+            "course_name": "HEALTH PSYCHOLOGY"
+        },
+        {
+            "course_code": "COU3005",
+            "course_name": "INDUSTRIAL PSYCHOLOGY"
+        },
+        {
+            "course_code": "COU3006",
+            "course_name": "E-COUNSELLING"
+        },
+        {
+            "course_code": "COU3100",
+            "course_name": "INTRODUCTION TO PSYCHOLOGY"
+        },
+        {
+            "course_code": "COU3101",
+            "course_name": "INTRODUCTION TO GUIDANCE AND COUNSELLING"
+        },
+        {
+            "course_code": "COU3102",
+            "course_name": "DEVELOPMENTAL PSYCHOLOGY"
+        },
+        {
+            "course_code": "COU3103",
+            "course_name": "INDIVIDUAL PERSONALITY"
+        },
+        {
+            "course_code": "COU3201",
+            "course_name": "THEORY OF COUNSELLING AND PSYCHOTHERAPY"
+        },
+        {
+            "course_code": "COU3203",
+            "course_name": "SUBSTANCE ABUSE COUNSELLING"
+        },
+        {
+            "course_code": "COU3204",
+            "course_name": "PERSONNEL COUNSELLING"
+        },
+        {
+            "course_code": "COU3205",
+            "course_name": "BASIC COUNSELLING SKILLS"
+        },
+        {
+            "course_code": "COU3206",
+            "course_name": "INDIVIDUAL LAB I"
+        },
+        {
+            "course_code": "COU3207",
+            "course_name": "INDIVIDUAL COUNSELLING"
+        },
+        {
+            "course_code": "COU3300",
+            "course_name": "SOCIAL PSYCHOLOGY"
+        },
+        {
+            "course_code": "COU3401",
+            "course_name": "GROUP COUNSELLING LAB I"
+        },
+        {
+            "course_code": "COU3403",
+            "course_name": "GROUP COUNSELLING"
+        },
+        {
+            "course_code": "COU3500",
+            "course_name": "CAREER COUNSELLING"
+        },
+        {
+            "course_code": "COU3600",
+            "course_name": "INTRODUCTION TO PSYCHOLOGICAL TESTING"
+        },
+        {
+            "course_code": "COU3701",
+            "course_name": "QUANTITATIVE RESEARCH"
+        },
+        {
+            "course_code": "COU3702",
+            "course_name": "QUALITATIVE RESEARCH"
+        },
+        {
+            "course_code": "COU3703",
+            "course_name": "RESEARCH PROJECT I"
+        },
+        {
+            "course_code": "COU3704",
+            "course_name": "RESEARCH PROJECT II"
+        },
+        {
+            "course_code": "COU4200",
+            "course_name": "FAMILY COUNSELLING"
+        },
+        {
+            "course_code": "COU4206",
+            "course_name": "INDIVIDUAL LABORATORY LAB II"
+        },
+        {
+            "course_code": "COU4300",
+            "course_name": "MULTICULTURAL COUNSELLING"
+        },
+        {
+            "course_code": "COU4301",
+            "course_name": "VOLUNTEERISM"
+        },
+        {
+            "course_code": "COU4402",
+            "course_name": "GROUP LABORATORY II"
+        },
+        {
+            "course_code": "COU4500",
+            "course_name": "INFORMATION OF CAREER DEVELOPMENT"
+        },
+        {
+            "course_code": "COU4600",
+            "course_name": "APPRAISAL IN COUNSELLING"
+        },
+        {
+            "course_code": "COU4701",
+            "course_name": "CONSULTATION IN COUNSELLING"
+        },
+        {
+            "course_code": "COU4800",
+            "course_name": "ETHICAL ISSUES AND LEGISLATION IN COUNSELING"
+        },
+        {
+            "course_code": "COU4992C",
+            "course_name": "INTERNSHIP"
+        },
+        {
+            "course_code": "COU4993",
+            "course_name": "PRACTICUM COUNSELLING"
+        },
+        {
+            "course_code": "COU5100",
+            "course_name": "INDIVIDUAL DEVELOPMENT "
+        },
+        {
+            "course_code": "COU5200",
+            "course_name": "THEORY OF COUNSELLING AND PSYCHOTHERAPY"
+        },
+        {
+            "course_code": "COU5201",
+            "course_name": "COUNSELLING TECHNIQUES"
+        },
+        {
+            "course_code": "COU5300",
+            "course_name": "MULTICULTURAL ISSUES IN COMMUNITY COUNSELLING"
+        },
+        {
+            "course_code": "COU5400",
+            "course_name": "PROCEDURE AND GROUP DYNAMIC"
+        },
+        {
+            "course_code": "COU5500",
+            "course_name": "CAREER DEVELOPMENT"
+        },
+        {
+            "course_code": "COU5501",
+            "course_name": "CAREER COUNSELLING"
+        },
+        {
+            "course_code": "COU5600",
+            "course_name": "PSYCHOLOGICAL TESTING IN COUNSELLING"
+        },
+        {
+            "course_code": "COU5601",
+            "course_name": "APPRAISAL OF INDIVIDUALS AND GROUPS IN COUNSELLING"
+        },
+        {
+            "course_code": "COU5700",
+            "course_name": "RESEARCH IN COUNSELLING "
+        },
+        {
+            "course_code": "COU5997",
+            "course_name": "PRACTICUM"
+        },
+        {
+            "course_code": "COU5998",
+            "course_name": "INTERNSHIP"
+        },
+        {
+            "course_code": "COU5999",
+            "course_name": "DISSERTATION"
+        },
+        {
+            "course_code": "ECO3003",
+            "course_name": "PRINCIPLES OF ECONOMIC THINKING"
+        },
+        {
+            "course_code": "ECO3013",
+            "course_name": "INTRODUCTION TO MICROECONOMICS"
+        },
+        {
+            "course_code": "ECO3023",
+            "course_name": "INTRODUCTION TO MACROECONOMICS"
+        },
+        {
+            "course_code": "ECO3033",
+            "course_name": "MICROECONOMICS"
+        },
+        {
+            "course_code": "ECO3043",
+            "course_name": "MACROECONOMICS"
+        },
+        {
+            "course_code": "ECO3053",
+            "course_name": "MANAGERIAL ECONOMICS"
+        },
+        {
+            "course_code": "ECO3063",
+            "course_name": "HISTORY OF ECONOMIC THOUGHT"
+        },
+        {
+            "course_code": "ECO3073",
+            "course_name": "INTRODUCTION TO ISLAMIC ECONOMICS"
+        },
+        {
+            "course_code": "ECO3083",
+            "course_name": "MICROECONOMICS I"
+        },
+        {
+            "course_code": "ECO3093",
+            "course_name": "MACROECONOMICS 1"
+        },
+        {
+            "course_code": "ECO3113",
+            "course_name": "MACROECONOMICS II"
+        },
+        {
+            "course_code": "ECO3123",
+            "course_name": "MICROECONOMICS II"
+        },
+        {
+            "course_code": "ECO3153",
+            "course_name": "STATISTICS ECONOMICS AND BUSINESS I"
+        },
+        {
+            "course_code": "ECO3163",
+            "course_name": "STATISTICS FOR ECONOMICS AND BUSINESS II"
+        },
+        {
+            "course_code": "ECO3173",
+            "course_name": "ECONOMETRICS I"
+        },
+        {
+            "course_code": "ECO3183",
+            "course_name": "ECONOMETRICS II"
+        },
+        {
+            "course_code": "ECO3193",
+            "course_name": "INTRODUCTION TO MATHEMATICAL ECONOMICS"
+        },
+        {
+            "course_code": "ECO3213",
+            "course_name": "MATHEMATICAL ECONOMICS"
+        },
+        {
+            "course_code": "ECO4133",
+            "course_name": "MACROECONOMICS III"
+        },
+        {
+            "course_code": "ECO4143",
+            "course_name": "MICROECONOMICS III"
+        },
+        {
+            "course_code": "ECO4213",
+            "course_name": "RESEARCH METHODOLOGY"
+        },
+        {
+            "course_code": "ECO4233",
+            "course_name": "PUBLIC ECONOMICS"
+        },
+        {
+            "course_code": "ECO4243",
+            "course_name": "NATURAL RESOURCE ECONOMICS"
+        },
+        {
+            "course_code": "ECO4250",
+            "course_name": "ENVIRONMENTAL ECONOMICS"
+        },
+        {
+            "course_code": "ECO4263",
+            "course_name": "ENERGY ECONOMICS"
+        },
+        {
+            "course_code": "ECO4273",
+            "course_name": "LAND AND FOREST ECONOMICS"
+        },
+        {
+            "course_code": "ECO4283",
+            "course_name": "FISHERIES AND AQUACULTURE ECONOMICS"
+        },
+        {
+            "course_code": "ECO4293",
+            "course_name": "RECREATION AND TOURISM ECONOMICS"
+        },
+        {
+            "course_code": "ECO4333",
+            "course_name": "DISASTER ECONOMICS"
+        },
+        {
+            "course_code": "ECO4353",
+            "course_name": "LABOUR ECONOMICS"
+        },
+        {
+            "course_code": "ECO4373",
+            "course_name": "PLANNING AND DEVELOPMENT OF THE MALAYSIAN ECONOMY"
+        },
+        {
+            "course_code": "ECO4383",
+            "course_name": "SUSTAINABLE DEVELOPMENT"
+        },
+        {
+            "course_code": "ECO4393",
+            "course_name": "PROJECT PLANNING AND EVALUATION"
+        },
+        {
+            "course_code": "ECO4404",
+            "course_name": "INTERNATIONAL ECONOMICS"
+        },
+        {
+            "course_code": "ECO4413",
+            "course_name": "HEALTH ECONOMICS"
+        },
+        {
+            "course_code": "ECO4423",
+            "course_name": "AGRI-BUSINESS MANAGEMENT"
+        },
+        {
+            "course_code": "ECO4433",
+            "course_name": "ECOLOGICAL ECONOMICS"
+        },
+        {
+            "course_code": "ECO4443",
+            "course_name": "WATER ECONOMICS"
+        },
+        {
+            "course_code": "ECO4453",
+            "course_name": " FINANCIAL ECONOMICS"
+        },
+        {
+            "course_code": "ECO4463",
+            "course_name": "INDUSTRIAL ECONOMICS"
+        },
+        {
+            "course_code": "ECO4613",
+            "course_name": "NATURAL RESOURCES LAW"
+        },
+        {
+            "course_code": "ECO4978",
+            "course_name": "INDUSTRIAL TRAINING"
+        },
+        {
+            "course_code": "ECO4982",
+            "course_name": "FINAL YEAR PROJECT I"
+        },
+        {
+            "course_code": "ECO4994",
+            "course_name": "FINAL YEAR PROJECT II"
+        },
+        {
+            "course_code": "ECO5003",
+            "course_name": "ADVANCED MICROECONOMICS"
+        },
+        {
+            "course_code": "ECO5013",
+            "course_name": "ADVANCED MACROECONOMICS"
+        },
+        {
+            "course_code": "ECO5024",
+            "course_name": "RESEARCH METHODOLOGY IN APPLIED ECONOMICS"
+        },
+        {
+            "course_code": "ECO5033",
+            "course_name": "ADVANCED ECONOMETRICS"
+        },
+        {
+            "course_code": "ECO5173",
+            "course_name": "ECONOMIC VALUATION OF RESOURCES"
+        },
+        {
+            "course_code": "ECO5183",
+            "course_name": "MANAGERIAL ECONOMICS"
+        },
+        {
+            "course_code": "ECO5203",
+            "course_name": "ENVIRONMENTAL ECONOMICS AND POLICY"
+        },
+        {
+            "course_code": "ECO5213",
+            "course_name": " NATURAL RESOURCE ECONOMICS AND MODELLING"
+        },
+        {
+            "course_code": "ECO5223",
+            "course_name": "ECONOMIC VALUATION AND COST & BENEFIT ANALYSIS"
+        },
+        {
+            "course_code": "ECO5243",
+            "course_name": "ADVANCED NATURAL RESOURCE ECONOMICS"
+        },
+        {
+            "course_code": "ECO5253",
+            "course_name": "ISSUES IN ECONOMICS AND NATURAL RESOURCES"
+        },
+        {
+            "course_code": "ECO5303",
+            "course_name": "MONETARY ECONOMICS, BANKING AND FINANCIAL MARKET"
+        },
+        {
+            "course_code": "ECO5313",
+            "course_name": "RURAL DEVELOPMENT AND MICROFINANCE POLICY"
+        },
+        {
+            "course_code": "ECO5323",
+            "course_name": "CONTRACTING AND MICROFINANCE PRODUCTS"
+        },
+        {
+            "course_code": "ECO5333",
+            "course_name": "BANKING AND MICROFINANCE"
+        },
+        {
+            "course_code": "ECO5343",
+            "course_name": "ISSUES IN MICROFINANCE"
+        },
+        {
+            "course_code": "ECO5353",
+            "course_name": "ISLAMIC MICROFINANCE"
+        },
+        {
+            "course_code": "ECO5363",
+            "course_name": "SOCIAL ENTREPRENEURSHIP"
+        },
+        {
+            "course_code": "ECO5373",
+            "course_name": "EMPOWERMENT OF COMMUNITIES"
+        },
+        {
+            "course_code": "FNC3013",
+            "course_name": "MANAGERIAL FINANCE"
+        },
+        {
+            "course_code": "FNC3123",
+            "course_name": "STATISTICAL METHODS FOR ACCOUNTING AND FINANCE"
+        },
+        {
+            "course_code": "FNC3213",
+            "course_name": "FINANCIAL MANAGEMENT"
+        },
+        {
+            "course_code": "FNC3223",
+            "course_name": "ISLAMIC FINANCIAL MANAGEMENT"
+        },
+        {
+            "course_code": "FNC3233",
+            "course_name": "WEALTH PLANNING AND MANAGEMENT"
+        },
+        {
+            "course_code": "FNC4213",
+            "course_name": "CORPORATE FINANCE"
+        },
+        {
+            "course_code": "FNC4223",
+            "course_name": "FINANCIAL MARKETS AND INSTITUTIONS"
+        },
+        {
+            "course_code": "FNC4613",
+            "course_name": "INTERNATIONAL FINANCE"
+        },
+        {
+            "course_code": "FNC4623",
+            "course_name": "INVESTMENT ANALYSIS"
+        },
+        {
+            "course_code": "FNC5203",
+            "course_name": "FINANCIAL MANAGEMENT"
+        },
+        {
+            "course_code": "FNC5503",
+            "course_name": "ISLAMIC FINANCIAL INSTITUTIONS AND MARKETS"
+        },
+        {
+            "course_code": "FNC5513",
+            "course_name": "GOVERNANCE AND APPLICATION OF SYARIAH IN ISLAMIC FINANCE"
+        },
+        {
+            "course_code": "FNC5543",
+            "course_name": "ESTATE PLANNING AND MANAGEMENT IN ISLAM"
+        },
+        {
+            "course_code": "MGM3003",
+            "course_name": "PRINCIPLES OF MANAGEMENT"
+        },
+        {
+            "course_code": "MGM3013",
+            "course_name": "PRINCIPLES OF MARKETING"
+        },
+        {
+            "course_code": "MGM3023",
+            "course_name": "MARKETING MANAGEMENT"
+        },
+        {
+            "course_code": "MGM3033",
+            "course_name": "BUSINESS AND MANAGEMENT STATISTICS"
+        },
+        {
+            "course_code": "MGM3043",
+            "course_name": "ORGANIZATIONAL BEHAVIOUR"
+        },
+        {
+            "course_code": "MGM3053",
+            "course_name": "SOCIAL MARKETING"
+        },
+        {
+            "course_code": "MGM3063",
+            "course_name": "QUANTITATIVE METHODS IN DECISION MAKING"
+        },
+        {
+            "course_code": "MGM3073",
+            "course_name": "HUMAN RESOURCE MANAGEMENT "
+        },
+        {
+            "course_code": "MGM3083",
+            "course_name": "CONSUMER BEHAVIOR"
+        },
+        {
+            "course_code": "MGM3093",
+            "course_name": "ELECTRONIC MARKETING"
+        },
+        {
+            "course_code": "MGM3123",
+            "course_name": "MARKETING RESEARCH"
+        },
+        {
+            "course_code": "MGM3133",
+            "course_name": "INTEGRATED MARKETING COMMUNICATIONS"
+        },
+        {
+            "course_code": "MGM3143",
+            "course_name": "COMMERCIAL LAW"
+        },
+        {
+            "course_code": "MGM3153",
+            "course_name": "INTERNATIONAL BUSINESS"
+        },
+        {
+            "course_code": "MGM3163",
+            "course_name": "ENTREPRENEURSHIP"
+        },
+        {
+            "course_code": "MGM3173",
+            "course_name": "SERVICES MARKETING"
+        },
+        {
+            "course_code": "MGM3183",
+            "course_name": "PRODUCT MANAGEMENT"
+        },
+        {
+            "course_code": "MGM3193",
+            "course_name": "PRICING STRATEGY"
+        },
+        {
+            "course_code": "MGM3213",
+            "course_name": "STRATEGIC MANAGEMENT"
+        },
+        {
+            "course_code": "MGM3223",
+            "course_name": "BUSINESS ETHICS"
+        },
+        {
+            "course_code": "MGM3233",
+            "course_name": "INTERNATIONAL MARKETING"
+        },
+        {
+            "course_code": "MGM3243",
+            "course_name": "RETAILING MANAGEMENT"
+        },
+        {
+            "course_code": "MGM3253",
+            "course_name": "DIRECT MARKETING"
+        },
+        {
+            "course_code": "MGM3262",
+            "course_name": "MERCHANDISING AND PURCHASING MANAGEMENT"
+        },
+        {
+            "course_code": "MGM3273",
+            "course_name": "LABOUR LAW"
+        },
+        {
+            "course_code": "MGM3283",
+            "course_name": "BUSINESS COMMUNICATION"
+        },
+        {
+            "course_code": "MGM3293",
+            "course_name": "MANAGEMENT INFORMATION SYSTEM"
+        },
+        {
+            "course_code": "MGM3303",
+            "course_name": "COMPANY LAW"
+        },
+        {
+            "course_code": "MGM3313",
+            "course_name": "BUSINESS LAW"
+        },
+        {
+            "course_code": "MGM3323",
+            "course_name": "PHILOSOPHY OF MANAGEMENT"
+        },
+        {
+            "course_code": "MGM3323-E",
+            "course_name": "PHILOSOPHY OF MANAGEMENT"
+        },
+        {
+            "course_code": "MGM49712",
+            "course_name": "INDUSTRIAL TRAINING"
+        },
+        {
+            "course_code": "MGM4983",
+            "course_name": "FINAL YEAR PROJECT I"
+        },
+        {
+            "course_code": "MGM4993",
+            "course_name": "FINAL YEAR PROJECT II"
+        },
+        {
+            "course_code": "MGM5113",
+            "course_name": "BUSINESS RESEARCH METHODS"
+        },
+        {
+            "course_code": "MGM5123",
+            "course_name": "E-COMMERCE TECHNOLOGY"
+        },
+        {
+            "course_code": "MGM5143",
+            "course_name": "MARKETING MANAGEMENT"
+        },
+        {
+            "course_code": "MGM5303",
+            "course_name": "BUSINESS ETHICS IN CORPORATE GOVERNANCE"
+        },
+        {
+            "course_code": "MGM5543",
+            "course_name": "STRATEGIC HUMAN RESOURCE MANAGEMENT"
+        },
+        {
+            "course_code": "POL3013",
+            "course_name": "INTRODUCTION TO ANTHROPOLOGY AND SOCIOLOGY"
+        },
+        {
+            "course_code": "POL3023",
+            "course_name": "HUMAN DEVELOPMENT AND SOCIAL POLICY"
+        },
+        {
+            "course_code": "POL3033",
+            "course_name": "SUSTAINABLE PLANNING AND DEVELOPMENT"
+        },
+        {
+            "course_code": "POL3042",
+            "course_name": "INTRODUCTION TO STRATEGIC PLANNING"
+        },
+        {
+            "course_code": "POL3053",
+            "course_name": "URBAN SOCIOLOGY"
+        },
+        {
+            "course_code": "POL3063",
+            "course_name": "SOCIOLOGY INDUSTRY"
+        },
+        {
+            "course_code": "POL3113",
+            "course_name": "INTRODUCTION AND PHILOSOPHY OF SOCIAL SCIENCES"
+        },
+        {
+            "course_code": "POL3123",
+            "course_name": "INTRODUCTION TO PUBLIC POLICY MANAGEMENT"
+        },
+        {
+            "course_code": "POL3133",
+            "course_name": "INTRODUCTION TO POLITICAL SCIENCE"
+        },
+        {
+            "course_code": "POL3213",
+            "course_name": "INTRODUCTION TO COMMUNITY MANAGEMENT"
+        },
+        {
+            "course_code": "POL3223",
+            "course_name": "THEORIES OF PUBLIC ADMINISTRATION"
+        },
+        {
+            "course_code": "POL3233",
+            "course_name": "PUBLIC POLICY MAKING"
+        },
+        {
+            "course_code": "POL3313",
+            "course_name": "PUBLIC ADMINISTRATIVE ETHICS"
+        },
+        {
+            "course_code": "POL3323",
+            "course_name": "INTRODUCTION TO SOCIAL SCIENCE METHODS"
+        },
+        {
+            "course_code": "POL3413",
+            "course_name": "HUMAN CAPITAL MANAGEMENT"
+        },
+        {
+            "course_code": "POL3414",
+            "course_name": "STATISTIC AND DATA ANALYSIS"
+        },
+        {
+            "course_code": "POL3423",
+            "course_name": "COMPARATIVE PUBLIC POLICY"
+        },
+        {
+            "course_code": "POL4013",
+            "course_name": "PUBLIC POLICY IMPLEMENTATION"
+        },
+        {
+            "course_code": "POL4023",
+            "course_name": "DEMOGRAPHY AND POPULATION DYNAMICS"
+        },
+        {
+            "course_code": "POL4033",
+            "course_name": "SOCIAL IMPACT ASSESSMENT"
+        },
+        {
+            "course_code": "POL4043",
+            "course_name": "SOCIAL CHANGE AND DEVELOPMENT"
+        },
+        {
+            "course_code": "POL4053",
+            "course_name": "POPULATION POLICY AND MALAYSIAN DEMOGRAPHIC"
+        },
+        {
+            "course_code": "POL4513",
+            "course_name": "INTERNATIONAL RELATIONS"
+        },
+        {
+            "course_code": "POL4524",
+            "course_name": "PUBLIC POLICY ANALYSIS"
+        },
+        {
+            "course_code": "POL4613",
+            "course_name": "EVALUATION AND MONITORING PROGRAMME"
+        },
+        {
+            "course_code": "POL4623",
+            "course_name": "COMMUNITY AND GOVERNANCE SYSTEM ASEAN"
+        },
+        {
+            "course_code": "POL4633",
+            "course_name": "ENVIRONMENTAL MANAGEMENT AND POLICY IN MALAYSIA"
+        },
+        {
+            "course_code": "POL4643",
+            "course_name": "POLITICAL ECONOMY"
+        },
+        {
+            "course_code": "POL4978",
+            "course_name": "INDUSTRIAL TRAINING"
+        },
+        {
+            "course_code": "POL4983",
+            "course_name": "FINAL YEAR PROJECT 1"
+        },
+        {
+            "course_code": "POL4993",
+            "course_name": "FINAL YEAR PROJECT II"
+        },
+        {
+            "course_code": "TOU 4113",
+            "course_name": "INTRODUCTION TO TOURISM"
+        },
+        {
+            "course_code": "TOU4012",
+            "course_name": "TOURISM INDUSTRY IN MALAYSIA "
+        },
+        {
+            "course_code": "TOU4012E",
+            "course_name": "TOURISM INDUSTRY IN MALAYSIA  (MOOC)"
+        },
+        {
+            "course_code": "TOU4022",
+            "course_name": "TRANSPORTATION TOURISM"
+        },
+        {
+            "course_code": "TOU4032",
+            "course_name": "OUTDOOR RECREATIONAL TOURISM"
+        },
+        {
+            "course_code": "TOU4042",
+            "course_name": "FRONT OFFICE MANAGEMENT"
+        },
+        {
+            "course_code": "TOU4052",
+            "course_name": "INTRODUCTION TO FOOD SERVICE MANAGEMENT"
+        },
+        {
+            "course_code": "TOU4133",
+            "course_name": "COMPUTER RESERVATION SYSTEM"
+        },
+        {
+            "course_code": "TOU4143",
+            "course_name": "HUMAN RESOURCE MANAGEMENT"
+        },
+        {
+            "course_code": "TOU4213",
+            "course_name": "TOURIST BEHAVIOR"
+        },
+        {
+            "course_code": "TOU4223",
+            "course_name": "TOURISM RESEARCH "
+        },
+        {
+            "course_code": "TOU4233",
+            "course_name": "PARK AND RECREATION MANAGEMENT"
+        },
+        {
+            "course_code": "TOU4243",
+            "course_name": "INTERNATIONAL TOURISM"
+        },
+        {
+            "course_code": "TOU4253",
+            "course_name": "TOURISM GEOGRAPHY"
+        },
+        {
+            "course_code": "TOU4263",
+            "course_name": "TOURISM OPERATION MANAGEMENT"
+        },
+        {
+            "course_code": "TOU4273",
+            "course_name": "TOURISM AND HOSPITALITY LAW"
+        },
+        {
+            "course_code": "TOU4313",
+            "course_name": "CULTURE AND HERITAGE TOURISM"
+        },
+        {
+            "course_code": "TOU4323",
+            "course_name": "TOURISM PRODUCT DEVELOPMENT"
+        },
+        {
+            "course_code": "TOU4333",
+            "course_name": "MEETING INCENTIVE CONFERENCE AND EVENTS "
+        },
+        {
+            "course_code": "TOU4343",
+            "course_name": "ISLAND AND COASTAL PLANNING AND DEVELOPMENT"
+        },
+        {
+            "course_code": "TOU49712",
+            "course_name": "INDUSTRIAL TRAINING"
+        },
+        {
+            "course_code": "TOU4983",
+            "course_name": "FINAL YEAR PROJECT 1"
+        },
+        {
+            "course_code": "TOU4993",
+            "course_name": "FINAL YEAR PROJECT II"
+        }
+    ],
+    "FAKULTI SAINS DAN SEKITARAN MARIN": [
+        {
+            "course_code": "AEC3003",
+            "course_name": "PENGURUSAN DAN KESELAMATAN BAHAN KIMIA"
+        },
+        {
+            "course_code": "AEC3012",
+            "course_name": "AMALI KIMIA ASAS"
+        },
+        {
+            "course_code": "AEC3022",
+            "course_name": "KEMOMETRI ASAS"
+        },
+        {
+            "course_code": "AEC3032",
+            "course_name": "KAEDAH PENYELIDIKAN DALAM SAINS KIMIA"
+        },
+        {
+            "course_code": "AEC3102",
+            "course_name": "KIMIA FIZIKAL ASAS"
+        },
+        {
+            "course_code": "AEC3111",
+            "course_name": "AMALI KIMIA FIZIKAL"
+        },
+        {
+            "course_code": "AEC3123",
+            "course_name": "KIMIA FIZIKAL"
+        },
+        {
+            "course_code": "AEC3202",
+            "course_name": "KIMIA ORGANIK ASAS"
+        },
+        {
+            "course_code": "AEC3223",
+            "course_name": "PENENTUAN STRUKTUR SEBATIAN KIMIA"
+        },
+        {
+            "course_code": "AEC3302",
+            "course_name": "KIMIA TAK ORGANIK ASAS"
+        },
+        {
+            "course_code": "AEC3311",
+            "course_name": "AMALI KIMIA TAK ORGANIK"
+        },
+        {
+            "course_code": "AEC3323",
+            "course_name": "KIMIA TAK ORGANIK"
+        },
+        {
+            "course_code": "AEC3402",
+            "course_name": "KIMIA ANALISIS ASAS"
+        },
+        {
+            "course_code": "AEC3423",
+            "course_name": "TEKNIK SPEKTROSKOPI DALAM KIMIA ANALISIS"
+        },
+        {
+            "course_code": "AEC3433",
+            "course_name": "TEKNIK PEMISAHAN DALAM KIMIA ANALISIS"
+        },
+        {
+            "course_code": "AEC3443",
+            "course_name": "TEKNIK ELEKTROKIMIA DAN TERMAL DALAM KIMIA ANALISIS"
+        },
+        {
+            "course_code": "AEC3703",
+            "course_name": "KIMIA ALAM SEKITAR"
+        },
+        {
+            "course_code": "AEC3723",
+            "course_name": "KIMIA ALAM SEKITAR LANJUTAN"
+        },
+        {
+            "course_code": "AEC3733",
+            "course_name": "PENGENALAN ANALISIS ALAM SEKITAR"
+        },
+        {
+            "course_code": "AEC4133",
+            "course_name": "ASAS DAN APLIKASI KIMIA KOLOID"
+        },
+        {
+            "course_code": "AEC4143 ",
+            "course_name": "KIMIA HIJAU"
+        },
+        {
+            "course_code": "AEC4153",
+            "course_name": "INSTRUMENTASI ANALISIS PERMUKAAN"
+        },
+        {
+            "course_code": "AEC4163",
+            "course_name": "OLEOKIMIA"
+        },
+        {
+            "course_code": "AEC4233",
+            "course_name": "TRANSFORMASI KUMPULAN BERFUNGSI"
+        },
+        {
+            "course_code": "AEC4433",
+            "course_name": "TEKNIK PEMISAHAN LANJUTAN DALAM KIMIA ANALISIS"
+        },
+        {
+            "course_code": "AEC4443",
+            "course_name": "ELEKTROANALISIS"
+        },
+        {
+            "course_code": "AEC4453",
+            "course_name": "KIMIA FORENSIK"
+        },
+        {
+            "course_code": "AEC4743",
+            "course_name": "KIMIA ALAM SEKITAR: TAJUK KHAS"
+        },
+        {
+            "course_code": "AEC4753",
+            "course_name": "SISTEM PENGURUSAN ALAM SEKITAR"
+        },
+        {
+            "course_code": "AEC4763",
+            "course_name": "ANALISIS SURIH ALAM SEKITAR"
+        },
+        {
+            "course_code": "AEC4773",
+            "course_name": "APLIKASI ANALISIS SURIH ALAM SEKITAR"
+        },
+        {
+            "course_code": "AEC4783",
+            "course_name": "TEKNOLOGI RAWATAN AIR DAN AIR SISA"
+        },
+        {
+            "course_code": "AEC4793",
+            "course_name": "PENILAIAN KESAN ALAM SEKITAR: PROSES DAN PROSEDUR"
+        },
+        {
+            "course_code": "AEC4978",
+            "course_name": "LATIHAN INDUSTRI"
+        },
+        {
+            "course_code": "AEC4982",
+            "course_name": "PROJEK ILMIAH TAHUN AKHIR I"
+        },
+        {
+            "course_code": "AEC4994",
+            "course_name": "PROJEK ILMIAH TAHUN AKHIR II"
+        },
+        {
+            "course_code": "BDY3003",
+            "course_name": "TAKSONOMI DAN SISTEMATIK ORGANISMA"
+        },
+        {
+            "course_code": "BDY3014",
+            "course_name": "KEPELBAGAIAN TUMBUHAN"
+        },
+        {
+            "course_code": "BDY3023 ",
+            "course_name": "KEPELBAGAIAN INVERTEBRATA"
+        },
+        {
+            "course_code": "BDY3033 ",
+            "course_name": "KEPELBAGAIAN VERTEBRATA"
+        },
+        {
+            "course_code": "BDY3043",
+            "course_name": "SAINS TANAH"
+        },
+        {
+            "course_code": "BDY3053 ",
+            "course_name": "MIKOLOGI"
+        },
+        {
+            "course_code": "BDY3063",
+            "course_name": "KEPELBAGAIAN MIKROORGANISMA"
+        },
+        {
+            "course_code": "BDY3074",
+            "course_name": "PRINSIP EKOLOGI"
+        },
+        {
+            "course_code": "BDY3083",
+            "course_name": " EKOLOGI POPULASI DAN KOMUNITI"
+        },
+        {
+            "course_code": "BDY3094 ",
+            "course_name": "EKOLOGI DAN BIOLOGI LAPANGAN"
+        },
+        {
+            "course_code": "BDY3103 ",
+            "course_name": "BIOLOGI PEMULIHARAAN"
+        },
+        {
+            "course_code": "BDY3113",
+            "course_name": "PENGURUSAN HIDUPAN LIAR"
+        },
+        {
+            "course_code": "BDY3123",
+            "course_name": "EKOSISTEM TROPIKA"
+        },
+        {
+            "course_code": "BDY3133 ",
+            "course_name": "PENILAIAN SUMBER BIODIVERSITI"
+        },
+        {
+            "course_code": "BDY3143 ",
+            "course_name": "PENGURUSAN HUTAN DAN SUMBER HUTAN"
+        },
+        {
+            "course_code": "BDY3153 ",
+            "course_name": "PEMULIHARAAN HAIWAN EX-SITU"
+        },
+        {
+            "course_code": "BDY4003 ",
+            "course_name": "ANALISIS DATA BIODIVERSITI"
+        },
+        {
+            "course_code": "BDY4013",
+            "course_name": "BIOLOGI DAN SISTEMATIK SERANGGA"
+        },
+        {
+            "course_code": "BDY4023 ",
+            "course_name": "DENDROLOGI"
+        },
+        {
+            "course_code": "BDY4033 ",
+            "course_name": "KELAKUAN HAIWAN"
+        },
+        {
+            "course_code": "BDY4043",
+            "course_name": "BRIOLOGI"
+        },
+        {
+            "course_code": "BDY4053",
+            "course_name": "ETNOFARMAKOGNASI"
+        },
+        {
+            "course_code": "BDY4063",
+            "course_name": "GENETIK EKOLOGI"
+        },
+        {
+            "course_code": "BDY4073",
+            "course_name": " ETNOBOTANI"
+        },
+        {
+            "course_code": "BDY4083 ",
+            "course_name": "PENGURUSAN LEGEH DAN HUTAN REKREASI"
+        },
+        {
+            "course_code": "BDY4093",
+            "course_name": " PERANCANGAN GUNA TANAH"
+        },
+        {
+            "course_code": "BDY4103 ",
+            "course_name": "BIOLOGI DAN PENGURUSAN SERANGGA PEROSAK"
+        },
+        {
+            "course_code": "BDY4978 ",
+            "course_name": "LATIHAN INDUSTRI"
+        },
+        {
+            "course_code": "BDY4983 ",
+            "course_name": "PITA I"
+        },
+        {
+            "course_code": "BDY4995 ",
+            "course_name": "PITA II"
+        },
+        {
+            "course_code": "BIS3003",
+            "course_name": "PLANT STRUCTURE AND FUNCTION"
+        },
+        {
+            "course_code": "BIS3013",
+            "course_name": "ANIMAL STRUCTURE AND FUNCTION"
+        },
+        {
+            "course_code": "BIS3023",
+            "course_name": "CELL AND MOLECULAR BIOLOGY"
+        },
+        {
+            "course_code": "BIS3034",
+            "course_name": "BIOKIMIA"
+        },
+        {
+            "course_code": "BIS3044",
+            "course_name": "GENETICS"
+        },
+        {
+            "course_code": "BIS3053",
+            "course_name": "CELL AND TISSUE CULTURE"
+        },
+        {
+            "course_code": "BIS3063",
+            "course_name": "BASIC MICROBIOLOGY"
+        },
+        {
+            "course_code": "BIS3074",
+            "course_name": "DEVELOPMENTAL BIOLOGY"
+        },
+        {
+            "course_code": "BIS3083",
+            "course_name": "PLANT PHYSIOLOGY"
+        },
+        {
+            "course_code": "BIS3093",
+            "course_name": "ANIMAL PHYSIOLOGY"
+        },
+        {
+            "course_code": "BIS3103",
+            "course_name": "RESEARCH METHODOLOGY IN BIOLOGY"
+        },
+        {
+            "course_code": "BIS3113",
+            "course_name": "SCIENTIFIC WRITING IN BIOLOGY"
+        },
+        {
+            "course_code": "BIS3123",
+            "course_name": "BIOMETRI"
+        },
+        {
+            "course_code": "BIS3134",
+            "course_name": "RECOMBINANT DNA TECHNOLOGY"
+        },
+        {
+            "course_code": "BIS3143",
+            "course_name": "ADVANCED MICROBIOLOGY"
+        },
+        {
+            "course_code": "BIS3153",
+            "course_name": "VIROLOGY"
+        },
+        {
+            "course_code": "BIS4012",
+            "course_name": "CONTEMPORARY ISSUES IN BIOLOGY"
+        },
+        {
+            "course_code": "BIS4023",
+            "course_name": "CELL SIGNALING"
+        },
+        {
+            "course_code": "BIS4043",
+            "course_name": "MARINE NATURAL PRODUCT"
+        },
+        {
+            "course_code": "BIS4053",
+            "course_name": "INDUSTRIAL BIOTECHNOLOGY"
+        },
+        {
+            "course_code": "BIS4063",
+            "course_name": "ENZYME TECHNOLOGY"
+        },
+        {
+            "course_code": "BIS4073",
+            "course_name": "APPLIED PLANT BIOTECHNOLOGY"
+        },
+        {
+            "course_code": "BIS4083",
+            "course_name": "PROTOZOOLOGY"
+        },
+        {
+            "course_code": "BIS4093",
+            "course_name": "PLANT GROWTH REGULATORS"
+        },
+        {
+            "course_code": "BIS4103",
+            "course_name": "IMMUNOLOGY"
+        },
+        {
+            "course_code": "BIS4112",
+            "course_name": "BIOENTRERPRENEURSHIP"
+        },
+        {
+            "course_code": "BIS4123",
+            "course_name": "ECOLOGICAL BIOCHEMISTRY"
+        },
+        {
+            "course_code": "BIS4131-E",
+            "course_name": "DENGUE AND ZIKA - GLOBAL HEALTH THREATS (DENGGI DAN ZIKA - ANCAMAN KESIHATAN GLOBAL)"
+        },
+        {
+            "course_code": "BIS49710",
+            "course_name": "INDUSTRIAL TRAINING"
+        },
+        {
+            "course_code": "BIS4983",
+            "course_name": "FINAL YEAR RESEARCH PROJECT I"
+        },
+        {
+            "course_code": "BIS4995",
+            "course_name": "FINAL YEAR RESEARCH PROJECT II"
+        },
+        {
+            "course_code": "CHM3002",
+            "course_name": "PENGURUSAN DAN KESELAMATAN BAHAN KIMIA "
+        },
+        {
+            "course_code": "CHM3012",
+            "course_name": "AMALI KIMIA ASAS"
+        },
+        {
+            "course_code": "CHM3032",
+            "course_name": "KAEDAH PENYELIDIKAN DALAM SAINS KIMIA"
+        },
+        {
+            "course_code": "CHM3042",
+            "course_name": "AMALI KIMIA ORGANIK DAN ANALISIS"
+        },
+        {
+            "course_code": "CHM3052",
+            "course_name": "PRINSIP KIMIA ANALISIS"
+        },
+        {
+            "course_code": "CHM3062",
+            "course_name": "PRINSIP KIMIA FIZIK"
+        },
+        {
+            "course_code": "CHM3072",
+            "course_name": "PRINSIP KIMIA ORGANIK"
+        },
+        {
+            "course_code": "CHM3102",
+            "course_name": "KIMIA FIZIK ASAS"
+        },
+        {
+            "course_code": "CHM3111",
+            "course_name": "AMALI KIMIA FIZIK"
+        },
+        {
+            "course_code": "CHM3123",
+            "course_name": "KIMIA FIZIK"
+        },
+        {
+            "course_code": "CHM3133",
+            "course_name": "KIMIA KOLOID"
+        },
+        {
+            "course_code": "CHM3202",
+            "course_name": "KIMIA ORGANIK ASAS"
+        },
+        {
+            "course_code": "CHM3211",
+            "course_name": "AMALI KIMIA ORGANIK"
+        },
+        {
+            "course_code": "CHM3223",
+            "course_name": "MEKANISMA DALAM KIMIA ORGANIK "
+        },
+        {
+            "course_code": "CHM3233",
+            "course_name": "KIMIA SEBATIAN KARBONIL "
+        },
+        {
+            "course_code": "CHM3243",
+            "course_name": "PENENTUAN STRUKTUR SEBATIAN KIMIA"
+        },
+        {
+            "course_code": "CHM3252",
+            "course_name": "KIMIA SEBATIAN SEMULAJADI"
+        },
+        {
+            "course_code": "CHM3261",
+            "course_name": "APLIKASI KIMIA ORGANIK"
+        },
+        {
+            "course_code": "CHM3302",
+            "course_name": "KIMIA TAK ORGANIK ASAS"
+        },
+        {
+            "course_code": "CHM3311",
+            "course_name": "AMALI KIMIA TAK ORGANIK"
+        },
+        {
+            "course_code": "CHM3323",
+            "course_name": "KIMIA TAK ORGANIK"
+        },
+        {
+            "course_code": "CHM3333",
+            "course_name": "KIMIA KOORDINATAN"
+        },
+        {
+            "course_code": "CHM3342",
+            "course_name": "KIMIA ORGANOLOGAM PERALIHAN"
+        },
+        {
+            "course_code": "CHM3402",
+            "course_name": "KIMIA ANALISIS"
+        },
+        {
+            "course_code": "CHM3424",
+            "course_name": "KIMIA INSTRUMENTASI"
+        },
+        {
+            "course_code": "CHM3513",
+            "course_name": "KIMIA POLIMER"
+        },
+        {
+            "course_code": "CHM4113",
+            "course_name": "KIMIA KUANTUM"
+        },
+        {
+            "course_code": "CHM4123",
+            "course_name": "KIMIA PERMUKAAN"
+        },
+        {
+            "course_code": "CHM4133",
+            "course_name": "ELEKTROKIMIA"
+        },
+        {
+            "course_code": "CHM4143",
+            "course_name": "SPEKTROSKOPI MOLEKUL"
+        },
+        {
+            "course_code": "CHM4213",
+            "course_name": "KIMIA HETEROSIKLIK"
+        },
+        {
+            "course_code": "CHM4223",
+            "course_name": "KIMIA LIPID"
+        },
+        {
+            "course_code": "CHM4233",
+            "course_name": "KIMIA ORGANIK FIZIK"
+        },
+        {
+            "course_code": "CHM4242",
+            "course_name": "KIMIA BIOMOLEKUL"
+        },
+        {
+            "course_code": "CHM4253",
+            "course_name": "KIMIA ORGANIK SINTESIS"
+        },
+        {
+            "course_code": "CHM4313",
+            "course_name": "KIMIA ORGANOLOGAM PERALIHAN LANJUTAN"
+        },
+        {
+            "course_code": "CHM4323",
+            "course_name": "KIMIA KOORDINATAN LANJUTAN"
+        },
+        {
+            "course_code": "CHM4333",
+            "course_name": "KIMIA KLUSTER"
+        },
+        {
+            "course_code": "CHM4343",
+            "course_name": "KIMIA FULLERENA"
+        },
+        {
+            "course_code": "CHM4353",
+            "course_name": "KIMIA KEADAAN PEPEJAL"
+        },
+        {
+            "course_code": "CHM4513",
+            "course_name": "KIMIA POLIMER INDUSTRI"
+        },
+        {
+            "course_code": "CHM4523",
+            "course_name": "KIMIA CAT DAN PENGLITUP"
+        },
+        {
+            "course_code": "CHM4533",
+            "course_name": "KIMIA BAHAN INDUSTRI"
+        },
+        {
+            "course_code": "CHM4543",
+            "course_name": "KIMIA SERAMIK"
+        },
+        {
+            "course_code": "CHM4553",
+            "course_name": "TEKNIK ANALISIS PERMUKAAN"
+        },
+        {
+            "course_code": "CHM4563",
+            "course_name": "PETROKIMIA"
+        },
+        {
+            "course_code": "CHM4573",
+            "course_name": "KIMIA SINTETIK DAN APLIKASI"
+        },
+        {
+            "course_code": "CHM4583",
+            "course_name": "KIMIA KOSMETIK"
+        },
+        {
+            "course_code": "CHM49710",
+            "course_name": "LATIHAN INDUSTRI"
+        },
+        {
+            "course_code": "CHM4982",
+            "course_name": "PROJEK ILMIAH TAHUN AKHIR I"
+        },
+        {
+            "course_code": "CHM4994",
+            "course_name": "PROJEK ILMIAH TAHUN AKHIR II"
+        },
+        {
+            "course_code": "MGS3003",
+            "course_name": "ASAS BUMI"
+        },
+        {
+            "course_code": "MGS3023",
+            "course_name": "GEOMORFOLOGI"
+        },
+        {
+            "course_code": "MGS3033",
+            "course_name": "PALEONTOLOGI"
+        },
+        {
+            "course_code": "MGS3043",
+            "course_name": "GEOTEKTONIK DAN STRUKTUR"
+        },
+        {
+            "course_code": "MGS3053",
+            "course_name": "GEOKRONOLOGI DAN STRATIGRAFI"
+        },
+        {
+            "course_code": "MGS3063",
+            "course_name": "SEDIMENTOLOGI"
+        },
+        {
+            "course_code": "MGS3073",
+            "course_name": "GEOLOGI MALAYSIA DAN ASIA TENGGARA"
+        },
+        {
+            "course_code": "MGS3083",
+            "course_name": "GEOBIOLOGI"
+        },
+        {
+            "course_code": "MGS3093",
+            "course_name": "GEOLOGI WARISAN"
+        },
+        {
+            "course_code": "MGS3103",
+            "course_name": "HIDROGEOLOGI"
+        },
+        {
+            "course_code": "MGS3113",
+            "course_name": "GEOBENCANA"
+        },
+        {
+            "course_code": "MGS3123",
+            "course_name": "SAINS PESISIR PANTAI"
+        },
+        {
+            "course_code": "MGS3133",
+            "course_name": "SUMBER DASAR LAUT"
+        },
+        {
+            "course_code": "MGS3203",
+            "course_name": "GEOFIZIK EKPLORASI"
+        },
+        {
+            "course_code": "MGS3213",
+            "course_name": "GEOKIMIA MARIN"
+        },
+        {
+            "course_code": "MGS3223",
+            "course_name": "SURVEI DAN EKSPLORASI DASAR LAUTAN"
+        },
+        {
+            "course_code": "MGS3233",
+            "course_name": "GEOLOGI PETROLEUM"
+        },
+        {
+            "course_code": "MGS3273",
+            "course_name": "PALEOIKLIM DAN PERUBAHAN ARAS LAUT"
+        },
+        {
+            "course_code": "MGS3303",
+            "course_name": "GEOSTATISTIK DAN ANALISIS DATA GEOLOGI"
+        },
+        {
+            "course_code": "MGS3313",
+            "course_name": "PENGENALAN KEPADA PENDERIAAN JAUH"
+        },
+        {
+            "course_code": "MGS3323",
+            "course_name": "ASAS SISTEM MAKLUMAT GEOGRAFI"
+        },
+        {
+            "course_code": "MGS3333",
+            "course_name": "PEMETAAN GEOLOGI"
+        },
+        {
+            "course_code": "MGS3694",
+            "course_name": "KERJA LAPANGAN GEOSAINS MARIN 2"
+        },
+        {
+            "course_code": "MGS3963",
+            "course_name": "KERJA LAPANGAN GEOSAINS 1"
+        },
+        {
+            "course_code": "MGS3983",
+            "course_name": "PROJEK ILMIAH TAHUN AKHIR I"
+        },
+        {
+            "course_code": "MGS4978",
+            "course_name": "LATIHAN INDUSTRI"
+        },
+        {
+            "course_code": "MGS4995",
+            "course_name": "PROJEK ILMIAH TAHUN AKHIR II"
+        },
+        {
+            "course_code": "MMB3113",
+            "course_name": "STATISTIK DAN PENGENDALIAN DATA BIOLOGI"
+        },
+        {
+            "course_code": "MMB3123",
+            "course_name": "KAEDAH DAN INSTRUMENTASI BIOLOGI MARIN"
+        },
+        {
+            "course_code": "MMB3133",
+            "course_name": "PENULISAN SAINTIFIK DAN KOMUNIKASI DALAM BIOLOGI MARIN"
+        },
+        {
+            "course_code": "MMB3143",
+            "course_name": "SELAMAN UNTUK PENYELIDIKAN BIOLOGI MARIN"
+        },
+        {
+            "course_code": "MMB3213",
+            "course_name": "KEHIDUPAN DAN LAUTAN"
+        },
+        {
+            "course_code": "MMB3223",
+            "course_name": "PENGURUSAN DAN PEMULIHARAAN BIODIVERSITI MARIN"
+        },
+        {
+            "course_code": "MMB3234",
+            "course_name": "PENDEKATAN PENGURUSAN DAN PENILAIAN ALAM SEKITAR"
+        },
+        {
+            "course_code": "MMB3243",
+            "course_name": "EKOLOGI MUARA DAN BAKAU"
+        },
+        {
+            "course_code": "MMB3253",
+            "course_name": "PRINSIP EKOLOGI MARIN"
+        },
+        {
+            "course_code": "MMB3263",
+            "course_name": "BIOLOGI LAUTAN DAN KESIHATAN MANUSIA"
+        },
+        {
+            "course_code": "MMB3323",
+            "course_name": "PLANKTONOLOGI"
+        },
+        {
+            "course_code": "MMB3333",
+            "course_name": "BIOLOGI INVERTEBRAT MARIN"
+        },
+        {
+            "course_code": "MMB3343",
+            "course_name": "EKOLOGI DAN BIOLOGI TERUMBU KARANG"
+        },
+        {
+            "course_code": "MMB3353",
+            "course_name": "PENYAKIT DAN PARASITOLOGI ORGANISMA MARIN"
+        },
+        {
+            "course_code": "MMB3363",
+            "course_name": "BIOLOGI DAN EKOLOGI IKAN MARIN"
+        },
+        {
+            "course_code": "MMB3373",
+            "course_name": "BIOLOGI VERTEBRATA MARIN"
+        },
+        {
+            "course_code": "MMB3413",
+            "course_name": "KEPELBAGAIAN MIKROB MARIN"
+        },
+        {
+            "course_code": "MMB3423",
+            "course_name": "PENGELUAR PRIMER MARIN"
+        },
+        {
+            "course_code": "MMB3432",
+            "course_name": "PRINSIP BIOKIMIA MARIN"
+        },
+        {
+            "course_code": "MMB3442",
+            "course_name": "BLUM ORGANISMA MARIN"
+        },
+        {
+            "course_code": "MMB3453",
+            "course_name": "BIOLOGI KARBON BIRU"
+        },
+        {
+            "course_code": "MMB3463",
+            "course_name": "PENGKELASAN BIOLOGI ORGANISMA MARIN"
+        },
+        {
+            "course_code": "MMB3472",
+            "course_name": "KEMIMIKAN BIOLOGI LAUTAN"
+        },
+        {
+            "course_code": "MMB3513",
+            "course_name": "PENGENALAN KEPADA BIOTEKNOLOGI MARIN"
+        },
+        {
+            "course_code": "MMB3523",
+            "course_name": "ASAS GENOMIK DAN PROTEOMIK MARIN"
+        },
+        {
+            "course_code": "MMB3613",
+            "course_name": "OSEANOGRAFI FIZIKAL DAN GEOLOGI"
+        },
+        {
+            "course_code": "MMB3964",
+            "course_name": "KERJA LAPANGAN BIOLOGI MARIN"
+        },
+        {
+            "course_code": "MMB4978",
+            "course_name": "LATIHAN INDUSTRI"
+        },
+        {
+            "course_code": "MMB4983",
+            "course_name": "PROJEK TAHUN AKHIR I"
+        },
+        {
+            "course_code": "MMB4995",
+            "course_name": "PROJEK TAHUN AKHIR II"
+        },
+        {
+            "course_code": "MMS3003",
+            "course_name": "ALAM SEKITAR - ISU DAN PERSPEKTIF GLOBAL"
+        },
+        {
+            "course_code": "MMS3033",
+            "course_name": "ALAM SEKITAR DAN MANUSIA"
+        },
+        {
+            "course_code": "MMS3043",
+            "course_name": "SAINS ALAM SEKITAR"
+        },
+        {
+            "course_code": "MMS3053",
+            "course_name": "PENCEMARAN PERSEKITARAN"
+        },
+        {
+            "course_code": "MMS3063",
+            "course_name": "PENILAIAN KESAN ALAM SEKITAR"
+        },
+        {
+            "course_code": "MMS3103",
+            "course_name": "LAUTAN, ATMOSFERA DAN IKLIM"
+        },
+        {
+            "course_code": "MMS3113",
+            "course_name": "OSEANOGRAFI FIZIKAL"
+        },
+        {
+            "course_code": "MMS3123",
+            "course_name": "DINAMIK PINGGIR LAUT DAN MUARA"
+        },
+        {
+            "course_code": "MMS3203",
+            "course_name": "PENCEMARAN MARIN"
+        },
+        {
+            "course_code": "MMS3213",
+            "course_name": "PENCEMARAN AKUATIK"
+        },
+        {
+            "course_code": "MMS3223",
+            "course_name": "OSEANOGRAFI KIMIA"
+        },
+        {
+            "course_code": "MMS3233",
+            "course_name": "BIOGEOKIMIA MARIN"
+        },
+        {
+            "course_code": "MMS3243",
+            "course_name": "TOKSIKOLOGI SEKITARAN"
+        },
+        {
+            "course_code": "MMS3303",
+            "course_name": "EKOSISTEM MARIN: INTERAKSI DAN MODEL"
+        },
+        {
+            "course_code": "MMS3323",
+            "course_name": "PRODUKTIVITI MARIN"
+        },
+        {
+            "course_code": "MMS3333",
+            "course_name": "OSEANOGRAFI BIOLOGI"
+        },
+        {
+            "course_code": "MMS3343",
+            "course_name": "BIOLOGI PERUBAHAN IKLIM"
+        },
+        {
+            "course_code": "MMS3353",
+            "course_name": "PERUBAHAN IKLIM DAN TERUMBU KARANG"
+        },
+        {
+            "course_code": "MMS3413",
+            "course_name": "MORFOLOGI DAN PENGURUSAN PESISIRAN PANTAI"
+        },
+        {
+            "course_code": "MMS3443",
+            "course_name": "OSEANOGRAFI GEOLOGI"
+        },
+        {
+            "course_code": "MMS3503",
+            "course_name": "SISTEM MAKLUMAT GEOGRAFI"
+        },
+        {
+            "course_code": "MMS3513",
+            "course_name": "METEOROLOGI"
+        },
+        {
+            "course_code": "MMS3523",
+            "course_name": "OSEANOGRAFI SATELIT"
+        },
+        {
+            "course_code": "MMS3553",
+            "course_name": "PENDERIAAN JAUH DAN GIS"
+        },
+        {
+            "course_code": "MMS3603",
+            "course_name": "PENGENALAN SAINS MARIN"
+        },
+        {
+            "course_code": "MMS3613",
+            "course_name": "KAEDAH DAN INSTUMENTASI AKUATIK"
+        },
+        {
+            "course_code": "MMS3623",
+            "course_name": "PENGURUSAN SUMBER MARIN"
+        },
+        {
+            "course_code": "MMS3633",
+            "course_name": "PENDEKATAN PENGURUSAN DAN POLISI MARIN"
+        },
+        {
+            "course_code": "MMS3643",
+            "course_name": "PENULISAN SAINTIFIK DAN KOMUNIKASI DALAM SAINS MARIN"
+        },
+        {
+            "course_code": "MMS3653",
+            "course_name": "ANALISIS DATA SAINTIFIK MARIN"
+        },
+        {
+            "course_code": "MMS3663",
+            "course_name": "ASAS SAINS MARIN"
+        },
+        {
+            "course_code": "MMS3963",
+            "course_name": "KERJA LAPANGAN SEKITARAN MARIN"
+        },
+        {
+            "course_code": "MMS4978",
+            "course_name": "LATIHAN INDUSTRI"
+        },
+        {
+            "course_code": "MMS4983",
+            "course_name": "PROJEK ILMIAH TAHUN AKHIR I"
+        },
+        {
+            "course_code": "MMS4995",
+            "course_name": "PROJEK ILMIAH TAHUN AKHIR II"
+        },
+        {
+            "course_code": "QFZ3012",
+            "course_name": "MEKANIK KLASIK"
+        },
+        {
+            "course_code": "QFZ3022",
+            "course_name": "FIZIK GELOMBANG DAN OPTIK"
+        },
+        {
+            "course_code": "QFZ3032",
+            "course_name": "FIZIK ELEKTRIK DAN MAGNET"
+        },
+        {
+            "course_code": "QFZ3042",
+            "course_name": "TEKNIK SAINS FIZIK"
+        },
+        {
+            "course_code": "QFZ3052",
+            "course_name": "FIZIK TERMA"
+        },
+        {
+            "course_code": "QFZ3063",
+            "course_name": "KAEDAH BERANGKA DAN FIZIK KOMPUTASI"
+        },
+        {
+            "course_code": "QFZ3073",
+            "course_name": "SAINS KEADAAN PEPEJAL"
+        },
+        {
+            "course_code": "QFZ3083",
+            "course_name": "TEKNIK NANOFIZIK 1"
+        },
+        {
+            "course_code": "QFZ3093",
+            "course_name": "TEKNIK NANOFIZIK 2"
+        },
+        {
+            "course_code": "QFZ3113",
+            "course_name": "FIZIK MARIN"
+        },
+        {
+            "course_code": "QFZ3123",
+            "course_name": "FIZIK NANOBAHAN"
+        },
+        {
+            "course_code": "QFZ3133",
+            "course_name": "KAEDAH PENYELIDIKAN FIZIK"
+        },
+        {
+            "course_code": "QFZ3143",
+            "course_name": "FIZIK KUANTUM"
+        },
+        {
+            "course_code": "QFZ3153",
+            "course_name": "PENGENALAN ELEKTRONIK"
+        },
+        {
+            "course_code": "QFZ3163",
+            "course_name": "FIZIK MATEMATIK"
+        },
+        {
+            "course_code": "QFZ3173",
+            "course_name": "PENGATURCARAAN ASAS UNTUK AHLI FIZIK"
+        },
+        {
+            "course_code": "QFZ3183",
+            "course_name": "FIZIK MODEN"
+        },
+        {
+            "course_code": "QFZ3703",
+            "course_name": "PENGENALAN FIZIK"
+        },
+        {
+            "course_code": "QFZ3713",
+            "course_name": "PENGUKURAN DAN PERALATAN"
+        },
+        {
+            "course_code": "QFZ3723",
+            "course_name": "FIZIK SINARAN"
+        },
+        {
+            "course_code": "QFZ3733",
+            "course_name": "PENGENALAN KEPADA FIZIK MAKANAN"
+        },
+        {
+            "course_code": "QFZ3743",
+            "course_name": "FIZIK ATOM DAN MOLEKUL"
+        },
+        {
+            "course_code": "QFZ3753",
+            "course_name": "AKUSTIK"
+        },
+        {
+            "course_code": "QFZ3763",
+            "course_name": "TEKNOLOGI FILEM NIPIS"
+        },
+        {
+            "course_code": "QFZ3773",
+            "course_name": "SAINS KEADAAN  PEPEJAL LANJUTAN"
+        },
+        {
+            "course_code": "QFZ3783",
+            "course_name": "ELEKTRONIK DIGITAL"
+        },
+        {
+            "course_code": "QFZ3793",
+            "course_name": "SINTESIS DAN FABRIKASI NANOBAHAN"
+        },
+        {
+            "course_code": "QFZ3803",
+            "course_name": "NANOBAHAN TERMAJU"
+        },
+        {
+            "course_code": "QFZ3813",
+            "course_name": "FENOMENA KUANTUM DALAM NANOSTRUKTUR"
+        },
+        {
+            "course_code": "QFZ3823",
+            "course_name": "PERANTI NANOSEMIKONDUKTOR"
+        },
+        {
+            "course_code": "QFZ3833",
+            "course_name": "PEMPROSESAN NANOBAHAN"
+        },
+        {
+            "course_code": "QFZ3843",
+            "course_name": "SISTEM DAN ISYARAT"
+        },
+        {
+            "course_code": "QFZ3853",
+            "course_name": "FABRIKASI NANOPERANTI"
+        },
+        {
+            "course_code": "QFZ3863",
+            "course_name": "INSTRUMENTASI"
+        },
+        {
+            "course_code": "QFZ3873",
+            "course_name": "KAEDAH BERANGKA LANJUTAN"
+        },
+        {
+            "course_code": "QFZ49014-I",
+            "course_name": "PEMBELAJARAN BERASASKAN-KERJA 1"
+        },
+        {
+            "course_code": "QFZ49114-I",
+            "course_name": "PEMBELAJARAN BERASASKAN-KERJA 2"
+        },
+        {
+            "course_code": "QFZ4982",
+            "course_name": "PROJEK ILMIAH TAHUN AKHIR 1"
+        },
+        {
+            "course_code": "QFZ4994",
+            "course_name": "PROJEK ILMIAH TAHUN AKHIR 2"
+        }
+    ],
+    "PUSAT ASASI STEM": [
+        {
+            "course_code": "AEE1513",
+            "course_name": "INTRODUCTION TO ENGINEERING ANG MECHANICS (PENGENALAN KEJURUTERAAN MEKANIK)"
+        },
+        {
+            "course_code": "AEE1613",
+            "course_name": "ENGLISH FOR SPECIAL PURPOSES"
+        },
+        {
+            "course_code": "AHU1713",
+            "course_name": "KEPERIBADIAN ULUL ALBAB"
+        },
+        {
+            "course_code": "AHU1721",
+            "course_name": "HAFAZAN AL-QURAN BERTAJWID I "
+        },
+        {
+            "course_code": "AHU1731",
+            "course_name": "HAFAZAN AL-QURAN BERTAJWID II"
+        },
+        {
+            "course_code": "AMM1413",
+            "course_name": "MATHEMATICS I (MATEMATIK I)"
+        },
+        {
+            "course_code": "AMM1424",
+            "course_name": "MATHEMATICS II (MATEMATIK II)"
+        },
+        {
+            "course_code": "AMM1432",
+            "course_name": "MATHEMATICS III (MATEMATIK III)"
+        },
+        {
+            "course_code": "ASB1115",
+            "course_name": "BIOLOGY I (BIOLOGI I)"
+        },
+        {
+            "course_code": "ASB1124",
+            "course_name": "BIOLOGY II (BIOLOGI II)"
+        },
+        {
+            "course_code": "ASB1132",
+            "course_name": "BIOLOGY III (BIOLOGI III)"
+        },
+        {
+            "course_code": "ASC1215",
+            "course_name": "CHEMISTRY I (KIMIA I)"
+        },
+        {
+            "course_code": "ASC1224",
+            "course_name": "CHEMISTRY II (KIMIA II)"
+        },
+        {
+            "course_code": "ASC1232",
+            "course_name": "CHEMISTRY III (KIMIA III)"
+        },
+        {
+            "course_code": "ASP1315",
+            "course_name": "PHYSICS I (FIZIK I)"
+        },
+        {
+            "course_code": "ASP1324",
+            "course_name": "PHYSICS II (FIZIK II)"
+        },
+        {
+            "course_code": "ASP1332",
+            "course_name": "PHYSICS III (FIZIK III)"
+        }
+    ],
+    "FAKULTI PERIKANAN DAN SAINS MAKANAN": [
+        {
+            "course_code": "AQU2033",
+            "course_name": "PRINSIP AKUAKULTUR"
+        },
+        {
+            "course_code": "AQU2044",
+            "course_name": "PEMAKANAN IKAN I"
+        },
+        {
+            "course_code": "AQU2233",
+            "course_name": "TEKNIK PEMBIAKBAKAAN IKAN"
+        },
+        {
+            "course_code": "AQU2423",
+            "course_name": "PENGURUSAN KUALITI AIR DAN TANAH"
+        },
+        {
+            "course_code": "AQU2434",
+            "course_name": "KESIHATAN IKAN"
+        },
+        {
+            "course_code": "AQU3003",
+            "course_name": "AQUACULTURE ECOSYSTEM"
+        },
+        {
+            "course_code": "AQU3013",
+            "course_name": "PHYSIOCHEMISTRY LIFE SCIENCES"
+        },
+        {
+            "course_code": "AQU3023",
+            "course_name": "AQUATIC BIOLOGY"
+        },
+        {
+            "course_code": "AQU3032",
+            "course_name": "INTRODUCTION TO AQUACULTURE INDUSTRY"
+        },
+        {
+            "course_code": "AQU3043",
+            "course_name": "AQUACULTURE ECONOMICS"
+        },
+        {
+            "course_code": "AQU3214",
+            "course_name": "SEED PRODUCTION TECHNIQUES"
+        },
+        {
+            "course_code": "AQU3223",
+            "course_name": "LIVE FEED CULTURE"
+        },
+        {
+            "course_code": "AQU3233",
+            "course_name": "INTENSIVE FISH CULTURE"
+        },
+        {
+            "course_code": "AQU3243",
+            "course_name": "ORNAMENTAL FISH CULTURE"
+        },
+        {
+            "course_code": "AQU3253",
+            "course_name": "AQUATIC INVERTEBRATE CULTURE"
+        },
+        {
+            "course_code": "AQU3263",
+            "course_name": "PLANKTON CULTURE"
+        },
+        {
+            "course_code": "AQU3273",
+            "course_name": "SEAWEED CULTURE"
+        },
+        {
+            "course_code": "AQU3283",
+            "course_name": "SEEDLING AND NURSING TECHNOLOGY"
+        },
+        {
+            "course_code": "AQU3293",
+            "course_name": "AQUACULTURE PRODUCTION TECHNIQUES"
+        },
+        {
+            "course_code": "AQU3303",
+            "course_name": "GENETIC AND STOCK MANIPULATION"
+        },
+        {
+            "course_code": "AQU3414",
+            "course_name": "AQUACULTURE DESIGN AND SYSTEM II"
+        },
+        {
+            "course_code": "AQU3423",
+            "course_name": "AQUACULTURE SYSTEM AND TECHNOLOGY"
+        },
+        {
+            "course_code": "AQU3433",
+            "course_name": "INTEGRATED AQUACULTURE"
+        },
+        {
+            "course_code": "AQU3443",
+            "course_name": "AQUACULTURE ENGINEERING"
+        },
+        {
+            "course_code": "AQU3454",
+            "course_name": "AQUACULTURE BIOTECHNOLOGY"
+        },
+        {
+            "course_code": "AQU3614",
+            "course_name": "FISH NUTRITION AND FEEDING TECHNOLOGY"
+        },
+        {
+            "course_code": "AQU3623",
+            "course_name": "ADVANCED FISH NUTRITION"
+        },
+        {
+            "course_code": "AQU3814",
+            "course_name": "KESIHATAN ORGANISMA AKUATIK"
+        },
+        {
+            "course_code": "AQU3824",
+            "course_name": "FISH HEALTH MANAGEMENT"
+        },
+        {
+            "course_code": "AQU3833",
+            "course_name": "FISH PARASITOLOGY"
+        },
+        {
+            "course_code": "AQU3843",
+            "course_name": "AQUATIC BACTERIOLOGY"
+        },
+        {
+            "course_code": "AQU4982",
+            "course_name": "FINAL YEAR PROJECT I"
+        },
+        {
+            "course_code": "AQU4994",
+            "course_name": "FINAL YEAR PROJECT II"
+        },
+        {
+            "course_code": "FIS2014",
+            "course_name": "BIOLOGI IKAN"
+        },
+        {
+            "course_code": "FIS2023",
+            "course_name": "BIOLOGI INVERTEBRAT AKUATIK I"
+        },
+        {
+            "course_code": "FIS2024",
+            "course_name": "SAINS PERIKANAN I"
+        },
+        {
+            "course_code": "FIS2053",
+            "course_name": "PENGENALAN KEPADA BIOTEKNOLOGI PERIKANAN"
+        },
+        {
+            "course_code": "FIS2203",
+            "course_name": "APLIKASI KOMPUTER DALAM PERIKANAN"
+        },
+        {
+            "course_code": "FIS2213",
+            "course_name": "STATISTIK GUNAAN PERIKANAN"
+        },
+        {
+            "course_code": "FIS2223",
+            "course_name": "TEKNOLOGI INSTRUMENTASI PERIKANAN"
+        },
+        {
+            "course_code": "FIS2313",
+            "course_name": "KEUSAHAWANAN PERIKANAN"
+        },
+        {
+            "course_code": "FIS2324",
+            "course_name": "PEMPROSESAN DAN PEMASARAN PRODUK PERIKANAN"
+        },
+        {
+            "course_code": "FIS2413",
+            "course_name": "DINAMIK POPULASI IKAN I"
+        },
+        {
+            "course_code": "FIS2443",
+            "course_name": "PENGURUSAN SUMBER PERIKANAN"
+        },
+        {
+            "course_code": "FIS2453",
+            "course_name": "PERIKANAN REKREASI I"
+        },
+        {
+            "course_code": "FIS2463",
+            "course_name": "EKOSISTEM PERIKANAN"
+        },
+        {
+            "course_code": "FIS2511",
+            "course_name": "RENANG DAN KESELAMATAN AIR"
+        },
+        {
+            "course_code": "FIS2976",
+            "course_name": "LATIHAN INDUSTRI"
+        },
+        {
+            "course_code": "FIS3003",
+            "course_name": "BIOLOGI INVERTEBRAT AKUATIK II"
+        },
+        {
+            "course_code": "FIS3013",
+            "course_name": "MIKROBIOLOGI PERSEKITARAN AKUATIK"
+        },
+        {
+            "course_code": "FIS3033",
+            "course_name": "EKOFISIOLOGI ORGANISMA AKUATIK"
+        },
+        {
+            "course_code": "FIS3043",
+            "course_name": "BOTANI AKUATIK"
+        },
+        {
+            "course_code": "FIS3063",
+            "course_name": "OSEANOGRAFI PERIKANAN"
+        },
+        {
+            "course_code": "FIS3073",
+            "course_name": "EKOLOGI MUARA DAN BAKAU"
+        },
+        {
+            "course_code": "FIS3083",
+            "course_name": "BIOINFORMATIK DAN FILOGENI MOLEKUL ORGANISMA AKUATIK"
+        },
+        {
+            "course_code": "FIS3093",
+            "course_name": "EKOLOGI MOLEKUL PERIKANAN"
+        },
+        {
+            "course_code": "FIS3113",
+            "course_name": "KEPELBAGAIAN IKAN MARIN DAN PEMBANGUNAN KOLEKSI"
+        },
+        {
+            "course_code": "FIS3154",
+            "course_name": "EKOLOGI AKUATIK"
+        },
+        {
+            "course_code": "FIS3164",
+            "course_name": "IKTIOLOGI"
+        },
+        {
+            "course_code": "FIS3212",
+            "course_name": "UNDANG-UNDANG DAN PENGURUSAN PERIKANAN"
+        },
+        {
+            "course_code": "FIS3223",
+            "course_name": "TEKNIK PANCING REKREASI"
+        },
+        {
+            "course_code": "FIS3233",
+            "course_name": "PENGURUSAN KUALITI AIR UNTUK AKUAKULTUR"
+        },
+        {
+            "course_code": "FIS3243",
+            "course_name": "DINAMIK POPULASI IKAN II"
+        },
+        {
+            "course_code": "FIS3403",
+            "course_name": "KOMPUTERAN IOT DALAM PERIKANAN"
+        },
+        {
+            "course_code": "FIS3413",
+            "course_name": "TEKNIK EKSPLOITASI SUMBER AKUATIK"
+        },
+        {
+            "course_code": "FIS3423",
+            "course_name": "TEKNOLOGI ALATAN PERIKANAN"
+        },
+        {
+            "course_code": "FIS3433",
+            "course_name": "APLIKASI TENAGA KETERBAHARUAN DALAM PERIKANAN"
+        },
+        {
+            "course_code": "FIS3443",
+            "course_name": "TEKNOLOGI KAPAL PERIKANAN"
+        },
+        {
+            "course_code": "FIS3453",
+            "course_name": "TEKNOLOGI RAWATAN AIR KUMBAHAN UNTUK INDUSTRI PERIKANAN DAN AKUAKULTUR"
+        },
+        {
+            "course_code": "FIS3463",
+            "course_name": "PENDERIAAN JAUH DAN GIS DALAM PERIKANAN"
+        },
+        {
+            "course_code": "FIS3473",
+            "course_name": "TEKNOLOGI PASCA PANEN PERIKANAN"
+        },
+        {
+            "course_code": "FIS3483",
+            "course_name": "PRINSIP KEPELAUTAN DAN NAVIGASI"
+        },
+        {
+            "course_code": "FIS3603",
+            "course_name": "EKONOMI PERIKANAN"
+        },
+        {
+            "course_code": "FIS3624",
+            "course_name": "PEMPROSESAN PRODUK AKUATIK"
+        },
+        {
+            "course_code": "FIS3633",
+            "course_name": "KEUSAHAWANAN PERIKANAN"
+        },
+        {
+            "course_code": "FIS3704",
+            "course_name": "PERANCANGAN DAN PENILAIAN PROJEK"
+        },
+        {
+            "course_code": "FIS3813",
+            "course_name": "BIOSTATISTIK PERIKANAN"
+        },
+        {
+            "course_code": "FIS3823",
+            "course_name": "PENULISAN SAINTIFIK DALAM PERIKANAN"
+        },
+        {
+            "course_code": "FIS3834",
+            "course_name": "KESELAMATAN DAN KUALITI MAKANAN LAUT"
+        },
+        {
+            "course_code": "FIS3842",
+            "course_name": "PENGEMBANGAN PERIKANAN"
+        },
+        {
+            "course_code": "FIS3904",
+            "course_name": "SAINS PERIKANAN II"
+        },
+        {
+            "course_code": "FIS4976",
+            "course_name": "LATIHAN INDUSTRI"
+        },
+        {
+            "course_code": "FIS4982",
+            "course_name": "PROJEK ILMIAH TAHUN AKHIR I"
+        },
+        {
+            "course_code": "FIS4994",
+            "course_name": "PROJEK ILMIAH TAHUN AKHIR II"
+        },
+        {
+            "course_code": "FIS5012",
+            "course_name": "ADVANCED FISHERIES MICROBIOLOGY (MIKROBIOLOGI PERIKANAN LANJUTAN)"
+        },
+        {
+            "course_code": "FIS5022",
+            "course_name": "CONSERVATION AND MANAGEMENT OF FISHERY RESOURCES (PEMULIHARAAN DAN PENGURUSAN SUMBER PERIKANAN)"
+        },
+        {
+            "course_code": "FIS5032",
+            "course_name": "STATISTICAL TECHNIQUES IN FISHERIES (TEKNIK STATISTIK DALAM PERIKANAN)"
+        },
+        {
+            "course_code": "FIS5072",
+            "course_name": "SURVEY  AND MONITORING SYSTEM (SISTEM TINJAUAN DAN PENGAWASAN)"
+        },
+        {
+            "course_code": "FIS5082",
+            "course_name": "FISHING GEARS TECHNOLOGY (TEKNOLOGI ALATAN PERIKANAN)"
+        },
+        {
+            "course_code": "FIS5092",
+            "course_name": "CURRENT ISSUES IN FISHERIES (ISU-ISU SEMASA DALAM PERIKANAN)"
+        },
+        {
+            "course_code": "FIS5102",
+            "course_name": "REGIONAL FISHERY GOVERNANCE, LAW AND POLICY (GOVERNAN, UNDANG-UNDANG DAN POLISI PERIKANAN SETEMPAT)"
+        },
+        {
+            "course_code": "FIS5112",
+            "course_name": "SUSTAINABLE FISHERY AND COMMUNITY LIVELIHOOD (PERIKANAN LESTARI DAN PENDAPATAN KOMUNITI)"
+        },
+        {
+            "course_code": "FIS5123",
+            "course_name": "MARINE POLLUTION AND FISHERIES (PENCEMARAN MARIN DAN PERIKANAN)"
+        },
+        {
+            "course_code": "FIS5133",
+            "course_name": "FISHERY MOLECULAR ECOLOGY (EKOLOGI MOLEKUL PERIKANAN)"
+        },
+        {
+            "course_code": "FIS5143",
+            "course_name": "FISHERIES LIMNOLOGY AND OCEANOGRAPHY (LIMNOLOGI DAN OSEANOGRAFI PERIKANAN)"
+        },
+        {
+            "course_code": "FIS5153",
+            "course_name": "SPORTS AND GAME FISHING (SUKAN DAN PERMAINAN MEMANCING)"
+        },
+        {
+            "course_code": "FIS5163",
+            "course_name": "CORAL REEF FISHERIES (PERIKANAN TERUMBU KARANG)"
+        },
+        {
+            "course_code": "FIS5173",
+            "course_name": "FISHERIES BIOINFORMATICS (BIOINFORMATIK PERIKANAN)"
+        },
+        {
+            "course_code": "FIS5183",
+            "course_name": "HABITAT REPLENISHMENT AREAS (KAWASAN PEMULIHAN HABITAT)"
+        },
+        {
+            "course_code": "FIS5193",
+            "course_name": "FISHERIES POST-HARVEST TECHNOLOGY (TEKNOLOGI LEPAS TUAI PERIKANAN)"
+        },
+        {
+            "course_code": "FIS5203",
+            "course_name": "BIOSECURITY AND SEAFOOD SAFETY (BIOSEKURITI DAN KESELAMATAN MAKANAN LAUT)"
+        },
+        {
+            "course_code": "FIS5213",
+            "course_name": "FISHERIES BIOSYSTEMS (BIOSISTEM PERIKANAN)"
+        },
+        {
+            "course_code": "FIS5983A",
+            "course_name": "PROJECT I"
+        },
+        {
+            "course_code": "FIS5983B",
+            "course_name": "PROJECT II"
+        },
+        {
+            "course_code": "FIS5996",
+            "course_name": "PROJECT III"
+        },
+        {
+            "course_code": "GTN3103",
+            "course_name": "GENETIK DAN BIOTEKNOLOGI PERTANIAN"
+        },
+        {
+            "course_code": "GTN3113",
+            "course_name": "POMOLOGI"
+        },
+        {
+            "course_code": "GTN3123",
+            "course_name": "PEMBIAKBAKAAN TANAMAN"
+        },
+        {
+            "course_code": "GTN3133",
+            "course_name": "TEKNLOGI BIJI BENIH"
+        },
+        {
+            "course_code": "GTN3203",
+            "course_name": "ENTOMOLOGI PERTANIAN"
+        },
+        {
+            "course_code": "GTN3213",
+            "course_name": "PATOLOGI TUMBUHAN"
+        },
+        {
+            "course_code": "GTN3233",
+            "course_name": "SAINS RUMPAI"
+        },
+        {
+            "course_code": "GTN3243",
+            "course_name": "TEKNOLOGI KAWALAN PEROSAK TANAMAN"
+        },
+        {
+            "course_code": "GTN3253",
+            "course_name": "NEMATOLOGI"
+        },
+        {
+            "course_code": "GTN3303",
+            "course_name": "FLORIKULTUR"
+        },
+        {
+            "course_code": "GTN3323",
+            "course_name": "OLERIKULTUR"
+        },
+        {
+            "course_code": "GTN3333",
+            "course_name": "PERTANIAN ORGANIK"
+        },
+        {
+            "course_code": "GTN3343",
+            "course_name": "FORAJ DAN TANAMAN PENUTUP BUMI"
+        },
+        {
+            "course_code": "GTN3353",
+            "course_name": "HERBA UBATAN"
+        },
+        {
+            "course_code": "GTN3363",
+            "course_name": "TEKNOLOGI CENDAWAN"
+        },
+        {
+            "course_code": "GTN3373",
+            "course_name": "PERTANIAN BANDAR"
+        },
+        {
+            "course_code": "GTN3383",
+            "course_name": "TANAMAN PERLADANGAN"
+        },
+        {
+            "course_code": "GTN3403",
+            "course_name": "EKONOMI PERTANIAN"
+        },
+        {
+            "course_code": "GTN3414",
+            "course_name": "KAEDAH PENYELIDIKAN PERTANIAN"
+        },
+        {
+            "course_code": "GTN3423",
+            "course_name": "INISIATIF KESELAMATAN MAKANAN GLOBAL"
+        },
+        {
+            "course_code": "GTN3432",
+            "course_name": "KOMUNIKASI DAN PEMINDAHAN TEKNOLOGI PERTANIAN"
+        },
+        {
+            "course_code": "GTN3503",
+            "course_name": "PENGELUARAN TANAMAN"
+        },
+        {
+            "course_code": "GTN3512",
+            "course_name": "TEKNOLOGI PENGELUARAN PERTANIAN MAKANAN"
+        },
+        {
+            "course_code": "GTN3523",
+            "course_name": "TEKNOLOGI SEMAIAN DAN PEMBIAKAN TANAMAN "
+        },
+        {
+            "course_code": "GTN3533",
+            "course_name": "TEKNOLOGI DAN PENGURUSAN PEMBAJAAN TANAMAN 1"
+        },
+        {
+            "course_code": "GTN3543",
+            "course_name": "TEKNOLOGI TANAMAN TANPA TANAH"
+        },
+        {
+            "course_code": "GTN3553",
+            "course_name": "PENGURUSAN LADANG"
+        },
+        {
+            "course_code": "GTN3563",
+            "course_name": "TEKNOLOGI LEPAS TUAI TANAMAN"
+        },
+        {
+            "course_code": "GTN3573",
+            "course_name": "PENGENDALIAN SISA PERTANIAN"
+        },
+        {
+            "course_code": "GTN3604",
+            "course_name": "PENDERIAAN JAUH DAN GIS"
+        },
+        {
+            "course_code": "GTN3613",
+            "course_name": "KEJENTERAAN PERTANIAN"
+        },
+        {
+            "course_code": "GTN3623",
+            "course_name": "INSTRUMENTASI MAKMAL"
+        },
+        {
+            "course_code": "GTN3633",
+            "course_name": "TEKNOLOGI PERTANIAN TEPAT"
+        },
+        {
+            "course_code": "GTN3703",
+            "course_name": "AGROEKOSISTEM"
+        },
+        {
+            "course_code": "GTN3713",
+            "course_name": "SAINS TANAH ASAS"
+        },
+        {
+            "course_code": "GTN3724",
+            "course_name": "BOTANI"
+        },
+        {
+            "course_code": "GTN3733",
+            "course_name": "MIKROBIOLOGI PERTANIAN"
+        },
+        {
+            "course_code": "GTN3743",
+            "course_name": "SOIL SURVEY AND EVALUATION"
+        },
+        {
+            "course_code": "GTN4123",
+            "course_name": "PEMBIAKBAKAAN LANJUTAN"
+        },
+        {
+            "course_code": "GTN4233",
+            "course_name": "PENGURUSAN RUMPAI LANJUTAN"
+        },
+        {
+            "course_code": "GTN49712",
+            "course_name": "LATIHAN INDUSTRI"
+        },
+        {
+            "course_code": "GTN4983",
+            "course_name": "PENILAIAN ILMIAH TAHUN AKHIR I"
+        },
+        {
+            "course_code": "GTN4993",
+            "course_name": "PENILAIAN ILMIAH TAHUN AKHIR II"
+        },
+        {
+            "course_code": "STM3013",
+            "course_name": "FOOD MICROBIOLOGY (MIKROBIOLOGI MAKANAN)"
+        },
+        {
+            "course_code": "STM3023",
+            "course_name": "FOOD SAFETY MANAGEMENT (PENGURUSAN KESELAMATAN MAKANAN)"
+        },
+        {
+            "course_code": "STM3043",
+            "course_name": "MIKROBIOLOGI MAKANAN LANJUTAN"
+        },
+        {
+            "course_code": "STM3123",
+            "course_name": "PRINCIPLES OF FOOD PROCESSING AND PRESERVATION (PRINSIP PEMPROSESAN DAN PENGAWETAN MAKANAN"
+        },
+        {
+            "course_code": "STM3133",
+            "course_name": "PEMPROSESAN MAKANAN"
+        },
+        {
+            "course_code": "STM3143",
+            "course_name": "ASAS KEJURUTERAAN MAKANAN"
+        },
+        {
+            "course_code": "STM3153",
+            "course_name": "UNIT OPERASI DALAM PEMPROSESAN MAKANAN"
+        },
+        {
+            "course_code": "STM3163",
+            "course_name": "PEMBUNGKUSAN MAKANAN"
+        },
+        {
+            "course_code": "STM3173",
+            "course_name": "PRODUCT DEVELOPMENT (PERKEMBANGAN PRODUK)"
+        },
+        {
+            "course_code": "STM3183",
+            "course_name": "PRINSIP PENGAWETAN MAKANAN"
+        },
+        {
+            "course_code": "STM3213",
+            "course_name": "KAEDAH PENYELIDIKAN MAKANAN"
+        },
+        {
+            "course_code": "STM3222",
+            "course_name": "SENSORY EVALUATION (PENILAIAN DERIA)"
+        },
+        {
+            "course_code": "STM3233",
+            "course_name": "FOOD SCIENCE RESEARCH METHODOLOGY (KAEDAH PENYELIDIKAN SAINS MAKANAN)"
+        },
+        {
+            "course_code": "STM3313",
+            "course_name": "INTRODUCTION TO FOOD CHEMISTRY (PENGENALAN KIMIA MAKANAN)"
+        },
+        {
+            "course_code": "STM3323",
+            "course_name": "CHEMICAL ANALYSIS OF FOOD (ANALISIS KIMIA MAKANAN)"
+        },
+        {
+            "course_code": "STM3334",
+            "course_name": "KIMIA MAKANAN"
+        },
+        {
+            "course_code": "STM3343",
+            "course_name": "INSTRUMENTATION IN FOOD ANALYSIS (PERALATAN DALAM ANALISIS MAKANAN"
+        },
+        {
+            "course_code": "STM3412",
+            "course_name": "PENGENALAN SAINS MAKANAN"
+        },
+        {
+            "course_code": "STM3423",
+            "course_name": "INGREDIEN MAKANAN"
+        },
+        {
+            "course_code": "STM3433",
+            "course_name": "NUTRITIONAL CHANGES IN FOOD (PERUBAHAN PEMAKANAN DALAM MAKANAN)"
+        },
+        {
+            "course_code": "STM3443",
+            "course_name": "KOMODITI MAKANAN"
+        },
+        {
+            "course_code": "STM3513",
+            "course_name": "PRINCIPLES OF HUMAN NUTRITION (PRINSIP PEMAKANAN MANUSIA)"
+        },
+        {
+            "course_code": "STM3523",
+            "course_name": "LIFE SPAN NUTRITION (PEMAKANAN SEPANJANG HAYAT)"
+        },
+        {
+            "course_code": "STM3533",
+            "course_name": "COMMUNITY NUTRITION (PEMAKANAN KOMUNITI)"
+        },
+        {
+            "course_code": "STM3553",
+            "course_name": "NUTRITION AND HEALTH (PEMAKANAN DAN KESIHATAN)"
+        },
+        {
+            "course_code": "STM3612",
+            "course_name": "SANITASI KILANG MAKANAN"
+        },
+        {
+            "course_code": "STM3622",
+            "course_name": "PERUNDANGAN MAKANAN)"
+        },
+        {
+            "course_code": "STM3633",
+            "course_name": "JAMINAN DAN KAWALAN KUALITI MAKANAN"
+        },
+        {
+            "course_code": "STM3652",
+            "course_name": " FOOD LAW (PERUNDANGAN MAKANAN)"
+        },
+        {
+            "course_code": "STM3713",
+            "course_name": "PRINCIPLES OF FOOD PREPARATION (PRINSIP PENYEDIAAN MAKANAN)"
+        },
+        {
+            "course_code": "STM3722",
+            "course_name": "PRACTICAL OF FOOD PREPARATION (AMALI PENYEDIAAN MAKANAN)"
+        },
+        {
+            "course_code": "STM3734",
+            "course_name": "ASAS PENYEDIAAN MAKANAN"
+        },
+        {
+            "course_code": "STM3743",
+            "course_name": "MENU PLANNING AND EXPENSES (PERANCANGAN MENU DAN PERBELANJAAN"
+        },
+        {
+            "course_code": "STM3753",
+            "course_name": "PASTRY AND BAKERY (PASTRI DAN BAKERI)"
+        },
+        {
+            "course_code": "STM3764",
+            "course_name": "COMMERCIAL FOOD PRODUCTION (PENGELUARAN MAKANAN KOMERSIAL)"
+        },
+        {
+            "course_code": "STM3773",
+            "course_name": "FOOD SERVICE FACILITIES PLANNING (PERANCANGAN FASILITI PERKHIDMATAN MAKANAN)"
+        },
+        {
+            "course_code": "STM3783",
+            "course_name": "FOOD SERVICE OPERATION SYSTEM (SISTEM OPERASI PERKHIDMATAN MAKANAN)"
+        },
+        {
+            "course_code": "STM3793",
+            "course_name": "FOOD AND CULTURE (MAKANAN DAN KEBUDAYAAN)"
+        },
+        {
+            "course_code": "STM4033",
+            "course_name": "TOKSIKOLOGI MAKANAN"
+        },
+        {
+            "course_code": "STM4053",
+            "course_name": "BIOTEKNOLOGI MAKANAN"
+        },
+        {
+            "course_code": "STM4241",
+            "course_name": "SEMINAR (SEMINAR)"
+        },
+        {
+            "course_code": "STM4543",
+            "course_name": "NUTRITION THERAPY (PEMAKANAN TERAPI)"
+        },
+        {
+            "course_code": "STM4563",
+            "course_name": "ADVANCED NUTRITION (PEMAKANAN LANJUTAN)"
+        },
+        {
+            "course_code": "STM4643",
+            "course_name": "HALAL FOOD MANAGEMENT (PENGURUSAN MAKANAN HALAL)"
+        },
+        {
+            "course_code": "STM4663",
+            "course_name": "PENGURUSAN SISA INDUSTRI MAKANAN"
+        },
+        {
+            "course_code": "STM4978",
+            "course_name": "INDUSTRIAL TRAINING (LATIHAN INDUSTRI)"
+        },
+        {
+            "course_code": "STM4981",
+            "course_name": "FINAL YEAR PROJECT I (PROJEK ILMIAH TAHUN AKHIR I)"
+        },
+        {
+            "course_code": "STM4995",
+            "course_name": "FINAL YEAR PROJECT II (PROJEK ILMIAH TAHUN AKHIR II)"
+        }
+    ],
+    "PUSAT PENDIDIKAN ASAS DAN LANJUTAN": [
+        {
+            "course_code": "BBA3013",
+            "course_name": "BAHASA ARAB I"
+        },
+        {
+            "course_code": "BBA3023",
+            "course_name": "BAHASA ARAB II"
+        },
+        {
+            "course_code": "BBA3033",
+            "course_name": "BAHASA ARAB III"
+        },
+        {
+            "course_code": "BBB2013",
+            "course_name": "ENGLISH FOR ACADEMIC COMMUNICATION 1"
+        },
+        {
+            "course_code": "BBB3011S ",
+            "course_name": "ESL CULTURAL EXPOSURE"
+        },
+        {
+            "course_code": "BBB3013",
+            "course_name": "ACADEMIC WRITING SKILLS"
+        },
+        {
+            "course_code": "BBB3023",
+            "course_name": "PUBLIC SPEAKING"
+        },
+        {
+            "course_code": "BBB3033",
+            "course_name": "ENGLISH FOR OCCUPATIONAL PURPOSES"
+        },
+        {
+            "course_code": "BBB3043 ",
+            "course_name": "INTRODUCTION TO WORLD CULTURE"
+        },
+        {
+            "course_code": "BBB3073 ",
+            "course_name": "DIGITAL WEB TOOLS FOR ENGLISH LANGUAGE LEARNING"
+        },
+        {
+            "course_code": "BBB3083 ",
+            "course_name": "READING SKILLS FOR DIGITAL NATIVES"
+        },
+        {
+            "course_code": "BBB3093 ",
+            "course_name": "ENGLISH FOR LIFE"
+        },
+        {
+            "course_code": "BBB3113 ",
+            "course_name": "ENGLISH FOR MULTIMEDIA PRESENTATIONS"
+        },
+        {
+            "course_code": "BBB3123 ",
+            "course_name": "ENGLISH AND DRAMA"
+        },
+        {
+            "course_code": "BBB3133 ",
+            "course_name": "WORLD LITERATURE"
+        },
+        {
+            "course_code": "BBB3143 ",
+            "course_name": "ENGLISH FOR COMMUNITY ENGAGEMENT"
+        },
+        {
+            "course_code": "BBB3153",
+            "course_name": " DIGITAL EDUCATION IN GLOBAL CONTEXT"
+        },
+        {
+            "course_code": "BBB3163",
+            "course_name": "COMMUNITY ENGAGEMENT VIA SOCIAL MEDIA IN ENGLISH"
+        },
+        {
+            "course_code": "BBC3013",
+            "course_name": "BAHASA MANDARIN 1"
+        },
+        {
+            "course_code": "BBC3023",
+            "course_name": "BAHASA MANDARIN II"
+        },
+        {
+            "course_code": "BBC3033",
+            "course_name": "BAHASA MANDARIN III"
+        },
+        {
+            "course_code": "BBG3013",
+            "course_name": "BAHASA JERMAN I"
+        },
+        {
+            "course_code": "BBG3023",
+            "course_name": "BAHASA JERMAN II"
+        },
+        {
+            "course_code": "BBG3033",
+            "course_name": "BAHASA JERMAN III"
+        },
+        {
+            "course_code": "BBJ3013",
+            "course_name": "BAHASA JEPUN I"
+        },
+        {
+            "course_code": "BBJ3023",
+            "course_name": "BAHASA JEPUN II"
+        },
+        {
+            "course_code": "BBJ3033",
+            "course_name": "BAHASA JEPUN III"
+        },
+        {
+            "course_code": "BBK3013",
+            "course_name": "BAHASA KOREA I"
+        },
+        {
+            "course_code": "BBK3023",
+            "course_name": "BAHASA KOREA II"
+        },
+        {
+            "course_code": "BBK3033",
+            "course_name": "BAHASA KOREA III"
+        },
+        {
+            "course_code": "BBM3043",
+            "course_name": "BAHASA MELAYU ILMIAH"
+        },
+        {
+            "course_code": "BBM3103",
+            "course_name": "KEMAHIRAN BERFIKIR"
+        },
+        {
+            "course_code": "BBP3013",
+            "course_name": "BAHASA PERANCIS I"
+        },
+        {
+            "course_code": "BBP3023",
+            "course_name": "BAHASA PERANCIS II"
+        },
+        {
+            "course_code": "BBP3033",
+            "course_name": "BAHASA PERANCIS III"
+        },
+        {
+            "course_code": "BBS3013",
+            "course_name": "BAHASA SEPANYOL I"
+        },
+        {
+            "course_code": "BBS3023",
+            "course_name": "BAHASA SEPANYOL II"
+        },
+        {
+            "course_code": "BBS3033",
+            "course_name": "BAHASA SEPANYOL III"
+        },
+        {
+            "course_code": "C0M3023",
+            "course_name": "KOMUNIKASI INTERPERSONAL"
+        },
+        {
+            "course_code": "CCB 3013",
+            "course_name": "STAGE AND SCREEN ACTING TECHNIQUE"
+        },
+        {
+            "course_code": "CCB3023",
+            "course_name": "AN INTRODUCTION TO MALAYSIAN'S ART PERFORMANCE "
+        },
+        {
+            "course_code": "CCB3033",
+            "course_name": "ARTS AND CULTURAL MANAGEMENT (PENGURUSAN SENI DAN BUDAYA)"
+        },
+        {
+            "course_code": "CCB3043",
+            "course_name": "ASAS MUZIK TRADISIONAL MELAYU"
+        },
+        {
+            "course_code": "CCB3052",
+            "course_name": "PERMAINAN TRADISI RAKYAT MALAYSIA (MALAYSIAN TRADITIONAL GAMES)"
+        },
+        {
+            "course_code": "CCB3062",
+            "course_name": "SENAM SENI MALAYSIA"
+        },
+        {
+            "course_code": "CCB3072",
+            "course_name": "SENI SUARA"
+        },
+        {
+            "course_code": "CCB3082",
+            "course_name": "SENI LAKON"
+        },
+        {
+            "course_code": "CCB3092",
+            "course_name": "DIKIR BARAT"
+        },
+        {
+            "course_code": "CCB3102",
+            "course_name": "PENGENALAN KEPADA ORKESTRA"
+        },
+        {
+            "course_code": "CCB3112",
+            "course_name": "SENI KREATIF (CREATIVE ARTS)"
+        },
+        {
+            "course_code": "CCE3112",
+            "course_name": " SUKSIS 1"
+        },
+        {
+            "course_code": "CCE3122",
+            "course_name": "SUKSIS 2"
+        },
+        {
+            "course_code": "CCE3132",
+            "course_name": "SUKSIS 3"
+        },
+        {
+            "course_code": "CCE3142",
+            "course_name": "SUKSIS 4"
+        },
+        {
+            "course_code": "CCE3152",
+            "course_name": "SUKSIS 5"
+        },
+        {
+            "course_code": "CCE3162",
+            "course_name": "SUKSIS 6"
+        },
+        {
+            "course_code": "CCE3212",
+            "course_name": "PALAPES LAUT 1"
+        },
+        {
+            "course_code": "CCE3222",
+            "course_name": "PALAPES LAUT 2"
+        },
+        {
+            "course_code": "CCE3232",
+            "course_name": "PALAPES LAUT 3"
+        },
+        {
+            "course_code": "CCE3242",
+            "course_name": "PALAPES LAUT 4"
+        },
+        {
+            "course_code": "CCE3252",
+            "course_name": "PALAPES LAUT 5"
+        },
+        {
+            "course_code": "CCE3262",
+            "course_name": "PALAPES LAUT 6"
+        },
+        {
+            "course_code": "CCE3312",
+            "course_name": "SISPA 1"
+        },
+        {
+            "course_code": "CCE3322",
+            "course_name": "SISPA 2"
+        },
+        {
+            "course_code": "CCE3332",
+            "course_name": "SISPA3"
+        },
+        {
+            "course_code": "CCE3342",
+            "course_name": "SISPA4"
+        },
+        {
+            "course_code": "CCE3352",
+            "course_name": "SISPA5"
+        },
+        {
+            "course_code": "CCE3412",
+            "course_name": "PASKAM 1"
+        },
+        {
+            "course_code": "CCE3422",
+            "course_name": "PASKAM 2"
+        },
+        {
+            "course_code": "CCE3432",
+            "course_name": "PASKAM 3"
+        },
+        {
+            "course_code": "CCE3442",
+            "course_name": "PASKAM 4"
+        },
+        {
+            "course_code": "CCE3512",
+            "course_name": "PALAPES DARAT 1"
+        },
+        {
+            "course_code": "CCE3522",
+            "course_name": "PALAPES DARAT 2"
+        },
+        {
+            "course_code": "CCE3532",
+            "course_name": "PALAPES DARAT 3"
+        },
+        {
+            "course_code": "CCE3542",
+            "course_name": "PALAPES DARAT 4"
+        },
+        {
+            "course_code": "CCE3552",
+            "course_name": "PALAPES DARAT 5"
+        },
+        {
+            "course_code": "CCE3562",
+            "course_name": "PALAPES DARAT 6"
+        },
+        {
+            "course_code": "CCK3012",
+            "course_name": "PIDATO UMUM"
+        },
+        {
+            "course_code": "CCK3022",
+            "course_name": "PENULISAN MEDIA"
+        },
+        {
+            "course_code": "CCM3012",
+            "course_name": "CARING SOCIETY (SISWA PENYAYANG)"
+        },
+        {
+            "course_code": "CCM3022",
+            "course_name": "PATRIOTISME"
+        },
+        {
+            "course_code": "CCM3032",
+            "course_name": "ASAS KESUKARELAWANAN"
+        },
+        {
+            "course_code": "CCM3062",
+            "course_name": "DRUG PREVENTION EDUCATION "
+        },
+        {
+            "course_code": "CCP3013",
+            "course_name": "PERANCANGAN DAN PENGURUSAN ACARA"
+        },
+        {
+            "course_code": "CCP3023",
+            "course_name": "LEADERSHIP (PEMIMPIN)"
+        },
+        {
+            "course_code": "CCS3023",
+            "course_name": "OUTDOOR RECREATIONAL"
+        },
+        {
+            "course_code": "CCS3033",
+            "course_name": "RECREATIONAL ANGLING (PANCING REKREASI)"
+        },
+        {
+            "course_code": "CCS3043",
+            "course_name": "REKREASI SCUBA DAN SNORKELING"
+        },
+        {
+            "course_code": "CCS3053",
+            "course_name": "RENANG DAN KESELAMATAN AIR"
+        },
+        {
+            "course_code": "CCS3062",
+            "course_name": "ASAS PERTOLONGAN CEMAS"
+        },
+        {
+            "course_code": "CCS3072",
+            "course_name": "HEALTHY LIFESTYLE"
+        },
+        {
+            "course_code": "CCS3102",
+            "course_name": "FUNDAMENTALS OF EXERCISE AND SPORTS"
+        },
+        {
+            "course_code": "CCS3112",
+            "course_name": "LAWN BOWLS"
+        },
+        {
+            "course_code": "CCS3122",
+            "course_name": "SILAT OLAHRAGA (ATHLETIC  MALAY MARTIAL ART)"
+        },
+        {
+            "course_code": "CCS3142",
+            "course_name": "MARTIAL ARTS"
+        },
+        {
+            "course_code": "CCS3152",
+            "course_name": "BASIC SAILING"
+        },
+        {
+            "course_code": "CCS3162",
+            "course_name": "ADVANCED SAILING"
+        },
+        {
+            "course_code": "CCS3172",
+            "course_name": "SAILING COACHING"
+        },
+        {
+            "course_code": "CCV 3012",
+            "course_name": "GRAPHIC DESIGN AND PHOTOGRAPHY"
+        },
+        {
+            "course_code": "CCV3062",
+            "course_name": "FOTOGRAFI BAWAH AIR (UNDERWATER PHOTOGRAPHY) "
+        },
+        {
+            "course_code": "COM3013",
+            "course_name": "KOMUNIKASI KEMANUSIAAN"
+        },
+        {
+            "course_code": "COM3033",
+            "course_name": "ASAS PRODUKSI FILEM DOKUMENTARI"
+        },
+        {
+            "course_code": "COM3063",
+            "course_name": "KOMUNIKASI KUMPULAN KECIL"
+        },
+        {
+            "course_code": "COM3083",
+            "course_name": "KOMUNIKASI ANTARA BUDAYA"
+        },
+        {
+            "course_code": "COM3093",
+            "course_name": "PENULISAN KREATIF"
+        },
+        {
+            "course_code": "MPU3132",
+            "course_name": "PENGHAYATAN ETIKA DAN PERADABAN"
+        },
+        {
+            "course_code": "MPU3142",
+            "course_name": "FALSAFAH DAN ISU SEMASA"
+        },
+        {
+            "course_code": "MPU3143",
+            "course_name": "MALAY LANGUAGE COMMUNICATIVE"
+        },
+        {
+            "course_code": "MPU3223",
+            "course_name": "BASIC ENTREPRENEURSHIP"
+        },
+        {
+            "course_code": "MPU3312",
+            "course_name": "APRESIASI ALAM DAN WARISAN LAUT"
+        },
+        {
+            "course_code": "NCC3053",
+            "course_name": "KENEGARAAN MALAYSIA"
+        },
+        {
+            "course_code": "NCC3103",
+            "course_name": "ISLAM DAN ALAM SEKITAR"
+        },
+        {
+            "course_code": "NCC3113",
+            "course_name": "HADIS PILIHAN"
+        },
+        {
+            "course_code": "NCC3123",
+            "course_name": "FIQH IBADAT"
+        },
+        {
+            "course_code": "NCC3133",
+            "course_name": "KEPIMPINAN KENDIRI"
+        },
+        {
+            "course_code": "NCC3143",
+            "course_name": "KEPIMPINAN KOMUNITI"
+        },
+        {
+            "course_code": "NCC3152",
+            "course_name": "INTEGRITI & ANTI RASUAH"
+        },
+        {
+            "course_code": "NCC3153",
+            "course_name": "KEPIMPINAN STRATEGIK"
+        },
+        {
+            "course_code": "NCC3163",
+            "course_name": "DA'I DAN MASYARAKAT"
+        },
+        {
+            "course_code": "NCC3173",
+            "course_name": "FALSAFAH SAINS ISLAM"
+        },
+        {
+            "course_code": "NCC3203",
+            "course_name": "ISLAM DAN EKONOMI"
+        },
+        {
+            "course_code": "NCC3303",
+            "course_name": "ISLAM DAN IDEOLOGI MASAKINI"
+        },
+        {
+            "course_code": "NCC3403",
+            "course_name": "PRINSIP KEKELUARGAAN ISLAM"
+        },
+        {
+            "course_code": "NCC3503",
+            "course_name": "ISLAM DAN KEPIMPINAN"
+        },
+        {
+            "course_code": "NCC3513",
+            "course_name": "KOMUNITI ASEAN DAN KESELAMATAN SERANTAU"
+        },
+        {
+            "course_code": "NCC3603",
+            "course_name": "ISU-ISU KONTEMPORARI  POLITIK MALAYSIA"
+        },
+        {
+            "course_code": "NCC3703",
+            "course_name": "PERSONALITI ULUL ALBAB"
+        },
+        {
+            "course_code": "NCC3803",
+            "course_name": "TASAWWUR ISLAM"
+        },
+        {
+            "course_code": "NCC3903",
+            "course_name": "AL QURAN DAN DUNIA MODEN"
+        },
+        {
+            "course_code": "PPA3023",
+            "course_name": "INTRODUCTION TO ECONOMIC PLANNING"
+        },
+        {
+            "course_code": "PPA3053",
+            "course_name": "ECONOMIC THOUGHT OF BIODIVERSITY"
+        },
+        {
+            "course_code": "PPA3063",
+            "course_name": "IKAN DAN PERIKANAN"
+        },
+        {
+            "course_code": "PPA3093",
+            "course_name": "TANAMAN HIASAN"
+        },
+        {
+            "course_code": "PPA3103",
+            "course_name": "SAINS MAKANAN"
+        },
+        {
+            "course_code": "PPA3113",
+            "course_name": "PENGURUSAN MAKANAN HALAL"
+        },
+        {
+            "course_code": "PPA3133 ",
+            "course_name": "ISU DAN KEPENTINGAN TANAH BENCAH"
+        },
+        {
+            "course_code": "PPA3143",
+            "course_name": "KIMIA DAN MASYARAKAT"
+        },
+        {
+            "course_code": "PPA3162",
+            "course_name": "ORGANISMA INVASIF"
+        },
+        {
+            "course_code": "PPA3173",
+            "course_name": "SUSTAINABLE DEVELOPMENT"
+        },
+        {
+            "course_code": "PPA3183",
+            "course_name": "ANIMALS AND SOCIETY"
+        },
+        {
+            "course_code": "PPA3202",
+            "course_name": "KEWANGAN PERIBADI"
+        },
+        {
+            "course_code": "PPA3223",
+            "course_name": "INVESTMENT IN FINANCIAL MARKET"
+        },
+        {
+            "course_code": "PPA3263",
+            "course_name": "ECONOMIC SUSTAINABILITY"
+        }
+    ],
+    "FAKULTI TEKNOLOGI KEJURUTERAAN KELAUTAN DAN INFORMATIK": [
+        {
+            "course_code": "CSA3003",
+            "course_name": "MARITIME INFORMATICS TECHNOLOGY AND PROFESSIONAL ETHIC"
+        },
+        {
+            "course_code": "CSA3013",
+            "course_name": "MODELLING AND SIMULATION"
+        },
+        {
+            "course_code": "CSA3023",
+            "course_name": "WEB-BASED APPLICATION DEVELOPMENT"
+        },
+        {
+            "course_code": "CSA3209",
+            "course_name": "WEB-BASED APPLICATION DEVELOPMENT"
+        },
+        {
+            "course_code": "CSA3500",
+            "course_name": "MARITIME INFORMATICS TECHNOLOGY AND PROFESSIONAL ETHIC"
+        },
+        {
+            "course_code": "CSA3801",
+            "course_name": "MODELLING AND SIMULATION"
+        },
+        {
+            "course_code": "CSA3953",
+            "course_name": "APPLICATION SYSTEM DEVELOPMENT PROJECT"
+        },
+        {
+            "course_code": "CSA3999",
+            "course_name": "APPLICATION SYSTEM DEVELOPMENT PROJECT"
+        },
+        {
+            "course_code": "CSE3023",
+            "course_name": "WEB-BASED APPLICATION DEVELOPMENT"
+        },
+        {
+            "course_code": "CSE3203",
+            "course_name": "SOFTWARE REQUIREMENT ENGINEERING"
+        },
+        {
+            "course_code": "CSE3209",
+            "course_name": "WEB-BASED APPLICATION DEVELOPMENT"
+        },
+        {
+            "course_code": "CSE3403",
+            "course_name": "SOFTWARE PROJECT MANAGEMENT"
+        },
+        {
+            "course_code": "CSE3413",
+            "course_name": "SOFTWARE TESTING"
+        },
+        {
+            "course_code": "CSE3423",
+            "course_name": "SOFTWARE QUALITY ASSURANCE"
+        },
+        {
+            "course_code": "CSE3433",
+            "course_name": "SOFTWARE ARCHITECTURE"
+        },
+        {
+            "course_code": "CSE3443",
+            "course_name": "SOFTWARE MAINTENANCE AND EVOLUTION"
+        },
+        {
+            "course_code": "CSE3453",
+            "course_name": "ETHICS AND  PROFESSIONAL PRACTICES"
+        },
+        {
+            "course_code": "CSE3503",
+            "course_name": "SOFTWARE REQUIREMENT ENGINEERING"
+        },
+        {
+            "course_code": "CSE3508",
+            "course_name": "SOFTWARE PROJECT MANAGEMENT"
+        },
+        {
+            "course_code": "CSE3510",
+            "course_name": "SOFTWARE ARCHITECTURE"
+        },
+        {
+            "course_code": "CSE3511",
+            "course_name": "SOFTWARE TESTING"
+        },
+        {
+            "course_code": "CSE3512",
+            "course_name": "SOFTWARE QUALITY ASSURANCE"
+        },
+        {
+            "course_code": "CSE3513",
+            "course_name": "SOFTWARE MAINTENANCE AND EVOLUTION"
+        },
+        {
+            "course_code": "CSE3514",
+            "course_name": "ETHICS AND  PROFESSIONAL PRACTICES"
+        },
+        {
+            "course_code": "CSE3953",
+            "course_name": "APPLICATION SYSTEM DEVELOPMENT PROJECT"
+        },
+        {
+            "course_code": "CSE3999",
+            "course_name": "APPLICATION SYSTEM DEVELOPMENT PROJECT"
+        },
+        {
+            "course_code": "CSF3001",
+            "course_name": "DISCRETE STRUCTURE"
+        },
+        {
+            "course_code": "CSF3003",
+            "course_name": "DISCRETE STRUCTURE"
+        },
+        {
+            "course_code": "CSF3013",
+            "course_name": "DATA STRUCTURE AND ALGORITHM"
+        },
+        {
+            "course_code": "CSF3023",
+            "course_name": "SYSTEM THINKING AND LOGIC"
+        },
+        {
+            "course_code": "CSF3034",
+            "course_name": "PROGRAMMING"
+        },
+        {
+            "course_code": "CSF3043",
+            "course_name": "OBJECT-ORIENTED PROGRAMMING"
+        },
+        {
+            "course_code": "CSF3104",
+            "course_name": "DATA STRUCTURE AND ALGORITHM"
+        },
+        {
+            "course_code": "CSF3105",
+            "course_name": "SYSTEM THINKING AND LOGIC"
+        },
+        {
+            "course_code": "CSF3108",
+            "course_name": "PROGRAMMING"
+        },
+        {
+            "course_code": "CSF3109",
+            "course_name": "OBJECT-ORIENTED PROGRAMMING"
+        },
+        {
+            "course_code": "CSF3113",
+            "course_name": "SYSTEM ANALYSIS AND DESIGN"
+        },
+        {
+            "course_code": "CSF3123",
+            "course_name": "DATABASE"
+        },
+        {
+            "course_code": "CSF3133",
+            "course_name": "WEB-BASED INTERFACE DESIGN"
+        },
+        {
+            "course_code": "CSF3143",
+            "course_name": "BASICS OF SOFTWARE ENGINEERING"
+        },
+        {
+            "course_code": "CSF3204",
+            "course_name": "SYSTEM ANALYSIS AND DESIGN"
+        },
+        {
+            "course_code": "CSF3205",
+            "course_name": "DATABASE"
+        },
+        {
+            "course_code": "CSF3206",
+            "course_name": "WEB-BASED INTERFACE DESIGN"
+        },
+        {
+            "course_code": "CSF3213",
+            "course_name": "OPERATING SYSTEM"
+        },
+        {
+            "course_code": "CSF3223",
+            "course_name": "NETWORKING"
+        },
+        {
+            "course_code": "CSF3233",
+            "course_name": "CYBER SECURITY"
+        },
+        {
+            "course_code": "CSF3243",
+            "course_name": "COMPUTER ARCHITECTURE AND ORGANIZATION"
+        },
+        {
+            "course_code": "CSF3253",
+            "course_name": "INTELLIGENT SYSTEM"
+        },
+        {
+            "course_code": "CSF3304",
+            "course_name": "COMPUTER ARCHITECTURE AND ORGANIZATION"
+        },
+        {
+            "course_code": "CSF3305 ",
+            "course_name": "OPERATING SYSTEM"
+        },
+        {
+            "course_code": "CSF3402",
+            "course_name": "NETWORKING"
+        },
+        {
+            "course_code": "CSF3404 ",
+            "course_name": "CYBER SECURITY"
+        },
+        {
+            "course_code": "CSF3501",
+            "course_name": "BASICS OF SOFTWARE ENGINEERING"
+        },
+        {
+            "course_code": "CSF3503",
+            "course_name": "SPECIAL TOPICS IN MARITIME INFORMATICS"
+        },
+        {
+            "course_code": "CSF3513",
+            "course_name": "SPECIAL TOPICS IN SOFTWARE ENGINEERING"
+        },
+        {
+            "course_code": "CSF3523",
+            "course_name": "INFORMATION SYSTEM"
+        },
+        {
+            "course_code": "CSF3533",
+            "course_name": "MULTIMEDIA TECHNOLOGY"
+        },
+        {
+            "course_code": "CSF3543",
+            "course_name": "DIGITAL IMAGE PROCESSING"
+        },
+        {
+            "course_code": "CSF3553",
+            "course_name": "INFORMATION RETRIEVAL"
+        },
+        {
+            "course_code": "CSF3563",
+            "course_name": "DATA MINING"
+        },
+        {
+            "course_code": "CSF3573",
+            "course_name": "COMPUTER AUDITING"
+        },
+        {
+            "course_code": "CSF3583",
+            "course_name": "FORMAL METHOD"
+        },
+        {
+            "course_code": "CSF3593",
+            "course_name": "COMPUTER FORENSICS"
+        },
+        {
+            "course_code": "CSF3603",
+            "course_name": "DIGITAL COMMERCE"
+        },
+        {
+            "course_code": "CSF3613",
+            "course_name": "MACHINE LEARNING"
+        },
+        {
+            "course_code": "CSF3623",
+            "course_name": "PROGRAMMING PARADIGMS"
+        },
+        {
+            "course_code": "CSF3701",
+            "course_name": "INTELLIGENT SYSTEM"
+        },
+        {
+            "course_code": "CSF49712",
+            "course_name": "INDUSTRIAL TRAINING"
+        },
+        {
+            "course_code": "CSF4984",
+            "course_name": "FINAL YEAR PROJECT I"
+        },
+        {
+            "course_code": "CSF4992",
+            "course_name": "INDUSTRIAL TRAINING"
+        },
+        {
+            "course_code": "CSF4994",
+            "course_name": "FINAL YEAR PROJECT II"
+        },
+        {
+            "course_code": "CSF4998",
+            "course_name": "FINAL YEAR PROJECT I"
+        },
+        {
+            "course_code": "CSF4999",
+            "course_name": "FINAL YEAR PROJECT II"
+        },
+        {
+            "course_code": "CSM3023",
+            "course_name": "WEB-BASED APPLICATION DEVELOPMENT"
+        },
+        {
+            "course_code": "CSM3103",
+            "course_name": "FRONT-END PROGRAMMING"
+        },
+        {
+            "course_code": "CSM3114",
+            "course_name": "FRAMEWORK-BASED MOBILE APPLICATION DEVELOPMENT"
+        },
+        {
+            "course_code": "CSM3123",
+            "course_name": "NATIVE MOBILE PROGRAMMING"
+        },
+        {
+            "course_code": "CSM3313",
+            "course_name": "IOT COMPUTING"
+        },
+        {
+            "course_code": "CSM3401",
+            "course_name": "IOT COMPUTING"
+        },
+        {
+            "course_code": "CSM3502",
+            "course_name": "WEB-BASED APPLICATION DEVELOPMENT"
+        },
+        {
+            "course_code": "CSM3503",
+            "course_name": "FRONT-END PROGRAMMING"
+        },
+        {
+            "course_code": "CSM3504",
+            "course_name": "FRAMEWORK-BASED MOBILE APPLICATION DEVELOPMENT"
+        },
+        {
+            "course_code": "CSM3505",
+            "course_name": "NATIVE MOBILE PROGRAMMING"
+        },
+        {
+            "course_code": "CSM4908-I",
+            "course_name": "INDUSTRIAL PROJECT MANAGEMENT"
+        },
+        {
+            "course_code": "CSM4918-I",
+            "course_name": "INDUSTRIAL PROJECT DEVELOPMENT"
+        },
+        {
+            "course_code": "CSM4928-I",
+            "course_name": "INTEGRATED INDUSTRIAL PROJECT MANAGEMENT"
+        },
+        {
+            "course_code": "CSM4938-I",
+            "course_name": "INTEGRATED INDUSTRIAL PROJECT DEVELOPMENT"
+        },
+        {
+            "course_code": "CSM4993",
+            "course_name": "INDUSTRIAL PROJECT MANAGEMENT"
+        },
+        {
+            "course_code": "CSM4994",
+            "course_name": "INDUSTRIAL PROJECT DEVELOPMENT"
+        },
+        {
+            "course_code": "CSM4995",
+            "course_name": " INTEGRATED INDUSTRIAL PROJECT MANAGEMENT"
+        },
+        {
+            "course_code": "CSM4996",
+            "course_name": " INTEGRATED INDUSTRIAL PROJECT DEVELOPMENT"
+        },
+        {
+            "course_code": "CSM5003",
+            "course_name": "KAEDAH PENYELIDIKAN"
+        },
+        {
+            "course_code": "CSM5983",
+            "course_name": "PROJEK KOLOKIUM SISWAZAH"
+        },
+        {
+            "course_code": "CSS3003",
+            "course_name": "COMPUTER SYSTEM AND APPLICATION"
+        },
+        {
+            "course_code": "CSS5014",
+            "course_name": "PENGURUSAN PROJEK PERISIAN"
+        },
+        {
+            "course_code": "CSS5024",
+            "course_name": "ANALISIS ALGORITMA"
+        },
+        {
+            "course_code": "CSS5034",
+            "course_name": "TEKNOLOGI INTERNET"
+        },
+        {
+            "course_code": "CSS5044",
+            "course_name": "PEMBELAJARAN MESIN"
+        },
+        {
+            "course_code": "CSS5414",
+            "course_name": "KAEDAH PENGUJIAN PERISIAN"
+        },
+        {
+            "course_code": "CSS5424",
+            "course_name": "PENGURUSAN KUALITI PERISIAN"
+        },
+        {
+            "course_code": "CSS5434",
+            "course_name": "SISTEM SOKONGAN KEPUTUSAN"
+        },
+        {
+            "course_code": "CSS5444",
+            "course_name": "PEMPROSESAN IMEJ DIGITAL"
+        },
+        {
+            "course_code": "CSS59910",
+            "course_name": "PROJEK SARJANA"
+        },
+        {
+            "course_code": "EDI2013",
+            "course_name": "BASICS OF ENGINEERING MATHEMATICS AND ELECTRICITY"
+        },
+        {
+            "course_code": "EDI3013",
+            "course_name": "ENGINEERING MATHEMATICS I"
+        },
+        {
+            "course_code": "EDI3023",
+            "course_name": "ENGINEERING MATHEMATICS II"
+        },
+        {
+            "course_code": "EDI3033",
+            "course_name": "ELECTRICITY AND MAGNETISM"
+        },
+        {
+            "course_code": "EDI3043",
+            "course_name": "DIGITAL ELECRONICS"
+        },
+        {
+            "course_code": "EDI3053",
+            "course_name": "CIRCUIT THEORY"
+        },
+        {
+            "course_code": "EDI3063",
+            "course_name": "SENSORS AND TRANSDUCERS"
+        },
+        {
+            "course_code": "EDI3073",
+            "course_name": "ELECTRONIC DEVICES"
+        },
+        {
+            "course_code": "EDI3083",
+            "course_name": "COMPUTATIONAL TECHNIQUE"
+        },
+        {
+            "course_code": "EDI3093",
+            "course_name": "MODERN INSTRUMENTATION SYSTEM"
+        },
+        {
+            "course_code": "EDI3113",
+            "course_name": "ANALOGUE ELECTRONIC"
+        },
+        {
+            "course_code": "EDI3123",
+            "course_name": "MEASUREMENT SYSTEM"
+        },
+        {
+            "course_code": "EDI3183",
+            "course_name": "BASIC PROGRAMMING FOR TECHNOLOGIST"
+        },
+        {
+            "course_code": "EDI3303",
+            "course_name": "FUNDAMENTAL PHYSICS"
+        },
+        {
+            "course_code": "EDI3313",
+            "course_name": "ENGINEERING MATHEMATICS I"
+        },
+        {
+            "course_code": "EDI3323",
+            "course_name": "ENGINEERING MATHEMATICS II"
+        },
+        {
+            "course_code": "EDI3333",
+            "course_name": "BASIC PROGRAMMING FOR TECHNOLOGIST"
+        },
+        {
+            "course_code": "EDI3343",
+            "course_name": "FUNDAMENTAL PHYSICS"
+        },
+        {
+            "course_code": "EDI3353",
+            "course_name": "BASIC PROGRAMMING FOR TECHNOLOGIST"
+        },
+        {
+            "course_code": "EDI3403",
+            "course_name": "DESIGN OF THE ELECTRONIC EQUIPMENTS"
+        },
+        {
+            "course_code": "EDI3533",
+            "course_name": "THERMAL AND MODERN PHYSICS"
+        },
+        {
+            "course_code": "EDI3543",
+            "course_name": "MECHANICS AND WAVES"
+        },
+        {
+            "course_code": "EDI3553",
+            "course_name": "MATERIAL SCIENCE"
+        },
+        {
+            "course_code": "EDI4103",
+            "course_name": "SIGNAL AND SYSTEM"
+        },
+        {
+            "course_code": "EDI4133",
+            "course_name": "POWER ELECTRONICS"
+        },
+        {
+            "course_code": "EDI4143",
+            "course_name": "ELECTROMAGNETISM"
+        },
+        {
+            "course_code": "EDI4153",
+            "course_name": "EMBEDDED SYSTEM"
+        },
+        {
+            "course_code": "EDI4163",
+            "course_name": "CONTROL SYSTEM"
+        },
+        {
+            "course_code": "EDI4173",
+            "course_name": "NUMERICAL METHODS"
+        },
+        {
+            "course_code": "EDI4413",
+            "course_name": "SEMINAR AND RESEARCH"
+        },
+        {
+            "course_code": "EDI4423",
+            "course_name": "ELECTRONICS AND MEDICAL IMAGING"
+        },
+        {
+            "course_code": "EDI4433",
+            "course_name": "ADVANCED ANALOGUE ELECTRONICS"
+        },
+        {
+            "course_code": "EDI4443",
+            "course_name": "INTERNET OF THINGS"
+        },
+        {
+            "course_code": "EDI4463",
+            "course_name": "OPTICS AND LASER TECHNOLOGY"
+        },
+        {
+            "course_code": "EDI4473",
+            "course_name": "COMPUTER INTERFACING AND CONTROL"
+        },
+        {
+            "course_code": "EDI4483",
+            "course_name": "PRINCIPLE OF COMMUNICATION SYSTEM"
+        },
+        {
+            "course_code": "EDI4493",
+            "course_name": "ELECTRICAL MACHINES"
+        },
+        {
+            "course_code": "EDI4503",
+            "course_name": "WIRELESS COMMUNICATION"
+        },
+        {
+            "course_code": "EDI4513",
+            "course_name": "INTRODUCTION TO SIMULINK ENVIRONMENT"
+        },
+        {
+            "course_code": "EDI4523",
+            "course_name": "PLASMA ELECTONICS"
+        },
+        {
+            "course_code": "EDI4563",
+            "course_name": "SOLID STATE PHYSICS "
+        },
+        {
+            "course_code": "EDI4573",
+            "course_name": "QUANTUM MECHANICS"
+        },
+        {
+            "course_code": "EDI4583",
+            "course_name": "PHYSICAL ACOUSTIC "
+        },
+        {
+            "course_code": "EDI4593",
+            "course_name": "ATOMIC PHYSICS"
+        },
+        {
+            "course_code": "EDI4603",
+            "course_name": "SEMICONDUCTOR DEVICES"
+        },
+        {
+            "course_code": "EDI4613",
+            "course_name": "MATERIALS PROCESSING TECHNOLOGY "
+        },
+        {
+            "course_code": "EDI4623",
+            "course_name": "PHYSICS AND THIN FILM TECHNOLOGY "
+        },
+        {
+            "course_code": "EDI4633",
+            "course_name": "WIRELESS POWER TRANSFER"
+        },
+        {
+            "course_code": "EDI4643",
+            "course_name": "HIGH VOLTAGE TECHNOLOGY"
+        },
+        {
+            "course_code": "EDI4653",
+            "course_name": "CONDITION MONITORING"
+        },
+        {
+            "course_code": "EDI4663",
+            "course_name": "INTRODUCTION TO MATERIALS ANALYSIS"
+        },
+        {
+            "course_code": "EDI4673",
+            "course_name": "INTRODUCTION TO RENEWABLE ENERGY"
+        },
+        {
+            "course_code": "EDI4683",
+            "course_name": "INTRODUCTION TO  ENERGY STORAGE"
+        },
+        {
+            "course_code": "EDI4693",
+            "course_name": "MEDICAL INSTRUMENTATION"
+        },
+        {
+            "course_code": "EDI4703",
+            "course_name": "INTRODUCTION TO HYBRID AND ELECTRIC VEHICLES"
+        },
+        {
+            "course_code": "EDI4713",
+            "course_name": "INTRODUCTION TO COMPUTER AIDED DRAWING"
+        },
+        {
+            "course_code": "EDI4723",
+            "course_name": "SUSTAINABILITY IN TELECOMMUNICATION TECHNOLOGY"
+        },
+        {
+            "course_code": "EDI4733",
+            "course_name": "BATTERIES AND SUPERCAPACITORS TECHNOLOGY"
+        },
+        {
+            "course_code": "EDI4743",
+            "course_name": "HYDROGEN-BASED ENERGY AND STORAGE"
+        },
+        {
+            "course_code": "EDI49712",
+            "course_name": "INDUSTRIAL TRAINING"
+        },
+        {
+            "course_code": "EDI4982",
+            "course_name": "FINAL YEAR PROJECT I"
+        },
+        {
+            "course_code": "EDI4994",
+            "course_name": "FINAL YEAR PROJECT II"
+        },
+        {
+            "course_code": "ITS5014",
+            "course_name": "TEKNOLOGI PEMBANGUNAN DAN PENGURUSAN PERISIAN"
+        },
+        {
+            "course_code": "ITS5024",
+            "course_name": "PENGATURCARAAN SUMBER TERBUKA"
+        },
+        {
+            "course_code": "ITS5034",
+            "course_name": "ANALITIK DATA"
+        },
+        {
+            "course_code": "ITS5044",
+            "course_name": "PENDEKATAN STRATEGIK PENGURUSAN SISTEM MAKLUMAT"
+        },
+        {
+            "course_code": "ITS5414",
+            "course_name": "PERDAGANGAN DIGITAL"
+        },
+        {
+            "course_code": "KAS3001",
+            "course_name": "PENGENALAN TEKNOLOGI ALAM SEKITAR"
+        },
+        {
+            "course_code": "KAS3002",
+            "course_name": "STATISTIK ALAM SEKITAR"
+        },
+        {
+            "course_code": "KAS3013",
+            "course_name": "PENGENALAN KEPADA TEKNOLOGI ALAM SEKITAR"
+        },
+        {
+            "course_code": "KAS3023",
+            "course_name": "STATISTIK ALAM SEKITAR"
+        },
+        {
+            "course_code": "KAS3032",
+            "course_name": "PRINSIP ANALISIS ALAM SEKITAR"
+        },
+        {
+            "course_code": "KAS3201",
+            "course_name": "TEKNOLOGI RAWATAN AIR"
+        },
+        {
+            "course_code": "KAS3202",
+            "course_name": "TEKNOLOGI RAWATAN AIR SISA"
+        },
+        {
+            "course_code": "KAS3213",
+            "course_name": "TEKNOLOGI RAWATAN AIR"
+        },
+        {
+            "course_code": "KAS3223",
+            "course_name": "TEKNOLOGI RAWATAN AIR SISA"
+        },
+        {
+            "course_code": "KAS3301",
+            "course_name": "KUALITI DAN PENCEMARAN UDARA"
+        },
+        {
+            "course_code": "KAS3313",
+            "course_name": "KUALITI DAN PENCEMARAN UDARA"
+        },
+        {
+            "course_code": "KAS3323",
+            "course_name": "METEOROLOGI DAN ALAM SEKITAR"
+        },
+        {
+            "course_code": "KAS3501",
+            "course_name": "KESELAMATAN DAN KESIHATAN DALAM PEKERJAAN"
+        },
+        {
+            "course_code": "KAS3502",
+            "course_name": "PERATURAN DAN UNDANG-UNDANG ALAM SEKITAR"
+        },
+        {
+            "course_code": "KAS3503",
+            "course_name": "PENGURUSAN ALAM SEKITAR"
+        },
+        {
+            "course_code": "KAS3513",
+            "course_name": "KESELAMATAN DAN KESIHATAN PEKERJAAN"
+        },
+        {
+            "course_code": "KAS3523",
+            "course_name": "PERATURAN DAN UNDANG-UNDANG ALAM SEKITAR"
+        },
+        {
+            "course_code": "KAS3533 ",
+            "course_name": "PENGURUSAN ALAM SEKITAR"
+        },
+        {
+            "course_code": "KAS3702",
+            "course_name": "HIDROLOGI DAN SUMBER AIR"
+        },
+        {
+            "course_code": "KAS3723",
+            "course_name": "HIDROLOGI DAN SUMBER AIR"
+        },
+        {
+            "course_code": "KAS4101",
+            "course_name": "REKABENTUK KEJURUTERAAN ALAM SEKITAR"
+        },
+        {
+            "course_code": "KAS4113",
+            "course_name": "REKA BENTUK ALAM SEKITAR"
+        },
+        {
+            "course_code": "KAS4213",
+            "course_name": "SALIRAN BANDAR DAN PEMBENTUNGAN"
+        },
+        {
+            "course_code": "KAS4223",
+            "course_name": "TEKNOLOGI RAWATAN AIR SISA LANJUTAN"
+        },
+        {
+            "course_code": "KAS4233",
+            "course_name": "TANAH LEMBAP"
+        },
+        {
+            "course_code": "KAS4243",
+            "course_name": "RAWATAN EFLUEN PERINDUSTRIAN OLEH ENAPCEMAR TERAKTIF"
+        },
+        {
+            "course_code": "KAS4313",
+            "course_name": "TEKNOLOGI KAWALAN PENCEMARAN UDARA"
+        },
+        {
+            "course_code": "KAS4323",
+            "course_name": "KUALITI UDARA DALAM BANGUNAN"
+        },
+        {
+            "course_code": "KAS4333",
+            "course_name": "PELEPASAN DARIPADA PROSES PEMBAKARAN"
+        },
+        {
+            "course_code": "KAS4343",
+            "course_name": "PERMONITORAN KUALITI UDARA DAN INSTRUMENTASI"
+        },
+        {
+            "course_code": "KAS4353",
+            "course_name": "HINGAR PERSEKITARAN DAN GEGARAN "
+        },
+        {
+            "course_code": "KAS4401",
+            "course_name": "PENGURUSAN SISA PEPEJAL"
+        },
+        {
+            "course_code": "KAS4402",
+            "course_name": "PENGURUSAN SISA BERBAHAYA DAN TERJADUAL"
+        },
+        {
+            "course_code": "KAS4413",
+            "course_name": "PENGURUSAN SISA PEPEJAL"
+        },
+        {
+            "course_code": "KAS4423",
+            "course_name": "PENGURUSAN SISA BERBAHAYA DAN TERJADUAL"
+        },
+        {
+            "course_code": "KAS4505",
+            "course_name": "PENILAIAN IMPAK ALAM SEKITAR"
+        },
+        {
+            "course_code": "KAS4513",
+            "course_name": "KEJURUTERAAN GEOTEKNIKAL"
+        },
+        {
+            "course_code": "KAS4533",
+            "course_name": "HIGIEN INDUSTRI"
+        },
+        {
+            "course_code": "KAS4543",
+            "course_name": "PENGURUSAN DAN AUDIT KESELAMATAN KESIHATAN PEKERJAAN"
+        },
+        {
+            "course_code": "KAS4553",
+            "course_name": "PENILAIAN KESAN KEPADA ALAM SEKELILING"
+        },
+        {
+            "course_code": "KAS4563",
+            "course_name": "PENILAIAN KITAR HAYAT"
+        },
+        {
+            "course_code": "KAS4573",
+            "course_name": "KELESTARIAN OPERASI DAN PENGURUSAN"
+        },
+        {
+            "course_code": "KAS4713",
+            "course_name": " AIR BUMI DAN PENCEMARAN"
+        },
+        {
+            "course_code": "KAS4723",
+            "course_name": "HIDROLOGI DAN AIR PERMUKAAN"
+        },
+        {
+            "course_code": "KAS4733",
+            "course_name": "PERSEKITARAN PESISIR PANTAI"
+        },
+        {
+            "course_code": "KAS4743",
+            "course_name": "FIZIK TANAH"
+        },
+        {
+            "course_code": "KAS4753",
+            "course_name": "PENGURUSAN LEMBANGAN"
+        },
+        {
+            "course_code": "KAS4763",
+            "course_name": " SIFAT FIZIKAL DAN SEMULAJADI TANAH"
+        },
+        {
+            "course_code": "KAS4773",
+            "course_name": "SISTEM MAKLUMAT GEOGRAFI (GIS) GUNAAN UNTUK ALAM SEKITAR"
+        },
+        {
+            "course_code": "KAS49712",
+            "course_name": "LATIHAN INDUSTRI"
+        },
+        {
+            "course_code": "KAS4983",
+            "course_name": "PROJEK ILMIAH TAHUN AKHIR I"
+        },
+        {
+            "course_code": "KAS4992B",
+            "course_name": "LATIHAN INDUSTRI"
+        },
+        {
+            "course_code": "KAS4993",
+            "course_name": "PROJEK ILMIAH TAHUN AKHIR II"
+        },
+        {
+            "course_code": "KAS4998",
+            "course_name": "PROJEK ILMIAH TAHUN AKHIR I"
+        },
+        {
+            "course_code": "KAS4999",
+            "course_name": "PROJEK ILMIAH TAHUN AKHIR II"
+        },
+        {
+            "course_code": "KEJ3102",
+            "course_name": "KEJURUTERAAN BAHAN"
+        },
+        {
+            "course_code": "KEJ3104",
+            "course_name": "MEKANIK BENDALIR"
+        },
+        {
+            "course_code": "KEJ3106",
+            "course_name": "PRINSIP PROSES KIMIA"
+        },
+        {
+            "course_code": "KEJ3123",
+            "course_name": "KEJURUTERAAN BAHAN"
+        },
+        {
+            "course_code": "KEJ3133",
+            "course_name": "LUKISAN KEJURUTERAAN TEKNOLOGI ALAM SEKITAR"
+        },
+        {
+            "course_code": "KEJ3143",
+            "course_name": "MEKANIK BENDALIR"
+        },
+        {
+            "course_code": "KEJ3163",
+            "course_name": "PRINSIP PROSES KIMIA"
+        },
+        {
+            "course_code": "KEJ3173",
+            "course_name": "MATEMATIK UNTUK TEKNOLOGI"
+        },
+        {
+            "course_code": "KEJ4113",
+            "course_name": "OPERASI UNIT"
+        },
+        {
+            "course_code": "KEJ4123",
+            "course_name": "TEKNOLOGI TINDAKBALAS KIMIA"
+        },
+        {
+            "course_code": "KEJ4133",
+            "course_name": "PEMINDAHAN HABA"
+        },
+        {
+            "course_code": "KEJ4143",
+            "course_name": "IMBANGAN BAHAN DAN TENAGA"
+        },
+        {
+            "course_code": "KEJ4513",
+            "course_name": "EKONOMI KEJURUTERAAN"
+        },
+        {
+            "course_code": "KEJ4523",
+            "course_name": "KESELAMATAN PROSES KIMIA"
+        },
+        {
+            "course_code": "KEJ4613",
+            "course_name": "TEKNOLOGI TENAGA KETERBAHARUAN"
+        },
+        {
+            "course_code": "KEJ4623",
+            "course_name": "TEKNOLOGI MEMBRAN"
+        },
+        {
+            "course_code": "KEJ4633",
+            "course_name": "TEKNOLOGI BERSIH"
+        },
+        {
+            "course_code": "KEJ4643",
+            "course_name": "POLIMER DAN ALAM SEKITAR"
+        },
+        {
+            "course_code": "KEJ4653",
+            "course_name": "NANOTEKNOLOGI ALAM SEKITAR"
+        },
+        {
+            "course_code": "KEJ4663",
+            "course_name": "RAWATAN TERMOKIMIA DAN PEMULIHAN BIOJISIM"
+        },
+        {
+            "course_code": "KEJ4673",
+            "course_name": "TEKNOLOGI PROSES PENCERNAAN ANAEROBIK"
+        },
+        {
+            "course_code": "KEJ4683",
+            "course_name": "TENAGA DAN PERUBAHAN IKLIM"
+        },
+        {
+            "course_code": "KEJ4693",
+            "course_name": "PENGURUSAN DAN AUDIT TENAGA"
+        },
+        {
+            "course_code": "KKI2001-S",
+            "course_name": "OCEAN OF DISCOVERIES"
+        },
+        {
+            "course_code": "KKI2011-S",
+            "course_name": "NATURE, HERITAGE AND CULTURE"
+        },
+        {
+            "course_code": "KKI4961-M",
+            "course_name": "INTERNATIONAL MOBILITY I"
+        },
+        {
+            "course_code": "KKI4962-M",
+            "course_name": "INTERNATIONAL MOBILITY II"
+        },
+        {
+            "course_code": "KL5011-M",
+            "course_name": "\"OCEAN ENGINEERING INDEPENDENT STUDY (KAJIAN MANDIRI KEJURUTERAAN KELAUTAN) \t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t"
+        },
+        {
+            "course_code": "MKG3002",
+            "course_name": "PRINCIPLE OF MATHEMATICAL MODELLING"
+        },
+        {
+            "course_code": "MKG3003",
+            "course_name": "VECTOR CALCULUS"
+        },
+        {
+            "course_code": "MKG3004",
+            "course_name": "NUMERICAL ANALYSIS"
+        },
+        {
+            "course_code": "MKG3013",
+            "course_name": "MODERN ALGEBRA"
+        },
+        {
+            "course_code": "MKG3023",
+            "course_name": "APPLIED MATHEMATICAL METHODS"
+        },
+        {
+            "course_code": "MKG3033",
+            "course_name": "SCIENTIFIC COMPUTING"
+        },
+        {
+            "course_code": "MKG4003",
+            "course_name": "PARTIAL DIFFERENTIAL EQUATIONS"
+        },
+        {
+            "course_code": "MKG4004",
+            "course_name": "ADVANCED OPERATIONS RESEARCH"
+        },
+        {
+            "course_code": "MKG4013",
+            "course_name": "COMPUTATIONAL METHODS FOR DIFFERENTIAL EQUATIONS"
+        },
+        {
+            "course_code": "MKG4023",
+            "course_name": "MATHEMATICAL FLUID MECHANICS"
+        },
+        {
+            "course_code": "MKG4033",
+            "course_name": "INTRODUCTION TO FUZZY SET THEORY"
+        },
+        {
+            "course_code": "MKG4043",
+            "course_name": "DYNAMICAL SYSTEMS"
+        },
+        {
+            "course_code": "MKG4053",
+            "course_name": "COMPLEX ANALYSIS"
+        },
+        {
+            "course_code": "MKG4063",
+            "course_name": "FUNCTIONAL ANALYSIS"
+        },
+        {
+            "course_code": "MKG4073",
+            "course_name": "TOPOLOGY"
+        },
+        {
+            "course_code": "MKG4083",
+            "course_name": "LOGIC AND COMPUTATION"
+        },
+        {
+            "course_code": "MKG4093",
+            "course_name": "HEURISTICS TECHNIQUES FOR COMBINATORIAL OPTIMIZATION"
+        },
+        {
+            "course_code": "MKG4103",
+            "course_name": "GRAPH THEORY"
+        },
+        {
+            "course_code": "MKG4113",
+            "course_name": "COMPUTER AIDED GEOMETRIC DESIGN"
+        },
+        {
+            "course_code": "MKW3003",
+            "course_name": "PROBABILITY THEORY IN FINANCE"
+        },
+        {
+            "course_code": "MKW3013",
+            "course_name": "STOCHASTIC MODELLING AND APPLICATIONS"
+        },
+        {
+            "course_code": "MKW3023",
+            "course_name": "INVESTMENT MATHEMATICS"
+        },
+        {
+            "course_code": "MKW4003",
+            "course_name": "INTRODUCTION TO STOCHASTIC DIFFERENTIAL EQUATIONS"
+        },
+        {
+            "course_code": "MKW4004",
+            "course_name": "NUMERICAL METHODS IN FINANCE"
+        },
+        {
+            "course_code": "MKW4013",
+            "course_name": "FINANCIAL DERIVATIVES"
+        },
+        {
+            "course_code": "MKW4023",
+            "course_name": "FINANCIAL FORECASTING"
+        },
+        {
+            "course_code": "MKW4033",
+            "course_name": "MATHEMATICAL THEORY IN INSURANCE"
+        },
+        {
+            "course_code": "MKW4043",
+            "course_name": "FINANCIAL OPTIMIZATION"
+        },
+        {
+            "course_code": "MKW4053",
+            "course_name": "FINANCIAL RISK ANALYSIS"
+        },
+        {
+            "course_code": "MKW4063",
+            "course_name": "FINANCIAL ECONOMETRICS"
+        },
+        {
+            "course_code": "MKW4073",
+            "course_name": "ISLAMIC FINANCIAL MATHEMATICS"
+        },
+        {
+            "course_code": "MMT3023",
+            "course_name": "MEKANIK BENDALIR"
+        },
+        {
+            "course_code": "MMT3033",
+            "course_name": "REKABENTUK DAN GRAFIK"
+        },
+        {
+            "course_code": "MMT3043",
+            "course_name": "KEJURUTERAAN BAHAN"
+        },
+        {
+            "course_code": "MMT3053",
+            "course_name": "TERMODINAMIK"
+        },
+        {
+            "course_code": "MMT3063",
+            "course_name": "KUASA BENDALIR MARIN"
+        },
+        {
+            "course_code": "MMT3073",
+            "course_name": "TEKNOLOGI PERKAPALAN DAN PERLABUHAN"
+        },
+        {
+            "course_code": "MMT3082",
+            "course_name": "BENGKEL PERMESINAN DAN KIMPALAN"
+        },
+        {
+            "course_code": "MMT3093",
+            "course_name": "MEKANIK DINAMIK"
+        },
+        {
+            "course_code": "MMT3103",
+            "course_name": "MEKANIK KEJURUTERAAN"
+        },
+        {
+            "course_code": "MMT3112",
+            "course_name": "MAKMAL TEKNOLOGI MARIN"
+        },
+        {
+            "course_code": "MMT3123",
+            "course_name": "KEKUATAN BAHAN"
+        },
+        {
+            "course_code": "MMT3133",
+            "course_name": "SISTEM KEJURUTERAAN MARIN"
+        },
+        {
+            "course_code": "MMT3144",
+            "course_name": "ELEKTRONIK DAN INSTRUMENTASI MARIN"
+        },
+        {
+            "course_code": "MMT3154 ",
+            "course_name": "SENIBINA DAN PEMBINAAN KAPAL"
+        },
+        {
+            "course_code": "MMT4163",
+            "course_name": "TEKNOLOGI MARIN DAN PERSEKITARAN"
+        },
+        {
+            "course_code": "MMT4173",
+            "course_name": "OTOMASI DAN KAWALAN MARIN"
+        },
+        {
+            "course_code": "MMT4183",
+            "course_name": "SENIBINA KAPAL LANJUTAN"
+        },
+        {
+            "course_code": "MMT4193",
+            "course_name": "REKABENTUK KEJURUTERAAN MARITIM"
+        },
+        {
+            "course_code": "MMT4213",
+            "course_name": "ENGIN DIESEL"
+        },
+        {
+            "course_code": "MMT4223",
+            "course_name": "KAEDAH PENYELIDIKAN TEKNOLOGI"
+        },
+        {
+            "course_code": "MMT4233",
+            "course_name": "LOJI KUASA DAN JENTERA KAPAL"
+        },
+        {
+            "course_code": "MMT4244",
+            "course_name": "SISTEM PENYELENGGARAAN DAN PEMBAIKAN KAPAL"
+        },
+        {
+            "course_code": "MMT4253",
+            "course_name": "KAKISAN MARIN"
+        },
+        {
+            "course_code": "MMT4263",
+            "course_name": "STRUKTUR LUAR PANTAI"
+        },
+        {
+            "course_code": "MMT4273",
+            "course_name": "HIDRODINAMIK MARIN"
+        },
+        {
+            "course_code": "MMT4283",
+            "course_name": "SISTEM PENYEJUKAN DAN PENDINGINAN MARIN"
+        },
+        {
+            "course_code": "MMT4293",
+            "course_name": "STRUKTUR KAPAL"
+        },
+        {
+            "course_code": "MMT4313",
+            "course_name": "MOORING DAN RISER LUAR PANTAI"
+        },
+        {
+            "course_code": "MMT4323",
+            "course_name": "SALURAN PAIP LUAR PANTAI"
+        },
+        {
+            "course_code": "MMT4333",
+            "course_name": "MARITIM DAN KEJURUTERAAN PANTAI"
+        },
+        {
+            "course_code": "MMT4343",
+            "course_name": "REKABENTUK STRUKTUR TERAPUNG"
+        },
+        {
+            "course_code": "MMT49712",
+            "course_name": "LATIHAN INDUSTRI ( INDUSTRIAL TRAINING)"
+        },
+        {
+            "course_code": "MMT4982",
+            "course_name": "PROJEK ILMIAH TAHUN AKHIR I"
+        },
+        {
+            "course_code": "MMT4994",
+            "course_name": "PROJEK ILMIAH TAHUN AKHIR II"
+        },
+        {
+            "course_code": "MNA3013",
+            "course_name": "LUKISAN KEJURUTERAAN"
+        },
+        {
+            "course_code": "MNA3023",
+            "course_name": "DINAMIK"
+        },
+        {
+            "course_code": "MNA3033",
+            "course_name": "PEMBINAAN KAPAL"
+        },
+        {
+            "course_code": "MNA3043",
+            "course_name": "SENIBINA KAPAL 1"
+        },
+        {
+            "course_code": "MNA3053",
+            "course_name": "KEJURUTERAAN SISTEM MARIN 1"
+        },
+        {
+            "course_code": "MNA3064",
+            "course_name": "SENIBINA KAPAL 2"
+        },
+        {
+            "course_code": "MNA3073",
+            "course_name": "KEJURUTERAAN SISTEM MARIN 2"
+        },
+        {
+            "course_code": "MNA3082",
+            "course_name": "EKONOMI KEJURUTERAAN DAN KEUSAHAWAN"
+        },
+        {
+            "course_code": "MNA3093",
+            "course_name": "SENIBINA KAPAL 3"
+        },
+        {
+            "course_code": "MNA3103",
+            "course_name": "KEJURUTERAAN SISTEM MARIN 3"
+        },
+        {
+            "course_code": "MNA3113",
+            "course_name": "PENGURUSAN PROJEK"
+        },
+        {
+            "course_code": "MNA3124",
+            "course_name": "PROJEK REKABENTUK KAPSTONE"
+        },
+        {
+            "course_code": "MNA3133",
+            "course_name": "SISTEM PENYELENGGARAAN DAN PEMBAIKAN KAPAL"
+        },
+        {
+            "course_code": "MNA3143",
+            "course_name": "SENIBINA KAPAL 4"
+        },
+        {
+            "course_code": "MNA3153",
+            "course_name": "KEJURUTERAAN SISTEM MARIN 4"
+        },
+        {
+            "course_code": "MNA3163",
+            "course_name": "AUTOMASI DAN SISTEM KAWALAN"
+        },
+        {
+            "course_code": "MNA3173",
+            "course_name": "STATISTIK KEJURUTERAAN"
+        },
+        {
+            "course_code": "MNA3183",
+            "course_name": "KESELAMATAN DAN KESIHATAN PEKERJAAN"
+        },
+        {
+            "course_code": "MNA3192",
+            "course_name": "JURUTERA, UNDANG-UNDANG DAN PERTUBUHAN"
+        },
+        {
+            "course_code": "MNA3203",
+            "course_name": "STATIK"
+        },
+        {
+            "course_code": "MNA49712",
+            "course_name": "LATIHAN INDUSTRI"
+        },
+        {
+            "course_code": "MNA4982",
+            "course_name": "PROJEK ILMIAH TAHUN AKHIR 1"
+        },
+        {
+            "course_code": "MNA4994",
+            "course_name": "PROJEK ILMIAH TAHUN AKHIR 2"
+        },
+        {
+            "course_code": "MTK3022",
+            "course_name": "MATHEMATICS FOR CHEMISTRY"
+        },
+        {
+            "course_code": "MTK3032",
+            "course_name": "STATISTICS FOR CHEMISTRY"
+        },
+        {
+            "course_code": "MTK3033",
+            "course_name": "MATHEMATICS"
+        },
+        {
+            "course_code": "MTK3043",
+            "course_name": "ENGINEERING MATHEMATICS"
+        },
+        {
+            "course_code": "MTK3053",
+            "course_name": "INTRODUCTION TO STATISTICS"
+        },
+        {
+            "course_code": "MTK3063",
+            "course_name": "BIOSTATISTICS"
+        },
+        {
+            "course_code": "MTM3004",
+            "course_name": "LINEAR ALGEBRA"
+        },
+        {
+            "course_code": "MTM3013",
+            "course_name": "REAL ANALYSIS"
+        },
+        {
+            "course_code": "MTM3014",
+            "course_name": "CALCULUS"
+        },
+        {
+            "course_code": "MTM3024",
+            "course_name": "STATISTICS"
+        },
+        {
+            "course_code": "MTM3034",
+            "course_name": "ADVANCED STATISTICS"
+        },
+        {
+            "course_code": "MTM3044",
+            "course_name": "OPERATIONS RESEARCH WITH SAS"
+        },
+        {
+            "course_code": "MTM3054",
+            "course_name": "PROGRAMMING LANGUAGE"
+        },
+        {
+            "course_code": "MTM4004",
+            "course_name": "OPTIMIZATION"
+        },
+        {
+            "course_code": "MTM49712",
+            "course_name": "INDUSTRIAL TRAINING"
+        },
+        {
+            "course_code": "MTM4982",
+            "course_name": "FINAL YEAR PROJECT I"
+        },
+        {
+            "course_code": "MTM4994",
+            "course_name": "FINAL YEAR PROJECT II"
+        },
+        {
+            "course_code": "MTS5004",
+            "course_name": "NONLINEAR DIFFERENTIAL EQUATIONS"
+        },
+        {
+            "course_code": "MTS5014",
+            "course_name": "NUMERICAL SOLUTIONS IN MATHEMATICAL MODELING"
+        },
+        {
+            "course_code": "MTS5024",
+            "course_name": "SELECTED ISSUES IN MATHEMATICAL MODELLING"
+        },
+        {
+            "course_code": "MTS5034",
+            "course_name": "MATHEMATICS FOR PHYSICAL OCEANOGRAPHY"
+        },
+        {
+            "course_code": "MTS5044",
+            "course_name": "COMPUTATIONAL WAVE DYNAMICS"
+        },
+        {
+            "course_code": "MTS5054",
+            "course_name": "STOCHASTIC MODELLING IN PHYSICAL OCEANOGRAPHY"
+        },
+        {
+            "course_code": "MTS5064",
+            "course_name": "DYNAMICAL SYSTEM FOR PHYSICAL OCEANOGRAPHY"
+        },
+        {
+            "course_code": "MTS5074",
+            "course_name": "DETERMINISTIC MATHEMATICAL MODEL IN MARITIME MANAGEMENT"
+        },
+        {
+            "course_code": "MTS5084",
+            "course_name": "CONVEX AND NONLINEAR OPTIMIZATION IN MARITIME PROBLEM"
+        },
+        {
+            "course_code": "MTS5094",
+            "course_name": "FUZZY DECISION IN MARITIME"
+        },
+        {
+            "course_code": "MTS5104",
+            "course_name": "METAHEURISTICS FOR MARITIME DECISION MAKING"
+        },
+        {
+            "course_code": "MTS5114",
+            "course_name": "MACHINE LEARNING"
+        },
+        {
+            "course_code": "MTS59910",
+            "course_name": "MASTER PROJECT"
+        },
+        {
+            "course_code": "STS5004",
+            "course_name": "OCEANOGRAPHY DATA ANALYSIS"
+        },
+        {
+            "course_code": "STS5014",
+            "course_name": "TIME SERIES ANALYSIS IN MARINE"
+        },
+        {
+            "course_code": "STS5024",
+            "course_name": "PREDICTIVE ANALYSIS"
+        },
+        {
+            "course_code": "STS5034",
+            "course_name": "EXPLORATORY MARINE DATA ANALYSIS"
+        },
+        {
+            "course_code": "STS5044",
+            "course_name": "DATA ANALYSIS USING R"
+        },
+        {
+            "course_code": "TL3201-M",
+            "course_name": "AIR POLLUTION"
+        },
+        {
+            "course_code": "TL4122-M",
+            "course_name": "AIR POLLUTION MONITORING"
+        }
+    ],
+    "FAKULTI PENGAJIAN MARITIM": [
+        {
+            "course_code": "MMM 3601- MMM 3653",
+            "course_name": "PENGURUSAN KESELAMATAN & KESIHATAN PEKERJAAN MARITIM"
+        },
+        {
+            "course_code": "MMM 4513-MMM3723",
+            "course_name": "PENGURUSAN E- KOMUNITI MARITIM"
+        },
+        {
+            "course_code": "MMM3001-MMM3773",
+            "course_name": "MARITIME ENGLISH"
+        },
+        {
+            "course_code": "MMM3101-MMM3803",
+            "course_name": "PENGANGKUTAN MULTIMODAL"
+        },
+        {
+            "course_code": "MMM3105-MMM3933",
+            "course_name": "PENGURUSAN LOGISTIK DAN DISTRIBUTIF"
+        },
+        {
+            "course_code": "MMM3201-MMM3603",
+            "course_name": "SISTEM KONTENA"
+        },
+        {
+            "course_code": "MMM3202-MMM3613",
+            "course_name": "PENGURUSAN LINER"
+        },
+        {
+            "course_code": "MMM3203-MMM3623",
+            "course_name": "GEOGRAFI PELABUHAN"
+        },
+        {
+            "course_code": "MMM3301-MMM3833",
+            "course_name": "UNDANG UNDANG ADMIRALTI"
+        },
+        {
+            "course_code": "MMM3302-MMM3913",
+            "course_name": "UNDANG UNDANG LAUT"
+        },
+        {
+            "course_code": "MMM3311-MMM3863",
+            "course_name": "UNDANG UNDANG PERKAPALAN KOMERSIAL"
+        },
+        {
+            "course_code": "MMM3403-MMM3633",
+            "course_name": "HUBUNGAN DIPLOMASI & ANTARABANGSA MARITIM"
+        },
+        {
+            "course_code": "MMM3404-MMM3643",
+            "course_name": "PERATURAN KASTAM DAN RENTAS SEMPADAN"
+        },
+        {
+            "course_code": "MMM3405-MMM3783",
+            "course_name": "STATISTIK DAN PERNIAGAAN MARITIM"
+        },
+        {
+            "course_code": "MMM3406-MMM3853",
+            "course_name": "PERDAGANGAN MARITIM"
+        },
+        {
+            "course_code": "MMM3407-MMM3813",
+            "course_name": "EKONOMI PERKAPALAN"
+        },
+        {
+            "course_code": "MMM3501-MMM3793",
+            "course_name": "SISTEM MAKLUMAT MARITIM"
+        },
+        {
+            "course_code": "MMM3502-MMM3763",
+            "course_name": "PRINSIP PENGURUSAN MARITIM"
+        },
+        {
+            "course_code": "MMM3503-MMM3753",
+            "course_name": "PEMASARAN PERKHIDMATAN MARITIM"
+        },
+        {
+            "course_code": "MMM3603-MMM3663",
+            "course_name": "PENGURUSAN RISIKO RANTAIAN BEKALAN MARITIM"
+        },
+        {
+            "course_code": "MMM4103-MMM3703",
+            "course_name": "PERANCANGAN PELABUHAN"
+        },
+        {
+            "course_code": "MMM4106-MMM3673",
+            "course_name": "SALVAJ MARIN"
+        },
+        {
+            "course_code": "MMM4201-MMM3893",
+            "course_name": "BROKER DAN CARTAR KAPAL"
+        },
+        {
+            "course_code": "MMM4204-MMM3843",
+            "course_name": "PENGURUSAN PELABUHAN DAN PERKAPALAN"
+        },
+        {
+            "course_code": "MMM4301-MMM3683",
+            "course_name": "POLISI DAN PENTADBIRAN PELABUHAN DAN PERKAPALAN"
+        },
+        {
+            "course_code": "MMM4302-MMM3743",
+            "course_name": "POLISI DAN UNDANG UNDANG SUMBER AKUATIK"
+        },
+        {
+            "course_code": "MMM4303-MMM3693",
+            "course_name": "PENGURUSAN DAN PENGAWALAN PENCEMARAN MARIN"
+        },
+        {
+            "course_code": "MMM4305-MMM3733",
+            "course_name": "UNDANG UNDANG PENGANGKUTAN MARITIM"
+        },
+        {
+            "course_code": "MMM4306-MMM3883",
+            "course_name": "POLISI DAN PENGURUSAN MARIN"
+        },
+        {
+            "course_code": "MMM4307-MMM3903",
+            "course_name": "UNDANG UNDANG INSURAN MARIN"
+        },
+        {
+            "course_code": "MMM4503-MMM3713",
+            "course_name": "KORUPSI MARITIM & INTEGRITI"
+        },
+        {
+            "course_code": "MMM4504-MMM3823",
+            "course_name": "PENGURUSAN SUMBER MANUSIA MARITIM"
+        },
+        {
+            "course_code": "MMM4505-MMM3923",
+            "course_name": "PENGURUSAN STATEGIK MARITIM"
+        },
+        {
+            "course_code": "MMM4901-MMM3873",
+            "course_name": "KAEDAH PENYELIDIKAN MARITIM"
+        },
+        {
+            "course_code": "MMM4982-MMM4998A",
+            "course_name": "PROJEK ILMIAH TAHUN AKHIR I"
+        },
+        {
+            "course_code": "MMM4992A-MMM49712",
+            "course_name": "LATIHAN INDUSTRI"
+        },
+        {
+            "course_code": "MMM4994-MMM4999A",
+            "course_name": "PROJEK ILMIAH TAHUN AKHIR II"
+        },
+        {
+            "course_code": "MMM4998",
+            "course_name": "PROJEK ILMIAH TAHUN AKHIR I"
+        },
+        {
+            "course_code": "MMM4999",
+            "course_name": "PROJEK ILMIAH TAHUN AKHIR II"
+        },
+        {
+            "course_code": "MNS2203-MNS3003",
+            "course_name": "KOMPETENSI ASAS PELAYARAN"
+        },
+        {
+            "course_code": "MNS3013-MNS3013",
+            "course_name": "BAHASA INGGERIS UNTUK PENGAJIAN MARITIM "
+        },
+        {
+            "course_code": "MNS3043-MNS3043",
+            "course_name": "NAVIGASI CAKERAWALA"
+        },
+        {
+            "course_code": "MNS3083-MNS3083",
+            "course_name": "KERJA CARTA"
+        },
+        {
+            "course_code": "MNS3101-MNS3023",
+            "course_name": "KEPELAUTAN"
+        },
+        {
+            "course_code": "MNS3102-MNS3063",
+            "course_name": "NAVIGASI LAUTAN DAN PESISIRAN"
+        },
+        {
+            "course_code": "MNS3103-MNS3103 ",
+            "course_name": "METEOROLOGI PELAUT"
+        },
+        {
+            "course_code": "MNS3133-MNS3133",
+            "course_name": "SISTEM NAVIGASI ELEKTRONIK"
+        },
+        {
+            "course_code": "MNS3201-MNS3073",
+            "course_name": "KESTABILAN KAPAL"
+        },
+        {
+            "course_code": "MNS3204-MNS3204",
+            "course_name": "OPERASI KECEMASAN ATAS KAPAL "
+        },
+        {
+            "course_code": "MNS4001-MNS3173",
+            "course_name": "KAEDAH PENYELIDIKAN "
+        },
+        {
+            "course_code": "MNS4013-MNS4013",
+            "course_name": "ECDIS"
+        },
+        {
+            "course_code": "MNS4063-MNS4063",
+            "course_name": "FAMILIARISASI DAN OPERASI KAPAL TANGKI"
+        },
+        {
+            "course_code": "MNS4101-MNS3113",
+            "course_name": "PERANCANGAN DAN PENGURUSAN PELAYARAN"
+        },
+        {
+            "course_code": "MNS4102-MNS3053",
+            "course_name": "PENGAWASAN ANJUNGAN ASAS"
+        },
+        {
+            "course_code": "MNS4103-MNS3163",
+            "course_name": "KOMPAS MAGNETIK DAN GYRO"
+        },
+        {
+            "course_code": "MNS4104-MNS3093",
+            "course_name": "PENGAWASAN ANJUNGAN LANJUTAN"
+        },
+        {
+            "course_code": "MNS4105-MNS3193",
+            "course_name": "PENGURUSAN DAN KEPIMPINAN ATAS KAPAL"
+        },
+        {
+            "course_code": "MNS4106-MNS4003",
+            "course_name": "RADAR DAN ARPA"
+        },
+        {
+            "course_code": "MNS4201-MNS3143",
+            "course_name": "KESELAMATAN MARITIM "
+        },
+        {
+            "course_code": "MNS4202-MNS4043",
+            "course_name": "KOMUNIKASI MARITIM "
+        },
+        {
+            "course_code": "MNS4203-MNS3123",
+            "course_name": "PEMBINAAN KAPAL"
+        },
+        {
+            "course_code": "MNS4205-MNS3033",
+            "course_name": "MODUL PERSEDIAAN PEGAWAI DEK ASAS"
+        },
+        {
+            "course_code": "MNS4206-MNS4033",
+            "course_name": "MODUL PERSEDIAAN PEGAWAI DEK (LANJUTAN)"
+        },
+        {
+            "course_code": "MNS4207-MNS4023",
+            "course_name": "PENGURUSAN KESELAMATAN DAN ANALISIS RISIKO MARITIM"
+        },
+        {
+            "course_code": "MNS4301-MNS4053",
+            "course_name": "OPERASI KARGO MARIN"
+        },
+        {
+            "course_code": "MNS4302-MNS3153",
+            "course_name": "PENGENDALIAN DAN PENYIMPANAN KARGO "
+        },
+        {
+            "course_code": "MNS4303-MNS3183",
+            "course_name": "PENGURUSAN KARGO "
+        },
+        {
+            "course_code": "MNS4992A-MNS49712",
+            "course_name": "LATIHAN INDUSTRI "
+        },
+        {
+            "course_code": "MNS4998-MNS4982",
+            "course_name": "PROJEK ILMIAH TAHUN AKHIR 1"
+        },
+        {
+            "course_code": "MNS4999-MNS4994",
+            "course_name": "PROJEK ILMIAH TAHUN AKHIR 2"
+        },
+        {
+            "course_code": "MOM3033",
+            "course_name": "PENGURUSAN IMPORT DAN EXPORT KARGO"
+        },
+        {
+            "course_code": "MOM3043",
+            "course_name": "OPERASI PERGUDANGAN"
+        },
+        {
+            "course_code": "MOM3053",
+            "course_name": "PENGURUSAN DAN PENGOPERASIAN SHIPYARD"
+        },
+        {
+            "course_code": "MOM3063",
+            "course_name": "PENGHANTARAN FRED DAN AMALAN KASTAM"
+        },
+        {
+            "course_code": "MOM3073",
+            "course_name": "PEMBERSIHAN TANGKI KAPAL"
+        },
+        {
+            "course_code": "MOM3083",
+            "course_name": "PENGURUSAN FLEET"
+        },
+        {
+            "course_code": "MOM3093",
+            "course_name": "OPERASI PELABUHAN DAN TERMINAL"
+        },
+        {
+            "course_code": "MOM3093-MOM4201",
+            "course_name": "OPERASI PELABUHAN DAN TERMINAL"
+        },
+        {
+            "course_code": "MOM3101-MOM3013",
+            "course_name": "PENGURUSAN RANTAIAN BEKALAN"
+        },
+        {
+            "course_code": "MOM3102-MOM3023",
+            "course_name": "OPERASI PENGANGKUTAN MARITIM"
+        },
+        {
+            "course_code": "MOM3113-MOM4301",
+            "course_name": "KONVENSYEN ANTARABANGSA MARITIM"
+        },
+        {
+            "course_code": "MOM3123-MOM4501",
+            "course_name": "SISTEM PENGENDALIAN KARGO"
+        },
+        {
+            "course_code": "MOM3153-MOM4701",
+            "course_name": "PENGURUSAN KRISIS DAN RISIKO OPERASI MARITIM"
+        },
+        {
+            "course_code": "MOM3163-MOM4503",
+            "course_name": "PERANCANGAN DAN PENGURUSAN KAPAL DAN KARGO BERBAHAYA"
+        },
+        {
+            "course_code": "MOM3173",
+            "course_name": "OPERASI MARITIM"
+        },
+        {
+            "course_code": "MOM3183",
+            "course_name": "PENGURUSAN PROCUMENT"
+        },
+        {
+            "course_code": "MOM3203",
+            "course_name": "PERANCANGAN DAN PENGOPERASIAN KONTENA"
+        },
+        {
+            "course_code": "MOM3233",
+            "course_name": "KEWANGAN MARITIM"
+        },
+        {
+            "course_code": "MOM3243",
+            "course_name": "INOVASI MARITIM DAN PENGURUSAN KUALITI"
+        },
+        {
+            "course_code": "MOM3253-MOM3253",
+            "course_name": "KESELAMATAN DAN KESIHATAN PEKERJAAN"
+        },
+        {
+            "course_code": "MOM3273",
+            "course_name": "KEPIMPINAN CERMELANG OPERASI MARITIM"
+        },
+        {
+            "course_code": "MOM3283",
+            "course_name": "SEMINAR OPERASI MARITIM"
+        },
+        {
+            "course_code": "MOM3505-MOM3193",
+            "course_name": "PENGURUSAN INVENTORI"
+        },
+        {
+            "course_code": "MOM3510-MOM3213",
+            "course_name": "SISTEM PIPELINE DAN KONVEYOR"
+        },
+        {
+            "course_code": "MOM3923",
+            "course_name": "PENGURUSAN STATEGIK MARITIM"
+        },
+        {
+            "course_code": "MOM4133-MOM4504",
+            "course_name": "MARINE SURVEYER, PEMERIKSAAN DAN AMALAN KESELAMATAN"
+        },
+        {
+            "course_code": "MOM4184-MOM3504",
+            "course_name": "SISTEM PENGURUSAN TRAFIK PERKAPALAN"
+        },
+        {
+            "course_code": "MOM4224-MOM3511",
+            "course_name": "KAWALAN PENCEMARAN DI LAUT"
+        },
+        {
+            "course_code": "MOM4254-MOM4505",
+            "course_name": "LATIHAN TEKNIKAL OPERASI MARITIM"
+        },
+        {
+            "course_code": "MOM4264-MOM4506",
+            "course_name": "OPERASI LOGISTIK OFFSHORE"
+        },
+        {
+            "course_code": "MOM4504-MOM4133",
+            "course_name": "MARINE SURVEYER, PEMERIKSAAN DAN AMALAN KESELAMATAN"
+        },
+        {
+            "course_code": "MOM4601-MOM3143",
+            "course_name": "TEKNIK MEMBUAT KEPUTUSAN DALAM OPERASI MARITIM"
+        },
+        {
+            "course_code": "MOM4701-MOM3153",
+            "course_name": "PENGURUSAN KRISIS DAN RISIKO OPERASI MARITIM"
+        },
+        {
+            "course_code": "MOM4901-MOM3103",
+            "course_name": "PROJEK OPERASI MARITIM"
+        },
+        {
+            "course_code": "MOM4902-MOM4975",
+            "course_name": "MODUL PROFESIONAL INDUSTRI"
+        },
+        {
+            "course_code": "MOM4976",
+            "course_name": "MODUL PROFESIONAL INDUSTRI"
+        },
+        {
+            "course_code": "MOM4982",
+            "course_name": "PROJEK ILMIAH TAHUN AKHIR I"
+        },
+        {
+            "course_code": "MOM4994",
+            "course_name": "PROJEK ILMIAH TAHUN AKHIR II"
+        }
+    ]
+}

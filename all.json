@@ -1,0 +1,5531 @@
+{
+  "ACT3012": {
+    "faculty": "FAKULTI PERNIAGAAN,EKONOMI DAN PEMBANGUNAN SOSIAL",
+    "title": "ACCOUNTING PRINCIPLES "
+  },
+  "ACT3013": {
+    "faculty": "FAKULTI PERNIAGAAN,EKONOMI DAN PEMBANGUNAN SOSIAL",
+    "title": "BASIC BUSINESS ACCOUNTING"
+  },
+  "ACT3014": {
+    "faculty": "FAKULTI PERNIAGAAN,EKONOMI DAN PEMBANGUNAN SOSIAL",
+    "title": "BUSINESS ACCOUNTING"
+  },
+  "ACT3023": {
+    "faculty": "FAKULTI PERNIAGAAN,EKONOMI DAN PEMBANGUNAN SOSIAL",
+    "title": "COST AND MANAGERIAL ACCOUNTING"
+  },
+  "ACT3114": {
+    "faculty": "FAKULTI PERNIAGAAN,EKONOMI DAN PEMBANGUNAN SOSIAL",
+    "title": "FINANCIAL ACCOUNTING AND REPORTING 1"
+  },
+  "ACT3123": {
+    "faculty": "FAKULTI PERNIAGAAN,EKONOMI DAN PEMBANGUNAN SOSIAL",
+    "title": "FINANCIAL ACCOUNTING AND REPORTING 2"
+  },
+  "ACT3133": {
+    "faculty": "FAKULTI PERNIAGAAN,EKONOMI DAN PEMBANGUNAN SOSIAL",
+    "title": "FINANCIAL ACCOUNTING AND REPORTING 3"
+  },
+  "ACT3213": {
+    "faculty": "FAKULTI PERNIAGAAN,EKONOMI DAN PEMBANGUNAN SOSIAL",
+    "title": "COST ACCOUNTING"
+  },
+  "ACT3223": {
+    "faculty": "FAKULTI PERNIAGAAN,EKONOMI DAN PEMBANGUNAN SOSIAL",
+    "title": "MANAGEMENT ACCOUNTING"
+  },
+  "ACT3313": {
+    "faculty": "FAKULTI PERNIAGAAN,EKONOMI DAN PEMBANGUNAN SOSIAL",
+    "title": "AUDIT 1"
+  },
+  "ACT3413": {
+    "faculty": "FAKULTI PERNIAGAAN,EKONOMI DAN PEMBANGUNAN SOSIAL",
+    "title": "TAXATION 1"
+  },
+  "ACT3423": {
+    "faculty": "FAKULTI PERNIAGAAN,EKONOMI DAN PEMBANGUNAN SOSIAL",
+    "title": "TAXATION 2"
+  },
+  "ACT3513": {
+    "faculty": "FAKULTI PERNIAGAAN,EKONOMI DAN PEMBANGUNAN SOSIAL",
+    "title": "ACCOUNTING INFORMATION SYSTEMS"
+  },
+  "ACT3523": {
+    "faculty": "FAKULTI PERNIAGAAN,EKONOMI DAN PEMBANGUNAN SOSIAL",
+    "title": "ADVANCED ACCOUNTING INFORMATION SYSTEMS"
+  },
+  "ACT3533": {
+    "faculty": "FAKULTI PERNIAGAAN,EKONOMI DAN PEMBANGUNAN SOSIAL",
+    "title": "BUSINESS DATA ANALYTICS"
+  },
+  "ACT3613": {
+    "faculty": "FAKULTI PERNIAGAAN,EKONOMI DAN PEMBANGUNAN SOSIAL",
+    "title": "BUSINESS ETHICS AND CORPORATE GOVERNANCE "
+  },
+  "ACT3623": {
+    "faculty": "FAKULTI PERNIAGAAN,EKONOMI DAN PEMBANGUNAN SOSIAL",
+    "title": "COMPANY SECRETARIAL PRACTICE"
+  },
+  "ACT3633": {
+    "faculty": "FAKULTI PERNIAGAAN,EKONOMI DAN PEMBANGUNAN SOSIAL",
+    "title": "PUBLIC SECTOR ACCOUNTING "
+  },
+  "ACT3643": {
+    "faculty": "FAKULTI PERNIAGAAN,EKONOMI DAN PEMBANGUNAN SOSIAL",
+    "title": "ACCOUNTING FOR SPECIALISED INDUSTRIES"
+  },
+  "ACT3653": {
+    "faculty": "FAKULTI PERNIAGAAN,EKONOMI DAN PEMBANGUNAN SOSIAL",
+    "title": "ACCOUNTING AND REPORTING FOR ENVIRONMENT"
+  },
+  "ACT3713-I": {
+    "faculty": "FAKULTI PERNIAGAAN,EKONOMI DAN PEMBANGUNAN SOSIAL",
+    "title": "ACCOUNTING WORK INTEGRATED LEARNING ATTACHMENT"
+  },
+  "ACT3723-I": {
+    "faculty": "FAKULTI PERNIAGAAN,EKONOMI DAN PEMBANGUNAN SOSIAL",
+    "title": "TAXATION INTEGRATED LEARNING ATTACHMENT"
+  },
+  "ACT3733-I": {
+    "faculty": "FAKULTI PERNIAGAAN,EKONOMI DAN PEMBANGUNAN SOSIAL",
+    "title": "AUDIT WORK INTEGRATED LEARNING ATTACHMENT "
+  },
+  "ACT3743-I": {
+    "faculty": "FAKULTI PERNIAGAAN,EKONOMI DAN PEMBANGUNAN SOSIAL",
+    "title": "SECRETARIAL INTEGRATED LEARNING ATTACHMENT "
+  },
+  "ACT3753-I": {
+    "faculty": "FAKULTI PERNIAGAAN,EKONOMI DAN PEMBANGUNAN SOSIAL",
+    "title": "BUSINESS ADVISORY INTEGRATED LEARNING ATTACHMENT"
+  },
+  "ACT4143": {
+    "faculty": "FAKULTI PERNIAGAAN,EKONOMI DAN PEMBANGUNAN SOSIAL",
+    "title": "FINANCIAL ACCOUNTING AND REPORTING 4"
+  },
+  "ACT4153": {
+    "faculty": "FAKULTI PERNIAGAAN,EKONOMI DAN PEMBANGUNAN SOSIAL",
+    "title": "FINANCIAL ACCOUNTING AND REPORTING 5"
+  },
+  "ACT4233": {
+    "faculty": "FAKULTI PERNIAGAAN,EKONOMI DAN PEMBANGUNAN SOSIAL",
+    "title": "ADVANCED MANAGEMENT ACCOUNTING"
+  },
+  "ACT4323": {
+    "faculty": "FAKULTI PERNIAGAAN,EKONOMI DAN PEMBANGUNAN SOSIAL",
+    "title": "AUDIT 2"
+  },
+  "ACT4613": {
+    "faculty": "FAKULTI PERNIAGAAN,EKONOMI DAN PEMBANGUNAN SOSIAL",
+    "title": "INTEGRATED CASE STUDY"
+  },
+  "ACT4623": {
+    "faculty": "FAKULTI PERNIAGAAN,EKONOMI DAN PEMBANGUNAN SOSIAL",
+    "title": "INTERNAL AUDIT"
+  },
+  "ACT4633": {
+    "faculty": "FAKULTI PERNIAGAAN,EKONOMI DAN PEMBANGUNAN SOSIAL",
+    "title": "ADVANCED TAXATION"
+  },
+  "ACT4683": {
+    "faculty": "FAKULTI PERNIAGAAN,EKONOMI DAN PEMBANGUNAN SOSIAL",
+    "title": "RESEARCH IN ACCOUNTING 1"
+  },
+  "ACT4693": {
+    "faculty": "FAKULTI PERNIAGAAN,EKONOMI DAN PEMBANGUNAN SOSIAL",
+    "title": "RESEARCH IN ACCOUNTING 2"
+  },
+  "ACT4713-I": {
+    "faculty": "FAKULTI PERNIAGAAN,EKONOMI DAN PEMBANGUNAN SOSIAL",
+    "title": "WORK INTEGRATED PROFESSIONALISM AND ETHICS"
+  },
+  "ACT4723-I": {
+    "faculty": "FAKULTI PERNIAGAAN,EKONOMI DAN PEMBANGUNAN SOSIAL",
+    "title": "WORK INTEGRATED STRATEGY AND STAKEHOLDER RELATIONS"
+  },
+  "ACT4733-I": {
+    "faculty": "FAKULTI PERNIAGAAN,EKONOMI DAN PEMBANGUNAN SOSIAL",
+    "title": "WORK INTEGRATED RISK AND GOVERNANCE"
+  },
+  "ACT4743-I": {
+    "faculty": "FAKULTI PERNIAGAAN,EKONOMI DAN PEMBANGUNAN SOSIAL",
+    "title": "WORK INTEGRATED TAX ASSESSMENT"
+  },
+  "ACT4753-I": {
+    "faculty": "FAKULTI PERNIAGAAN,EKONOMI DAN PEMBANGUNAN SOSIAL",
+    "title": "WORK INTEGRATED AUDIT AND ASSURANCE"
+  },
+  "ACT4813": {
+    "faculty": "FAKULTI PERNIAGAAN,EKONOMI DAN PEMBANGUNAN SOSIAL",
+    "title": "BUSINESS LEADERSHIP"
+  },
+  "ACT4823": {
+    "faculty": "FAKULTI PERNIAGAAN,EKONOMI DAN PEMBANGUNAN SOSIAL",
+    "title": "BUSINESS REPORTING"
+  },
+  "ACT4833": {
+    "faculty": "FAKULTI PERNIAGAAN,EKONOMI DAN PEMBANGUNAN SOSIAL",
+    "title": "AUDIT AND ASSURANCE"
+  },
+  "ACT4843": {
+    "faculty": "FAKULTI PERNIAGAAN,EKONOMI DAN PEMBANGUNAN SOSIAL",
+    "title": "STRATEGIC FINANCIAL MANAGEMENT"
+  },
+  "ACT4853": {
+    "faculty": "FAKULTI PERNIAGAAN,EKONOMI DAN PEMBANGUNAN SOSIAL",
+    "title": "STRATEGIC TAXATION MANAGEMENT"
+  },
+  "ACT49712": {
+    "faculty": "FAKULTI PERNIAGAAN,EKONOMI DAN PEMBANGUNAN SOSIAL",
+    "title": "INDUSTRIAL TRAINING"
+  },
+  "ACT49712-I": {
+    "faculty": "FAKULTI PERNIAGAAN,EKONOMI DAN PEMBANGUNAN SOSIAL",
+    "title": "INDUSTRIAL ATTACHMENT"
+  },
+  "AEC3003": {
+    "faculty": "FAKULTI SAINS DAN SEKITARAN MARIN",
+    "title": "PENGURUSAN DAN KESELAMATAN BAHAN KIMIA"
+  },
+  "AEC3012": {
+    "faculty": "FAKULTI SAINS DAN SEKITARAN MARIN",
+    "title": "AMALI KIMIA ASAS"
+  },
+  "AEC3022": {
+    "faculty": "FAKULTI SAINS DAN SEKITARAN MARIN",
+    "title": "KEMOMETRI ASAS"
+  },
+  "AEC3032": {
+    "faculty": "FAKULTI SAINS DAN SEKITARAN MARIN",
+    "title": "KAEDAH PENYELIDIKAN DALAM SAINS KIMIA"
+  },
+  "AEC3102": {
+    "faculty": "FAKULTI SAINS DAN SEKITARAN MARIN",
+    "title": "KIMIA FIZIKAL ASAS"
+  },
+  "AEC3111": {
+    "faculty": "FAKULTI SAINS DAN SEKITARAN MARIN",
+    "title": "AMALI KIMIA FIZIKAL"
+  },
+  "AEC3123": {
+    "faculty": "FAKULTI SAINS DAN SEKITARAN MARIN",
+    "title": "KIMIA FIZIKAL"
+  },
+  "AEC3202": {
+    "faculty": "FAKULTI SAINS DAN SEKITARAN MARIN",
+    "title": "KIMIA ORGANIK ASAS"
+  },
+  "AEC3223": {
+    "faculty": "FAKULTI SAINS DAN SEKITARAN MARIN",
+    "title": "PENENTUAN STRUKTUR SEBATIAN KIMIA"
+  },
+  "AEC3302": {
+    "faculty": "FAKULTI SAINS DAN SEKITARAN MARIN",
+    "title": "KIMIA TAK ORGANIK ASAS"
+  },
+  "AEC3311": {
+    "faculty": "FAKULTI SAINS DAN SEKITARAN MARIN",
+    "title": "AMALI KIMIA TAK ORGANIK"
+  },
+  "AEC3323": {
+    "faculty": "FAKULTI SAINS DAN SEKITARAN MARIN",
+    "title": "KIMIA TAK ORGANIK"
+  },
+  "AEC3402": {
+    "faculty": "FAKULTI SAINS DAN SEKITARAN MARIN",
+    "title": "KIMIA ANALISIS ASAS"
+  },
+  "AEC3423": {
+    "faculty": "FAKULTI SAINS DAN SEKITARAN MARIN",
+    "title": "TEKNIK SPEKTROSKOPI DALAM KIMIA ANALISIS"
+  },
+  "AEC3433": {
+    "faculty": "FAKULTI SAINS DAN SEKITARAN MARIN",
+    "title": "TEKNIK PEMISAHAN DALAM KIMIA ANALISIS"
+  },
+  "AEC3443": {
+    "faculty": "FAKULTI SAINS DAN SEKITARAN MARIN",
+    "title": "TEKNIK ELEKTROKIMIA DAN TERMAL DALAM KIMIA ANALISIS"
+  },
+  "AEC3703": {
+    "faculty": "FAKULTI SAINS DAN SEKITARAN MARIN",
+    "title": "KIMIA ALAM SEKITAR"
+  },
+  "AEC3723": {
+    "faculty": "FAKULTI SAINS DAN SEKITARAN MARIN",
+    "title": "KIMIA ALAM SEKITAR LANJUTAN"
+  },
+  "AEC3733": {
+    "faculty": "FAKULTI SAINS DAN SEKITARAN MARIN",
+    "title": "PENGENALAN ANALISIS ALAM SEKITAR"
+  },
+  "AEC4133": {
+    "faculty": "FAKULTI SAINS DAN SEKITARAN MARIN",
+    "title": "ASAS DAN APLIKASI KIMIA KOLOID"
+  },
+  "AEC4143 ": {
+    "faculty": "FAKULTI SAINS DAN SEKITARAN MARIN",
+    "title": "KIMIA HIJAU"
+  },
+  "AEC4153": {
+    "faculty": "FAKULTI SAINS DAN SEKITARAN MARIN",
+    "title": "INSTRUMENTASI ANALISIS PERMUKAAN"
+  },
+  "AEC4163": {
+    "faculty": "FAKULTI SAINS DAN SEKITARAN MARIN",
+    "title": "OLEOKIMIA"
+  },
+  "AEC4233": {
+    "faculty": "FAKULTI SAINS DAN SEKITARAN MARIN",
+    "title": "TRANSFORMASI KUMPULAN BERFUNGSI"
+  },
+  "AEC4433": {
+    "faculty": "FAKULTI SAINS DAN SEKITARAN MARIN",
+    "title": "TEKNIK PEMISAHAN LANJUTAN DALAM KIMIA ANALISIS"
+  },
+  "AEC4443": {
+    "faculty": "FAKULTI SAINS DAN SEKITARAN MARIN",
+    "title": "ELEKTROANALISIS"
+  },
+  "AEC4453": {
+    "faculty": "FAKULTI SAINS DAN SEKITARAN MARIN",
+    "title": "KIMIA FORENSIK"
+  },
+  "AEC4743": {
+    "faculty": "FAKULTI SAINS DAN SEKITARAN MARIN",
+    "title": "KIMIA ALAM SEKITAR: TAJUK KHAS"
+  },
+  "AEC4753": {
+    "faculty": "FAKULTI SAINS DAN SEKITARAN MARIN",
+    "title": "SISTEM PENGURUSAN ALAM SEKITAR"
+  },
+  "AEC4763": {
+    "faculty": "FAKULTI SAINS DAN SEKITARAN MARIN",
+    "title": "ANALISIS SURIH ALAM SEKITAR"
+  },
+  "AEC4773": {
+    "faculty": "FAKULTI SAINS DAN SEKITARAN MARIN",
+    "title": "APLIKASI ANALISIS SURIH ALAM SEKITAR"
+  },
+  "AEC4783": {
+    "faculty": "FAKULTI SAINS DAN SEKITARAN MARIN",
+    "title": "TEKNOLOGI RAWATAN AIR DAN AIR SISA"
+  },
+  "AEC4793": {
+    "faculty": "FAKULTI SAINS DAN SEKITARAN MARIN",
+    "title": "PENILAIAN KESAN ALAM SEKITAR: PROSES DAN PROSEDUR"
+  },
+  "AEC4978": {
+    "faculty": "FAKULTI SAINS DAN SEKITARAN MARIN",
+    "title": "LATIHAN INDUSTRI"
+  },
+  "AEC4982": {
+    "faculty": "FAKULTI SAINS DAN SEKITARAN MARIN",
+    "title": "PROJEK ILMIAH TAHUN AKHIR I"
+  },
+  "AEC4994": {
+    "faculty": "FAKULTI SAINS DAN SEKITARAN MARIN",
+    "title": "PROJEK ILMIAH TAHUN AKHIR II"
+  },
+  "AEE1513": {
+    "faculty": "PUSAT ASASI STEM",
+    "title": "INTRODUCTION TO ENGINEERING ANG MECHANICS (PENGENALAN KEJURUTERAAN MEKANIK)"
+  },
+  "AEE1613": {
+    "faculty": "PUSAT ASASI STEM",
+    "title": "ENGLISH FOR SPECIAL PURPOSES"
+  },
+  "AHU1713": {
+    "faculty": "PUSAT ASASI STEM",
+    "title": "KEPERIBADIAN ULUL ALBAB"
+  },
+  "AHU1721": {
+    "faculty": "PUSAT ASASI STEM",
+    "title": "HAFAZAN AL-QURAN BERTAJWID I "
+  },
+  "AHU1731": {
+    "faculty": "PUSAT ASASI STEM",
+    "title": "HAFAZAN AL-QURAN BERTAJWID II"
+  },
+  "AMM1413": {
+    "faculty": "PUSAT ASASI STEM",
+    "title": "MATHEMATICS I (MATEMATIK I)"
+  },
+  "AMM1424": {
+    "faculty": "PUSAT ASASI STEM",
+    "title": "MATHEMATICS II (MATEMATIK II)"
+  },
+  "AMM1432": {
+    "faculty": "PUSAT ASASI STEM",
+    "title": "MATHEMATICS III (MATEMATIK III)"
+  },
+  "AQU2033": {
+    "faculty": "FAKULTI PERIKANAN DAN SAINS MAKANAN",
+    "title": "PRINSIP AKUAKULTUR"
+  },
+  "AQU2044": {
+    "faculty": "FAKULTI PERIKANAN DAN SAINS MAKANAN",
+    "title": "PEMAKANAN IKAN I"
+  },
+  "AQU2233": {
+    "faculty": "FAKULTI PERIKANAN DAN SAINS MAKANAN",
+    "title": "TEKNIK PEMBIAKBAKAAN IKAN"
+  },
+  "AQU2423": {
+    "faculty": "FAKULTI PERIKANAN DAN SAINS MAKANAN",
+    "title": "PENGURUSAN KUALITI AIR DAN TANAH"
+  },
+  "AQU2434": {
+    "faculty": "FAKULTI PERIKANAN DAN SAINS MAKANAN",
+    "title": "KESIHATAN IKAN"
+  },
+  "AQU3003": {
+    "faculty": "FAKULTI PERIKANAN DAN SAINS MAKANAN",
+    "title": "AQUACULTURE ECOSYSTEM"
+  },
+  "AQU3013": {
+    "faculty": "FAKULTI PERIKANAN DAN SAINS MAKANAN",
+    "title": "PHYSIOCHEMISTRY LIFE SCIENCES"
+  },
+  "AQU3023": {
+    "faculty": "FAKULTI PERIKANAN DAN SAINS MAKANAN",
+    "title": "AQUATIC BIOLOGY"
+  },
+  "AQU3032": {
+    "faculty": "FAKULTI PERIKANAN DAN SAINS MAKANAN",
+    "title": "INTRODUCTION TO AQUACULTURE INDUSTRY"
+  },
+  "AQU3043": {
+    "faculty": "FAKULTI PERIKANAN DAN SAINS MAKANAN",
+    "title": "AQUACULTURE ECONOMICS"
+  },
+  "AQU3214": {
+    "faculty": "FAKULTI PERIKANAN DAN SAINS MAKANAN",
+    "title": "SEED PRODUCTION TECHNIQUES"
+  },
+  "AQU3223": {
+    "faculty": "FAKULTI PERIKANAN DAN SAINS MAKANAN",
+    "title": "LIVE FEED CULTURE"
+  },
+  "AQU3233": {
+    "faculty": "FAKULTI PERIKANAN DAN SAINS MAKANAN",
+    "title": "INTENSIVE FISH CULTURE"
+  },
+  "AQU3243": {
+    "faculty": "FAKULTI PERIKANAN DAN SAINS MAKANAN",
+    "title": "ORNAMENTAL FISH CULTURE"
+  },
+  "AQU3253": {
+    "faculty": "FAKULTI PERIKANAN DAN SAINS MAKANAN",
+    "title": "AQUATIC INVERTEBRATE CULTURE"
+  },
+  "AQU3263": {
+    "faculty": "FAKULTI PERIKANAN DAN SAINS MAKANAN",
+    "title": "PLANKTON CULTURE"
+  },
+  "AQU3273": {
+    "faculty": "FAKULTI PERIKANAN DAN SAINS MAKANAN",
+    "title": "SEAWEED CULTURE"
+  },
+  "AQU3283": {
+    "faculty": "FAKULTI PERIKANAN DAN SAINS MAKANAN",
+    "title": "SEEDLING AND NURSING TECHNOLOGY"
+  },
+  "AQU3293": {
+    "faculty": "FAKULTI PERIKANAN DAN SAINS MAKANAN",
+    "title": "AQUACULTURE PRODUCTION TECHNIQUES"
+  },
+  "AQU3303": {
+    "faculty": "FAKULTI PERIKANAN DAN SAINS MAKANAN",
+    "title": "GENETIC AND STOCK MANIPULATION"
+  },
+  "AQU3414": {
+    "faculty": "FAKULTI PERIKANAN DAN SAINS MAKANAN",
+    "title": "AQUACULTURE DESIGN AND SYSTEM II"
+  },
+  "AQU3423": {
+    "faculty": "FAKULTI PERIKANAN DAN SAINS MAKANAN",
+    "title": "AQUACULTURE SYSTEM AND TECHNOLOGY"
+  },
+  "AQU3433": {
+    "faculty": "FAKULTI PERIKANAN DAN SAINS MAKANAN",
+    "title": "INTEGRATED AQUACULTURE"
+  },
+  "AQU3443": {
+    "faculty": "FAKULTI PERIKANAN DAN SAINS MAKANAN",
+    "title": "AQUACULTURE ENGINEERING"
+  },
+  "AQU3454": {
+    "faculty": "FAKULTI PERIKANAN DAN SAINS MAKANAN",
+    "title": "AQUACULTURE BIOTECHNOLOGY"
+  },
+  "AQU3614": {
+    "faculty": "FAKULTI PERIKANAN DAN SAINS MAKANAN",
+    "title": "FISH NUTRITION AND FEEDING TECHNOLOGY"
+  },
+  "AQU3623": {
+    "faculty": "FAKULTI PERIKANAN DAN SAINS MAKANAN",
+    "title": "ADVANCED FISH NUTRITION"
+  },
+  "AQU3814": {
+    "faculty": "FAKULTI PERIKANAN DAN SAINS MAKANAN",
+    "title": "KESIHATAN ORGANISMA AKUATIK"
+  },
+  "AQU3824": {
+    "faculty": "FAKULTI PERIKANAN DAN SAINS MAKANAN",
+    "title": "FISH HEALTH MANAGEMENT"
+  },
+  "AQU3833": {
+    "faculty": "FAKULTI PERIKANAN DAN SAINS MAKANAN",
+    "title": "FISH PARASITOLOGY"
+  },
+  "AQU3843": {
+    "faculty": "FAKULTI PERIKANAN DAN SAINS MAKANAN",
+    "title": "AQUATIC BACTERIOLOGY"
+  },
+  "AQU4982": {
+    "faculty": "FAKULTI PERIKANAN DAN SAINS MAKANAN",
+    "title": "FINAL YEAR PROJECT I"
+  },
+  "AQU4994": {
+    "faculty": "FAKULTI PERIKANAN DAN SAINS MAKANAN",
+    "title": "FINAL YEAR PROJECT II"
+  },
+  "ASB1115": {
+    "faculty": "PUSAT ASASI STEM",
+    "title": "BIOLOGY I (BIOLOGI I)"
+  },
+  "ASB1124": {
+    "faculty": "PUSAT ASASI STEM",
+    "title": "BIOLOGY II (BIOLOGI II)"
+  },
+  "ASB1132": {
+    "faculty": "PUSAT ASASI STEM",
+    "title": "BIOLOGY III (BIOLOGI III)"
+  },
+  "ASC1215": {
+    "faculty": "PUSAT ASASI STEM",
+    "title": "CHEMISTRY I (KIMIA I)"
+  },
+  "ASC1224": {
+    "faculty": "PUSAT ASASI STEM",
+    "title": "CHEMISTRY II (KIMIA II)"
+  },
+  "ASC1232": {
+    "faculty": "PUSAT ASASI STEM",
+    "title": "CHEMISTRY III (KIMIA III)"
+  },
+  "ASP1315": { "faculty": "PUSAT ASASI STEM", "title": "PHYSICS I (FIZIK I)" },
+  "ASP1324": {
+    "faculty": "PUSAT ASASI STEM",
+    "title": "PHYSICS II (FIZIK II)"
+  },
+  "ASP1332": {
+    "faculty": "PUSAT ASASI STEM",
+    "title": "PHYSICS III (FIZIK III)"
+  },
+  "BBA3013": {
+    "faculty": "PUSAT PENDIDIKAN ASAS DAN LANJUTAN",
+    "title": "BAHASA ARAB I"
+  },
+  "BBA3023": {
+    "faculty": "PUSAT PENDIDIKAN ASAS DAN LANJUTAN",
+    "title": "BAHASA ARAB II"
+  },
+  "BBA3033": {
+    "faculty": "PUSAT PENDIDIKAN ASAS DAN LANJUTAN",
+    "title": "BAHASA ARAB III"
+  },
+  "BBB2013": {
+    "faculty": "PUSAT PENDIDIKAN ASAS DAN LANJUTAN",
+    "title": "ENGLISH FOR ACADEMIC COMMUNICATION 1"
+  },
+  "BBB3011S ": {
+    "faculty": "PUSAT PENDIDIKAN ASAS DAN LANJUTAN",
+    "title": "ESL CULTURAL EXPOSURE"
+  },
+  "BBB3013": {
+    "faculty": "PUSAT PENDIDIKAN ASAS DAN LANJUTAN",
+    "title": "ACADEMIC WRITING SKILLS"
+  },
+  "BBB3023": {
+    "faculty": "PUSAT PENDIDIKAN ASAS DAN LANJUTAN",
+    "title": "PUBLIC SPEAKING"
+  },
+  "BBB3033": {
+    "faculty": "PUSAT PENDIDIKAN ASAS DAN LANJUTAN",
+    "title": "ENGLISH FOR OCCUPATIONAL PURPOSES"
+  },
+  "BBB3043 ": {
+    "faculty": "PUSAT PENDIDIKAN ASAS DAN LANJUTAN",
+    "title": "INTRODUCTION TO WORLD CULTURE"
+  },
+  "BBB3073 ": {
+    "faculty": "PUSAT PENDIDIKAN ASAS DAN LANJUTAN",
+    "title": "DIGITAL WEB TOOLS FOR ENGLISH LANGUAGE LEARNING"
+  },
+  "BBB3083 ": {
+    "faculty": "PUSAT PENDIDIKAN ASAS DAN LANJUTAN",
+    "title": "READING SKILLS FOR DIGITAL NATIVES"
+  },
+  "BBB3093 ": {
+    "faculty": "PUSAT PENDIDIKAN ASAS DAN LANJUTAN",
+    "title": "ENGLISH FOR LIFE"
+  },
+  "BBB3113 ": {
+    "faculty": "PUSAT PENDIDIKAN ASAS DAN LANJUTAN",
+    "title": "ENGLISH FOR MULTIMEDIA PRESENTATIONS"
+  },
+  "BBB3123 ": {
+    "faculty": "PUSAT PENDIDIKAN ASAS DAN LANJUTAN",
+    "title": "ENGLISH AND DRAMA"
+  },
+  "BBB3133 ": {
+    "faculty": "PUSAT PENDIDIKAN ASAS DAN LANJUTAN",
+    "title": "WORLD LITERATURE"
+  },
+  "BBB3143 ": {
+    "faculty": "PUSAT PENDIDIKAN ASAS DAN LANJUTAN",
+    "title": "ENGLISH FOR COMMUNITY ENGAGEMENT"
+  },
+  "BBB3153": {
+    "faculty": "PUSAT PENDIDIKAN ASAS DAN LANJUTAN",
+    "title": " DIGITAL EDUCATION IN GLOBAL CONTEXT"
+  },
+  "BBB3163": {
+    "faculty": "PUSAT PENDIDIKAN ASAS DAN LANJUTAN",
+    "title": "COMMUNITY ENGAGEMENT VIA SOCIAL MEDIA IN ENGLISH"
+  },
+  "BBC3013": {
+    "faculty": "PUSAT PENDIDIKAN ASAS DAN LANJUTAN",
+    "title": "BAHASA MANDARIN 1"
+  },
+  "BBC3023": {
+    "faculty": "PUSAT PENDIDIKAN ASAS DAN LANJUTAN",
+    "title": "BAHASA MANDARIN II"
+  },
+  "BBC3033": {
+    "faculty": "PUSAT PENDIDIKAN ASAS DAN LANJUTAN",
+    "title": "BAHASA MANDARIN III"
+  },
+  "BBG3013": {
+    "faculty": "PUSAT PENDIDIKAN ASAS DAN LANJUTAN",
+    "title": "BAHASA JERMAN I"
+  },
+  "BBG3023": {
+    "faculty": "PUSAT PENDIDIKAN ASAS DAN LANJUTAN",
+    "title": "BAHASA JERMAN II"
+  },
+  "BBG3033": {
+    "faculty": "PUSAT PENDIDIKAN ASAS DAN LANJUTAN",
+    "title": "BAHASA JERMAN III"
+  },
+  "BBJ3013": {
+    "faculty": "PUSAT PENDIDIKAN ASAS DAN LANJUTAN",
+    "title": "BAHASA JEPUN I"
+  },
+  "BBJ3023": {
+    "faculty": "PUSAT PENDIDIKAN ASAS DAN LANJUTAN",
+    "title": "BAHASA JEPUN II"
+  },
+  "BBJ3033": {
+    "faculty": "PUSAT PENDIDIKAN ASAS DAN LANJUTAN",
+    "title": "BAHASA JEPUN III"
+  },
+  "BBK3013": {
+    "faculty": "PUSAT PENDIDIKAN ASAS DAN LANJUTAN",
+    "title": "BAHASA KOREA I"
+  },
+  "BBK3023": {
+    "faculty": "PUSAT PENDIDIKAN ASAS DAN LANJUTAN",
+    "title": "BAHASA KOREA II"
+  },
+  "BBK3033": {
+    "faculty": "PUSAT PENDIDIKAN ASAS DAN LANJUTAN",
+    "title": "BAHASA KOREA III"
+  },
+  "BBM3043": {
+    "faculty": "PUSAT PENDIDIKAN ASAS DAN LANJUTAN",
+    "title": "BAHASA MELAYU ILMIAH"
+  },
+  "BBM3103": {
+    "faculty": "PUSAT PENDIDIKAN ASAS DAN LANJUTAN",
+    "title": "KEMAHIRAN BERFIKIR"
+  },
+  "BBP3013": {
+    "faculty": "PUSAT PENDIDIKAN ASAS DAN LANJUTAN",
+    "title": "BAHASA PERANCIS I"
+  },
+  "BBP3023": {
+    "faculty": "PUSAT PENDIDIKAN ASAS DAN LANJUTAN",
+    "title": "BAHASA PERANCIS II"
+  },
+  "BBP3033": {
+    "faculty": "PUSAT PENDIDIKAN ASAS DAN LANJUTAN",
+    "title": "BAHASA PERANCIS III"
+  },
+  "BBS3013": {
+    "faculty": "PUSAT PENDIDIKAN ASAS DAN LANJUTAN",
+    "title": "BAHASA SEPANYOL I"
+  },
+  "BBS3023": {
+    "faculty": "PUSAT PENDIDIKAN ASAS DAN LANJUTAN",
+    "title": "BAHASA SEPANYOL II"
+  },
+  "BBS3033": {
+    "faculty": "PUSAT PENDIDIKAN ASAS DAN LANJUTAN",
+    "title": "BAHASA SEPANYOL III"
+  },
+  "BDY3003": {
+    "faculty": "FAKULTI SAINS DAN SEKITARAN MARIN",
+    "title": "TAKSONOMI DAN SISTEMATIK ORGANISMA"
+  },
+  "BDY3014": {
+    "faculty": "FAKULTI SAINS DAN SEKITARAN MARIN",
+    "title": "KEPELBAGAIAN TUMBUHAN"
+  },
+  "BDY3023 ": {
+    "faculty": "FAKULTI SAINS DAN SEKITARAN MARIN",
+    "title": "KEPELBAGAIAN INVERTEBRATA"
+  },
+  "BDY3033 ": {
+    "faculty": "FAKULTI SAINS DAN SEKITARAN MARIN",
+    "title": "KEPELBAGAIAN VERTEBRATA"
+  },
+  "BDY3043": {
+    "faculty": "FAKULTI SAINS DAN SEKITARAN MARIN",
+    "title": "SAINS TANAH"
+  },
+  "BDY3053 ": {
+    "faculty": "FAKULTI SAINS DAN SEKITARAN MARIN",
+    "title": "MIKOLOGI"
+  },
+  "BDY3063": {
+    "faculty": "FAKULTI SAINS DAN SEKITARAN MARIN",
+    "title": "KEPELBAGAIAN MIKROORGANISMA"
+  },
+  "BDY3074": {
+    "faculty": "FAKULTI SAINS DAN SEKITARAN MARIN",
+    "title": "PRINSIP EKOLOGI"
+  },
+  "BDY3083": {
+    "faculty": "FAKULTI SAINS DAN SEKITARAN MARIN",
+    "title": " EKOLOGI POPULASI DAN KOMUNITI"
+  },
+  "BDY3094 ": {
+    "faculty": "FAKULTI SAINS DAN SEKITARAN MARIN",
+    "title": "EKOLOGI DAN BIOLOGI LAPANGAN"
+  },
+  "BDY3103 ": {
+    "faculty": "FAKULTI SAINS DAN SEKITARAN MARIN",
+    "title": "BIOLOGI PEMULIHARAAN"
+  },
+  "BDY3113": {
+    "faculty": "FAKULTI SAINS DAN SEKITARAN MARIN",
+    "title": "PENGURUSAN HIDUPAN LIAR"
+  },
+  "BDY3123": {
+    "faculty": "FAKULTI SAINS DAN SEKITARAN MARIN",
+    "title": "EKOSISTEM TROPIKA"
+  },
+  "BDY3133 ": {
+    "faculty": "FAKULTI SAINS DAN SEKITARAN MARIN",
+    "title": "PENILAIAN SUMBER BIODIVERSITI"
+  },
+  "BDY3143 ": {
+    "faculty": "FAKULTI SAINS DAN SEKITARAN MARIN",
+    "title": "PENGURUSAN HUTAN DAN SUMBER HUTAN"
+  },
+  "BDY3153 ": {
+    "faculty": "FAKULTI SAINS DAN SEKITARAN MARIN",
+    "title": "PEMULIHARAAN HAIWAN EX-SITU"
+  },
+  "BDY4003 ": {
+    "faculty": "FAKULTI SAINS DAN SEKITARAN MARIN",
+    "title": "ANALISIS DATA BIODIVERSITI"
+  },
+  "BDY4013": {
+    "faculty": "FAKULTI SAINS DAN SEKITARAN MARIN",
+    "title": "BIOLOGI DAN SISTEMATIK SERANGGA"
+  },
+  "BDY4023 ": {
+    "faculty": "FAKULTI SAINS DAN SEKITARAN MARIN",
+    "title": "DENDROLOGI"
+  },
+  "BDY4033 ": {
+    "faculty": "FAKULTI SAINS DAN SEKITARAN MARIN",
+    "title": "KELAKUAN HAIWAN"
+  },
+  "BDY4043": {
+    "faculty": "FAKULTI SAINS DAN SEKITARAN MARIN",
+    "title": "BRIOLOGI"
+  },
+  "BDY4053": {
+    "faculty": "FAKULTI SAINS DAN SEKITARAN MARIN",
+    "title": "ETNOFARMAKOGNASI"
+  },
+  "BDY4063": {
+    "faculty": "FAKULTI SAINS DAN SEKITARAN MARIN",
+    "title": "GENETIK EKOLOGI"
+  },
+  "BDY4073": {
+    "faculty": "FAKULTI SAINS DAN SEKITARAN MARIN",
+    "title": " ETNOBOTANI"
+  },
+  "BDY4083 ": {
+    "faculty": "FAKULTI SAINS DAN SEKITARAN MARIN",
+    "title": "PENGURUSAN LEGEH DAN HUTAN REKREASI"
+  },
+  "BDY4093": {
+    "faculty": "FAKULTI SAINS DAN SEKITARAN MARIN",
+    "title": " PERANCANGAN GUNA TANAH"
+  },
+  "BDY4103 ": {
+    "faculty": "FAKULTI SAINS DAN SEKITARAN MARIN",
+    "title": "BIOLOGI DAN PENGURUSAN SERANGGA PEROSAK"
+  },
+  "BDY4978 ": {
+    "faculty": "FAKULTI SAINS DAN SEKITARAN MARIN",
+    "title": "LATIHAN INDUSTRI"
+  },
+  "BDY4983 ": {
+    "faculty": "FAKULTI SAINS DAN SEKITARAN MARIN",
+    "title": "PITA I"
+  },
+  "BDY4995 ": {
+    "faculty": "FAKULTI SAINS DAN SEKITARAN MARIN",
+    "title": "PITA II"
+  },
+  "BIS3003": {
+    "faculty": "FAKULTI SAINS DAN SEKITARAN MARIN",
+    "title": "PLANT STRUCTURE AND FUNCTION"
+  },
+  "BIS3013": {
+    "faculty": "FAKULTI SAINS DAN SEKITARAN MARIN",
+    "title": "ANIMAL STRUCTURE AND FUNCTION"
+  },
+  "BIS3023": {
+    "faculty": "FAKULTI SAINS DAN SEKITARAN MARIN",
+    "title": "CELL AND MOLECULAR BIOLOGY"
+  },
+  "BIS3034": {
+    "faculty": "FAKULTI SAINS DAN SEKITARAN MARIN",
+    "title": "BIOKIMIA"
+  },
+  "BIS3044": {
+    "faculty": "FAKULTI SAINS DAN SEKITARAN MARIN",
+    "title": "GENETICS"
+  },
+  "BIS3053": {
+    "faculty": "FAKULTI SAINS DAN SEKITARAN MARIN",
+    "title": "CELL AND TISSUE CULTURE"
+  },
+  "BIS3063": {
+    "faculty": "FAKULTI SAINS DAN SEKITARAN MARIN",
+    "title": "BASIC MICROBIOLOGY"
+  },
+  "BIS3074": {
+    "faculty": "FAKULTI SAINS DAN SEKITARAN MARIN",
+    "title": "DEVELOPMENTAL BIOLOGY"
+  },
+  "BIS3083": {
+    "faculty": "FAKULTI SAINS DAN SEKITARAN MARIN",
+    "title": "PLANT PHYSIOLOGY"
+  },
+  "BIS3093": {
+    "faculty": "FAKULTI SAINS DAN SEKITARAN MARIN",
+    "title": "ANIMAL PHYSIOLOGY"
+  },
+  "BIS3103": {
+    "faculty": "FAKULTI SAINS DAN SEKITARAN MARIN",
+    "title": "RESEARCH METHODOLOGY IN BIOLOGY"
+  },
+  "BIS3113": {
+    "faculty": "FAKULTI SAINS DAN SEKITARAN MARIN",
+    "title": "SCIENTIFIC WRITING IN BIOLOGY"
+  },
+  "BIS3123": {
+    "faculty": "FAKULTI SAINS DAN SEKITARAN MARIN",
+    "title": "BIOMETRI"
+  },
+  "BIS3134": {
+    "faculty": "FAKULTI SAINS DAN SEKITARAN MARIN",
+    "title": "RECOMBINANT DNA TECHNOLOGY"
+  },
+  "BIS3143": {
+    "faculty": "FAKULTI SAINS DAN SEKITARAN MARIN",
+    "title": "ADVANCED MICROBIOLOGY"
+  },
+  "BIS3153": {
+    "faculty": "FAKULTI SAINS DAN SEKITARAN MARIN",
+    "title": "VIROLOGY"
+  },
+  "BIS4012": {
+    "faculty": "FAKULTI SAINS DAN SEKITARAN MARIN",
+    "title": "CONTEMPORARY ISSUES IN BIOLOGY"
+  },
+  "BIS4023": {
+    "faculty": "FAKULTI SAINS DAN SEKITARAN MARIN",
+    "title": "CELL SIGNALING"
+  },
+  "BIS4043": {
+    "faculty": "FAKULTI SAINS DAN SEKITARAN MARIN",
+    "title": "MARINE NATURAL PRODUCT"
+  },
+  "BIS4053": {
+    "faculty": "FAKULTI SAINS DAN SEKITARAN MARIN",
+    "title": "INDUSTRIAL BIOTECHNOLOGY"
+  },
+  "BIS4063": {
+    "faculty": "FAKULTI SAINS DAN SEKITARAN MARIN",
+    "title": "ENZYME TECHNOLOGY"
+  },
+  "BIS4073": {
+    "faculty": "FAKULTI SAINS DAN SEKITARAN MARIN",
+    "title": "APPLIED PLANT BIOTECHNOLOGY"
+  },
+  "BIS4083": {
+    "faculty": "FAKULTI SAINS DAN SEKITARAN MARIN",
+    "title": "PROTOZOOLOGY"
+  },
+  "BIS4093": {
+    "faculty": "FAKULTI SAINS DAN SEKITARAN MARIN",
+    "title": "PLANT GROWTH REGULATORS"
+  },
+  "BIS4103": {
+    "faculty": "FAKULTI SAINS DAN SEKITARAN MARIN",
+    "title": "IMMUNOLOGY"
+  },
+  "BIS4112": {
+    "faculty": "FAKULTI SAINS DAN SEKITARAN MARIN",
+    "title": "BIOENTRERPRENEURSHIP"
+  },
+  "BIS4123": {
+    "faculty": "FAKULTI SAINS DAN SEKITARAN MARIN",
+    "title": "ECOLOGICAL BIOCHEMISTRY"
+  },
+  "BIS4131-E": {
+    "faculty": "FAKULTI SAINS DAN SEKITARAN MARIN",
+    "title": "DENGUE AND ZIKA - GLOBAL HEALTH THREATS (DENGGI DAN ZIKA - ANCAMAN KESIHATAN GLOBAL)"
+  },
+  "BIS49710": {
+    "faculty": "FAKULTI SAINS DAN SEKITARAN MARIN",
+    "title": "INDUSTRIAL TRAINING"
+  },
+  "BIS4983": {
+    "faculty": "FAKULTI SAINS DAN SEKITARAN MARIN",
+    "title": "FINAL YEAR RESEARCH PROJECT I"
+  },
+  "BIS4995": {
+    "faculty": "FAKULTI SAINS DAN SEKITARAN MARIN",
+    "title": "FINAL YEAR RESEARCH PROJECT II"
+  },
+  "C0M3023": {
+    "faculty": "PUSAT PENDIDIKAN ASAS DAN LANJUTAN",
+    "title": "KOMUNIKASI INTERPERSONAL"
+  },
+  "CCB 3013": {
+    "faculty": "PUSAT PENDIDIKAN ASAS DAN LANJUTAN",
+    "title": "STAGE AND SCREEN ACTING TECHNIQUE"
+  },
+  "CCB3023": {
+    "faculty": "PUSAT PENDIDIKAN ASAS DAN LANJUTAN",
+    "title": "AN INTRODUCTION TO MALAYSIAN'S ART PERFORMANCE "
+  },
+  "CCB3033": {
+    "faculty": "PUSAT PENDIDIKAN ASAS DAN LANJUTAN",
+    "title": "ARTS AND CULTURAL MANAGEMENT (PENGURUSAN SENI DAN BUDAYA)"
+  },
+  "CCB3043": {
+    "faculty": "PUSAT PENDIDIKAN ASAS DAN LANJUTAN",
+    "title": "ASAS MUZIK TRADISIONAL MELAYU"
+  },
+  "CCB3052": {
+    "faculty": "PUSAT PENDIDIKAN ASAS DAN LANJUTAN",
+    "title": "PERMAINAN TRADISI RAKYAT MALAYSIA (MALAYSIAN TRADITIONAL GAMES)"
+  },
+  "CCB3062": {
+    "faculty": "PUSAT PENDIDIKAN ASAS DAN LANJUTAN",
+    "title": "SENAM SENI MALAYSIA"
+  },
+  "CCB3072": {
+    "faculty": "PUSAT PENDIDIKAN ASAS DAN LANJUTAN",
+    "title": "SENI SUARA"
+  },
+  "CCB3082": {
+    "faculty": "PUSAT PENDIDIKAN ASAS DAN LANJUTAN",
+    "title": "SENI LAKON"
+  },
+  "CCB3092": {
+    "faculty": "PUSAT PENDIDIKAN ASAS DAN LANJUTAN",
+    "title": "DIKIR BARAT"
+  },
+  "CCB3102": {
+    "faculty": "PUSAT PENDIDIKAN ASAS DAN LANJUTAN",
+    "title": "PENGENALAN KEPADA ORKESTRA"
+  },
+  "CCB3112": {
+    "faculty": "PUSAT PENDIDIKAN ASAS DAN LANJUTAN",
+    "title": "SENI KREATIF (CREATIVE ARTS)"
+  },
+  "CCE3112": {
+    "faculty": "PUSAT PENDIDIKAN ASAS DAN LANJUTAN",
+    "title": " SUKSIS 1"
+  },
+  "CCE3122": {
+    "faculty": "PUSAT PENDIDIKAN ASAS DAN LANJUTAN",
+    "title": "SUKSIS 2"
+  },
+  "CCE3132": {
+    "faculty": "PUSAT PENDIDIKAN ASAS DAN LANJUTAN",
+    "title": "SUKSIS 3"
+  },
+  "CCE3142": {
+    "faculty": "PUSAT PENDIDIKAN ASAS DAN LANJUTAN",
+    "title": "SUKSIS 4"
+  },
+  "CCE3152": {
+    "faculty": "PUSAT PENDIDIKAN ASAS DAN LANJUTAN",
+    "title": "SUKSIS 5"
+  },
+  "CCE3162": {
+    "faculty": "PUSAT PENDIDIKAN ASAS DAN LANJUTAN",
+    "title": "SUKSIS 6"
+  },
+  "CCE3212": {
+    "faculty": "PUSAT PENDIDIKAN ASAS DAN LANJUTAN",
+    "title": "PALAPES LAUT 1"
+  },
+  "CCE3222": {
+    "faculty": "PUSAT PENDIDIKAN ASAS DAN LANJUTAN",
+    "title": "PALAPES LAUT 2"
+  },
+  "CCE3232": {
+    "faculty": "PUSAT PENDIDIKAN ASAS DAN LANJUTAN",
+    "title": "PALAPES LAUT 3"
+  },
+  "CCE3242": {
+    "faculty": "PUSAT PENDIDIKAN ASAS DAN LANJUTAN",
+    "title": "PALAPES LAUT 4"
+  },
+  "CCE3252": {
+    "faculty": "PUSAT PENDIDIKAN ASAS DAN LANJUTAN",
+    "title": "PALAPES LAUT 5"
+  },
+  "CCE3262": {
+    "faculty": "PUSAT PENDIDIKAN ASAS DAN LANJUTAN",
+    "title": "PALAPES LAUT 6"
+  },
+  "CCE3312": {
+    "faculty": "PUSAT PENDIDIKAN ASAS DAN LANJUTAN",
+    "title": "SISPA 1"
+  },
+  "CCE3322": {
+    "faculty": "PUSAT PENDIDIKAN ASAS DAN LANJUTAN",
+    "title": "SISPA 2"
+  },
+  "CCE3332": {
+    "faculty": "PUSAT PENDIDIKAN ASAS DAN LANJUTAN",
+    "title": "SISPA3"
+  },
+  "CCE3342": {
+    "faculty": "PUSAT PENDIDIKAN ASAS DAN LANJUTAN",
+    "title": "SISPA4"
+  },
+  "CCE3352": {
+    "faculty": "PUSAT PENDIDIKAN ASAS DAN LANJUTAN",
+    "title": "SISPA5"
+  },
+  "CCE3412": {
+    "faculty": "PUSAT PENDIDIKAN ASAS DAN LANJUTAN",
+    "title": "PASKAM 1"
+  },
+  "CCE3422": {
+    "faculty": "PUSAT PENDIDIKAN ASAS DAN LANJUTAN",
+    "title": "PASKAM 2"
+  },
+  "CCE3432": {
+    "faculty": "PUSAT PENDIDIKAN ASAS DAN LANJUTAN",
+    "title": "PASKAM 3"
+  },
+  "CCE3442": {
+    "faculty": "PUSAT PENDIDIKAN ASAS DAN LANJUTAN",
+    "title": "PASKAM 4"
+  },
+  "CCE3512": {
+    "faculty": "PUSAT PENDIDIKAN ASAS DAN LANJUTAN",
+    "title": "PALAPES DARAT 1"
+  },
+  "CCE3522": {
+    "faculty": "PUSAT PENDIDIKAN ASAS DAN LANJUTAN",
+    "title": "PALAPES DARAT 2"
+  },
+  "CCE3532": {
+    "faculty": "PUSAT PENDIDIKAN ASAS DAN LANJUTAN",
+    "title": "PALAPES DARAT 3"
+  },
+  "CCE3542": {
+    "faculty": "PUSAT PENDIDIKAN ASAS DAN LANJUTAN",
+    "title": "PALAPES DARAT 4"
+  },
+  "CCE3552": {
+    "faculty": "PUSAT PENDIDIKAN ASAS DAN LANJUTAN",
+    "title": "PALAPES DARAT 5"
+  },
+  "CCE3562": {
+    "faculty": "PUSAT PENDIDIKAN ASAS DAN LANJUTAN",
+    "title": "PALAPES DARAT 6"
+  },
+  "CCK3012": {
+    "faculty": "PUSAT PENDIDIKAN ASAS DAN LANJUTAN",
+    "title": "PIDATO UMUM"
+  },
+  "CCK3022": {
+    "faculty": "PUSAT PENDIDIKAN ASAS DAN LANJUTAN",
+    "title": "PENULISAN MEDIA"
+  },
+  "CCM3012": {
+    "faculty": "PUSAT PENDIDIKAN ASAS DAN LANJUTAN",
+    "title": "CARING SOCIETY (SISWA PENYAYANG)"
+  },
+  "CCM3022": {
+    "faculty": "PUSAT PENDIDIKAN ASAS DAN LANJUTAN",
+    "title": "PATRIOTISME"
+  },
+  "CCM3032": {
+    "faculty": "PUSAT PENDIDIKAN ASAS DAN LANJUTAN",
+    "title": "ASAS KESUKARELAWANAN"
+  },
+  "CCM3062": {
+    "faculty": "PUSAT PENDIDIKAN ASAS DAN LANJUTAN",
+    "title": "DRUG PREVENTION EDUCATION "
+  },
+  "CCP3013": {
+    "faculty": "PUSAT PENDIDIKAN ASAS DAN LANJUTAN",
+    "title": "PERANCANGAN DAN PENGURUSAN ACARA"
+  },
+  "CCP3023": {
+    "faculty": "PUSAT PENDIDIKAN ASAS DAN LANJUTAN",
+    "title": "LEADERSHIP (PEMIMPIN)"
+  },
+  "CCS3023": {
+    "faculty": "PUSAT PENDIDIKAN ASAS DAN LANJUTAN",
+    "title": "OUTDOOR RECREATIONAL"
+  },
+  "CCS3033": {
+    "faculty": "PUSAT PENDIDIKAN ASAS DAN LANJUTAN",
+    "title": "RECREATIONAL ANGLING (PANCING REKREASI)"
+  },
+  "CCS3043": {
+    "faculty": "PUSAT PENDIDIKAN ASAS DAN LANJUTAN",
+    "title": "REKREASI SCUBA DAN SNORKELING"
+  },
+  "CCS3053": {
+    "faculty": "PUSAT PENDIDIKAN ASAS DAN LANJUTAN",
+    "title": "RENANG DAN KESELAMATAN AIR"
+  },
+  "CCS3062": {
+    "faculty": "PUSAT PENDIDIKAN ASAS DAN LANJUTAN",
+    "title": "ASAS PERTOLONGAN CEMAS"
+  },
+  "CCS3072": {
+    "faculty": "PUSAT PENDIDIKAN ASAS DAN LANJUTAN",
+    "title": "HEALTHY LIFESTYLE"
+  },
+  "CCS3102": {
+    "faculty": "PUSAT PENDIDIKAN ASAS DAN LANJUTAN",
+    "title": "FUNDAMENTALS OF EXERCISE AND SPORTS"
+  },
+  "CCS3112": {
+    "faculty": "PUSAT PENDIDIKAN ASAS DAN LANJUTAN",
+    "title": "LAWN BOWLS"
+  },
+  "CCS3122": {
+    "faculty": "PUSAT PENDIDIKAN ASAS DAN LANJUTAN",
+    "title": "SILAT OLAHRAGA (ATHLETIC  MALAY MARTIAL ART)"
+  },
+  "CCS3142": {
+    "faculty": "PUSAT PENDIDIKAN ASAS DAN LANJUTAN",
+    "title": "MARTIAL ARTS"
+  },
+  "CCS3152": {
+    "faculty": "PUSAT PENDIDIKAN ASAS DAN LANJUTAN",
+    "title": "BASIC SAILING"
+  },
+  "CCS3162": {
+    "faculty": "PUSAT PENDIDIKAN ASAS DAN LANJUTAN",
+    "title": "ADVANCED SAILING"
+  },
+  "CCS3172": {
+    "faculty": "PUSAT PENDIDIKAN ASAS DAN LANJUTAN",
+    "title": "SAILING COACHING"
+  },
+  "CCV 3012": {
+    "faculty": "PUSAT PENDIDIKAN ASAS DAN LANJUTAN",
+    "title": "GRAPHIC DESIGN AND PHOTOGRAPHY"
+  },
+  "CCV3062": {
+    "faculty": "PUSAT PENDIDIKAN ASAS DAN LANJUTAN",
+    "title": "FOTOGRAFI BAWAH AIR (UNDERWATER PHOTOGRAPHY) "
+  },
+  "CHM3002": {
+    "faculty": "FAKULTI SAINS DAN SEKITARAN MARIN",
+    "title": "PENGURUSAN DAN KESELAMATAN BAHAN KIMIA "
+  },
+  "CHM3012": {
+    "faculty": "FAKULTI SAINS DAN SEKITARAN MARIN",
+    "title": "AMALI KIMIA ASAS"
+  },
+  "CHM3032": {
+    "faculty": "FAKULTI SAINS DAN SEKITARAN MARIN",
+    "title": "KAEDAH PENYELIDIKAN DALAM SAINS KIMIA"
+  },
+  "CHM3042": {
+    "faculty": "FAKULTI SAINS DAN SEKITARAN MARIN",
+    "title": "AMALI KIMIA ORGANIK DAN ANALISIS"
+  },
+  "CHM3052": {
+    "faculty": "FAKULTI SAINS DAN SEKITARAN MARIN",
+    "title": "PRINSIP KIMIA ANALISIS"
+  },
+  "CHM3062": {
+    "faculty": "FAKULTI SAINS DAN SEKITARAN MARIN",
+    "title": "PRINSIP KIMIA FIZIK"
+  },
+  "CHM3072": {
+    "faculty": "FAKULTI SAINS DAN SEKITARAN MARIN",
+    "title": "PRINSIP KIMIA ORGANIK"
+  },
+  "CHM3102": {
+    "faculty": "FAKULTI SAINS DAN SEKITARAN MARIN",
+    "title": "KIMIA FIZIK ASAS"
+  },
+  "CHM3111": {
+    "faculty": "FAKULTI SAINS DAN SEKITARAN MARIN",
+    "title": "AMALI KIMIA FIZIK"
+  },
+  "CHM3123": {
+    "faculty": "FAKULTI SAINS DAN SEKITARAN MARIN",
+    "title": "KIMIA FIZIK"
+  },
+  "CHM3133": {
+    "faculty": "FAKULTI SAINS DAN SEKITARAN MARIN",
+    "title": "KIMIA KOLOID"
+  },
+  "CHM3202": {
+    "faculty": "FAKULTI SAINS DAN SEKITARAN MARIN",
+    "title": "KIMIA ORGANIK ASAS"
+  },
+  "CHM3211": {
+    "faculty": "FAKULTI SAINS DAN SEKITARAN MARIN",
+    "title": "AMALI KIMIA ORGANIK"
+  },
+  "CHM3223": {
+    "faculty": "FAKULTI SAINS DAN SEKITARAN MARIN",
+    "title": "MEKANISMA DALAM KIMIA ORGANIK "
+  },
+  "CHM3233": {
+    "faculty": "FAKULTI SAINS DAN SEKITARAN MARIN",
+    "title": "KIMIA SEBATIAN KARBONIL "
+  },
+  "CHM3243": {
+    "faculty": "FAKULTI SAINS DAN SEKITARAN MARIN",
+    "title": "PENENTUAN STRUKTUR SEBATIAN KIMIA"
+  },
+  "CHM3252": {
+    "faculty": "FAKULTI SAINS DAN SEKITARAN MARIN",
+    "title": "KIMIA SEBATIAN SEMULAJADI"
+  },
+  "CHM3261": {
+    "faculty": "FAKULTI SAINS DAN SEKITARAN MARIN",
+    "title": "APLIKASI KIMIA ORGANIK"
+  },
+  "CHM3302": {
+    "faculty": "FAKULTI SAINS DAN SEKITARAN MARIN",
+    "title": "KIMIA TAK ORGANIK ASAS"
+  },
+  "CHM3311": {
+    "faculty": "FAKULTI SAINS DAN SEKITARAN MARIN",
+    "title": "AMALI KIMIA TAK ORGANIK"
+  },
+  "CHM3323": {
+    "faculty": "FAKULTI SAINS DAN SEKITARAN MARIN",
+    "title": "KIMIA TAK ORGANIK"
+  },
+  "CHM3333": {
+    "faculty": "FAKULTI SAINS DAN SEKITARAN MARIN",
+    "title": "KIMIA KOORDINATAN"
+  },
+  "CHM3342": {
+    "faculty": "FAKULTI SAINS DAN SEKITARAN MARIN",
+    "title": "KIMIA ORGANOLOGAM PERALIHAN"
+  },
+  "CHM3402": {
+    "faculty": "FAKULTI SAINS DAN SEKITARAN MARIN",
+    "title": "KIMIA ANALISIS"
+  },
+  "CHM3424": {
+    "faculty": "FAKULTI SAINS DAN SEKITARAN MARIN",
+    "title": "KIMIA INSTRUMENTASI"
+  },
+  "CHM3513": {
+    "faculty": "FAKULTI SAINS DAN SEKITARAN MARIN",
+    "title": "KIMIA POLIMER"
+  },
+  "CHM4113": {
+    "faculty": "FAKULTI SAINS DAN SEKITARAN MARIN",
+    "title": "KIMIA KUANTUM"
+  },
+  "CHM4123": {
+    "faculty": "FAKULTI SAINS DAN SEKITARAN MARIN",
+    "title": "KIMIA PERMUKAAN"
+  },
+  "CHM4133": {
+    "faculty": "FAKULTI SAINS DAN SEKITARAN MARIN",
+    "title": "ELEKTROKIMIA"
+  },
+  "CHM4143": {
+    "faculty": "FAKULTI SAINS DAN SEKITARAN MARIN",
+    "title": "SPEKTROSKOPI MOLEKUL"
+  },
+  "CHM4213": {
+    "faculty": "FAKULTI SAINS DAN SEKITARAN MARIN",
+    "title": "KIMIA HETEROSIKLIK"
+  },
+  "CHM4223": {
+    "faculty": "FAKULTI SAINS DAN SEKITARAN MARIN",
+    "title": "KIMIA LIPID"
+  },
+  "CHM4233": {
+    "faculty": "FAKULTI SAINS DAN SEKITARAN MARIN",
+    "title": "KIMIA ORGANIK FIZIK"
+  },
+  "CHM4242": {
+    "faculty": "FAKULTI SAINS DAN SEKITARAN MARIN",
+    "title": "KIMIA BIOMOLEKUL"
+  },
+  "CHM4253": {
+    "faculty": "FAKULTI SAINS DAN SEKITARAN MARIN",
+    "title": "KIMIA ORGANIK SINTESIS"
+  },
+  "CHM4313": {
+    "faculty": "FAKULTI SAINS DAN SEKITARAN MARIN",
+    "title": "KIMIA ORGANOLOGAM PERALIHAN LANJUTAN"
+  },
+  "CHM4323": {
+    "faculty": "FAKULTI SAINS DAN SEKITARAN MARIN",
+    "title": "KIMIA KOORDINATAN LANJUTAN"
+  },
+  "CHM4333": {
+    "faculty": "FAKULTI SAINS DAN SEKITARAN MARIN",
+    "title": "KIMIA KLUSTER"
+  },
+  "CHM4343": {
+    "faculty": "FAKULTI SAINS DAN SEKITARAN MARIN",
+    "title": "KIMIA FULLERENA"
+  },
+  "CHM4353": {
+    "faculty": "FAKULTI SAINS DAN SEKITARAN MARIN",
+    "title": "KIMIA KEADAAN PEPEJAL"
+  },
+  "CHM4513": {
+    "faculty": "FAKULTI SAINS DAN SEKITARAN MARIN",
+    "title": "KIMIA POLIMER INDUSTRI"
+  },
+  "CHM4523": {
+    "faculty": "FAKULTI SAINS DAN SEKITARAN MARIN",
+    "title": "KIMIA CAT DAN PENGLITUP"
+  },
+  "CHM4533": {
+    "faculty": "FAKULTI SAINS DAN SEKITARAN MARIN",
+    "title": "KIMIA BAHAN INDUSTRI"
+  },
+  "CHM4543": {
+    "faculty": "FAKULTI SAINS DAN SEKITARAN MARIN",
+    "title": "KIMIA SERAMIK"
+  },
+  "CHM4553": {
+    "faculty": "FAKULTI SAINS DAN SEKITARAN MARIN",
+    "title": "TEKNIK ANALISIS PERMUKAAN"
+  },
+  "CHM4563": {
+    "faculty": "FAKULTI SAINS DAN SEKITARAN MARIN",
+    "title": "PETROKIMIA"
+  },
+  "CHM4573": {
+    "faculty": "FAKULTI SAINS DAN SEKITARAN MARIN",
+    "title": "KIMIA SINTETIK DAN APLIKASI"
+  },
+  "CHM4583": {
+    "faculty": "FAKULTI SAINS DAN SEKITARAN MARIN",
+    "title": "KIMIA KOSMETIK"
+  },
+  "CHM49710": {
+    "faculty": "FAKULTI SAINS DAN SEKITARAN MARIN",
+    "title": "LATIHAN INDUSTRI"
+  },
+  "CHM4982": {
+    "faculty": "FAKULTI SAINS DAN SEKITARAN MARIN",
+    "title": "PROJEK ILMIAH TAHUN AKHIR I"
+  },
+  "CHM4994": {
+    "faculty": "FAKULTI SAINS DAN SEKITARAN MARIN",
+    "title": "PROJEK ILMIAH TAHUN AKHIR II"
+  },
+  "COM3013": {
+    "faculty": "PUSAT PENDIDIKAN ASAS DAN LANJUTAN",
+    "title": "KOMUNIKASI KEMANUSIAAN"
+  },
+  "COM3033": {
+    "faculty": "PUSAT PENDIDIKAN ASAS DAN LANJUTAN",
+    "title": "ASAS PRODUKSI FILEM DOKUMENTARI"
+  },
+  "COM3063": {
+    "faculty": "PUSAT PENDIDIKAN ASAS DAN LANJUTAN",
+    "title": "KOMUNIKASI KUMPULAN KECIL"
+  },
+  "COM3083": {
+    "faculty": "PUSAT PENDIDIKAN ASAS DAN LANJUTAN",
+    "title": "KOMUNIKASI ANTARA BUDAYA"
+  },
+  "COM3093": {
+    "faculty": "PUSAT PENDIDIKAN ASAS DAN LANJUTAN",
+    "title": "PENULISAN KREATIF"
+  },
+  "COU3003": {
+    "faculty": "FAKULTI PERNIAGAAN,EKONOMI DAN PEMBANGUNAN SOSIAL",
+    "title": "ABNORMAL BEHAVIOUR"
+  },
+  "COU3004": {
+    "faculty": "FAKULTI PERNIAGAAN,EKONOMI DAN PEMBANGUNAN SOSIAL",
+    "title": "HEALTH PSYCHOLOGY"
+  },
+  "COU3005": {
+    "faculty": "FAKULTI PERNIAGAAN,EKONOMI DAN PEMBANGUNAN SOSIAL",
+    "title": "INDUSTRIAL PSYCHOLOGY"
+  },
+  "COU3006": {
+    "faculty": "FAKULTI PERNIAGAAN,EKONOMI DAN PEMBANGUNAN SOSIAL",
+    "title": "E-COUNSELLING"
+  },
+  "COU3100": {
+    "faculty": "FAKULTI PERNIAGAAN,EKONOMI DAN PEMBANGUNAN SOSIAL",
+    "title": "INTRODUCTION TO PSYCHOLOGY"
+  },
+  "COU3101": {
+    "faculty": "FAKULTI PERNIAGAAN,EKONOMI DAN PEMBANGUNAN SOSIAL",
+    "title": "INTRODUCTION TO GUIDANCE AND COUNSELLING"
+  },
+  "COU3102": {
+    "faculty": "FAKULTI PERNIAGAAN,EKONOMI DAN PEMBANGUNAN SOSIAL",
+    "title": "DEVELOPMENTAL PSYCHOLOGY"
+  },
+  "COU3103": {
+    "faculty": "FAKULTI PERNIAGAAN,EKONOMI DAN PEMBANGUNAN SOSIAL",
+    "title": "INDIVIDUAL PERSONALITY"
+  },
+  "COU3201": {
+    "faculty": "FAKULTI PERNIAGAAN,EKONOMI DAN PEMBANGUNAN SOSIAL",
+    "title": "THEORY OF COUNSELLING AND PSYCHOTHERAPY"
+  },
+  "COU3203": {
+    "faculty": "FAKULTI PERNIAGAAN,EKONOMI DAN PEMBANGUNAN SOSIAL",
+    "title": "SUBSTANCE ABUSE COUNSELLING"
+  },
+  "COU3204": {
+    "faculty": "FAKULTI PERNIAGAAN,EKONOMI DAN PEMBANGUNAN SOSIAL",
+    "title": "PERSONNEL COUNSELLING"
+  },
+  "COU3205": {
+    "faculty": "FAKULTI PERNIAGAAN,EKONOMI DAN PEMBANGUNAN SOSIAL",
+    "title": "BASIC COUNSELLING SKILLS"
+  },
+  "COU3206": {
+    "faculty": "FAKULTI PERNIAGAAN,EKONOMI DAN PEMBANGUNAN SOSIAL",
+    "title": "INDIVIDUAL LAB I"
+  },
+  "COU3207": {
+    "faculty": "FAKULTI PERNIAGAAN,EKONOMI DAN PEMBANGUNAN SOSIAL",
+    "title": "INDIVIDUAL COUNSELLING"
+  },
+  "COU3300": {
+    "faculty": "FAKULTI PERNIAGAAN,EKONOMI DAN PEMBANGUNAN SOSIAL",
+    "title": "SOCIAL PSYCHOLOGY"
+  },
+  "COU3401": {
+    "faculty": "FAKULTI PERNIAGAAN,EKONOMI DAN PEMBANGUNAN SOSIAL",
+    "title": "GROUP COUNSELLING LAB I"
+  },
+  "COU3403": {
+    "faculty": "FAKULTI PERNIAGAAN,EKONOMI DAN PEMBANGUNAN SOSIAL",
+    "title": "GROUP COUNSELLING"
+  },
+  "COU3500": {
+    "faculty": "FAKULTI PERNIAGAAN,EKONOMI DAN PEMBANGUNAN SOSIAL",
+    "title": "CAREER COUNSELLING"
+  },
+  "COU3600": {
+    "faculty": "FAKULTI PERNIAGAAN,EKONOMI DAN PEMBANGUNAN SOSIAL",
+    "title": "INTRODUCTION TO PSYCHOLOGICAL TESTING"
+  },
+  "COU3701": {
+    "faculty": "FAKULTI PERNIAGAAN,EKONOMI DAN PEMBANGUNAN SOSIAL",
+    "title": "QUANTITATIVE RESEARCH"
+  },
+  "COU3702": {
+    "faculty": "FAKULTI PERNIAGAAN,EKONOMI DAN PEMBANGUNAN SOSIAL",
+    "title": "QUALITATIVE RESEARCH"
+  },
+  "COU3703": {
+    "faculty": "FAKULTI PERNIAGAAN,EKONOMI DAN PEMBANGUNAN SOSIAL",
+    "title": "RESEARCH PROJECT I"
+  },
+  "COU3704": {
+    "faculty": "FAKULTI PERNIAGAAN,EKONOMI DAN PEMBANGUNAN SOSIAL",
+    "title": "RESEARCH PROJECT II"
+  },
+  "COU4200": {
+    "faculty": "FAKULTI PERNIAGAAN,EKONOMI DAN PEMBANGUNAN SOSIAL",
+    "title": "FAMILY COUNSELLING"
+  },
+  "COU4206": {
+    "faculty": "FAKULTI PERNIAGAAN,EKONOMI DAN PEMBANGUNAN SOSIAL",
+    "title": "INDIVIDUAL LABORATORY LAB II"
+  },
+  "COU4300": {
+    "faculty": "FAKULTI PERNIAGAAN,EKONOMI DAN PEMBANGUNAN SOSIAL",
+    "title": "MULTICULTURAL COUNSELLING"
+  },
+  "COU4301": {
+    "faculty": "FAKULTI PERNIAGAAN,EKONOMI DAN PEMBANGUNAN SOSIAL",
+    "title": "VOLUNTEERISM"
+  },
+  "COU4402": {
+    "faculty": "FAKULTI PERNIAGAAN,EKONOMI DAN PEMBANGUNAN SOSIAL",
+    "title": "GROUP LABORATORY II"
+  },
+  "COU4500": {
+    "faculty": "FAKULTI PERNIAGAAN,EKONOMI DAN PEMBANGUNAN SOSIAL",
+    "title": "INFORMATION OF CAREER DEVELOPMENT"
+  },
+  "COU4600": {
+    "faculty": "FAKULTI PERNIAGAAN,EKONOMI DAN PEMBANGUNAN SOSIAL",
+    "title": "APPRAISAL IN COUNSELLING"
+  },
+  "COU4701": {
+    "faculty": "FAKULTI PERNIAGAAN,EKONOMI DAN PEMBANGUNAN SOSIAL",
+    "title": "CONSULTATION IN COUNSELLING"
+  },
+  "COU4800": {
+    "faculty": "FAKULTI PERNIAGAAN,EKONOMI DAN PEMBANGUNAN SOSIAL",
+    "title": "ETHICAL ISSUES AND LEGISLATION IN COUNSELING"
+  },
+  "COU4992C": {
+    "faculty": "FAKULTI PERNIAGAAN,EKONOMI DAN PEMBANGUNAN SOSIAL",
+    "title": "INTERNSHIP"
+  },
+  "COU4993": {
+    "faculty": "FAKULTI PERNIAGAAN,EKONOMI DAN PEMBANGUNAN SOSIAL",
+    "title": "PRACTICUM COUNSELLING"
+  },
+  "COU5100": {
+    "faculty": "FAKULTI PERNIAGAAN,EKONOMI DAN PEMBANGUNAN SOSIAL",
+    "title": "INDIVIDUAL DEVELOPMENT "
+  },
+  "COU5200": {
+    "faculty": "FAKULTI PERNIAGAAN,EKONOMI DAN PEMBANGUNAN SOSIAL",
+    "title": "THEORY OF COUNSELLING AND PSYCHOTHERAPY"
+  },
+  "COU5201": {
+    "faculty": "FAKULTI PERNIAGAAN,EKONOMI DAN PEMBANGUNAN SOSIAL",
+    "title": "COUNSELLING TECHNIQUES"
+  },
+  "COU5300": {
+    "faculty": "FAKULTI PERNIAGAAN,EKONOMI DAN PEMBANGUNAN SOSIAL",
+    "title": "MULTICULTURAL ISSUES IN COMMUNITY COUNSELLING"
+  },
+  "COU5400": {
+    "faculty": "FAKULTI PERNIAGAAN,EKONOMI DAN PEMBANGUNAN SOSIAL",
+    "title": "PROCEDURE AND GROUP DYNAMIC"
+  },
+  "COU5500": {
+    "faculty": "FAKULTI PERNIAGAAN,EKONOMI DAN PEMBANGUNAN SOSIAL",
+    "title": "CAREER DEVELOPMENT"
+  },
+  "COU5501": {
+    "faculty": "FAKULTI PERNIAGAAN,EKONOMI DAN PEMBANGUNAN SOSIAL",
+    "title": "CAREER COUNSELLING"
+  },
+  "COU5600": {
+    "faculty": "FAKULTI PERNIAGAAN,EKONOMI DAN PEMBANGUNAN SOSIAL",
+    "title": "PSYCHOLOGICAL TESTING IN COUNSELLING"
+  },
+  "COU5601": {
+    "faculty": "FAKULTI PERNIAGAAN,EKONOMI DAN PEMBANGUNAN SOSIAL",
+    "title": "APPRAISAL OF INDIVIDUALS AND GROUPS IN COUNSELLING"
+  },
+  "COU5700": {
+    "faculty": "FAKULTI PERNIAGAAN,EKONOMI DAN PEMBANGUNAN SOSIAL",
+    "title": "RESEARCH IN COUNSELLING "
+  },
+  "COU5997": {
+    "faculty": "FAKULTI PERNIAGAAN,EKONOMI DAN PEMBANGUNAN SOSIAL",
+    "title": "PRACTICUM"
+  },
+  "COU5998": {
+    "faculty": "FAKULTI PERNIAGAAN,EKONOMI DAN PEMBANGUNAN SOSIAL",
+    "title": "INTERNSHIP"
+  },
+  "COU5999": {
+    "faculty": "FAKULTI PERNIAGAAN,EKONOMI DAN PEMBANGUNAN SOSIAL",
+    "title": "DISSERTATION"
+  },
+  "CSA3003": {
+    "faculty": "FAKULTI TEKNOLOGI KEJURUTERAAN KELAUTAN DAN INFORMATIK",
+    "title": "MARITIME INFORMATICS TECHNOLOGY AND PROFESSIONAL ETHIC"
+  },
+  "CSA3013": {
+    "faculty": "FAKULTI TEKNOLOGI KEJURUTERAAN KELAUTAN DAN INFORMATIK",
+    "title": "MODELLING AND SIMULATION"
+  },
+  "CSA3023": {
+    "faculty": "FAKULTI TEKNOLOGI KEJURUTERAAN KELAUTAN DAN INFORMATIK",
+    "title": "WEB-BASED APPLICATION DEVELOPMENT"
+  },
+  "CSA3209": {
+    "faculty": "FAKULTI TEKNOLOGI KEJURUTERAAN KELAUTAN DAN INFORMATIK",
+    "title": "WEB-BASED APPLICATION DEVELOPMENT"
+  },
+  "CSA3500": {
+    "faculty": "FAKULTI TEKNOLOGI KEJURUTERAAN KELAUTAN DAN INFORMATIK",
+    "title": "MARITIME INFORMATICS TECHNOLOGY AND PROFESSIONAL ETHIC"
+  },
+  "CSA3801": {
+    "faculty": "FAKULTI TEKNOLOGI KEJURUTERAAN KELAUTAN DAN INFORMATIK",
+    "title": "MODELLING AND SIMULATION"
+  },
+  "CSA3953": {
+    "faculty": "FAKULTI TEKNOLOGI KEJURUTERAAN KELAUTAN DAN INFORMATIK",
+    "title": "APPLICATION SYSTEM DEVELOPMENT PROJECT"
+  },
+  "CSA3999": {
+    "faculty": "FAKULTI TEKNOLOGI KEJURUTERAAN KELAUTAN DAN INFORMATIK",
+    "title": "APPLICATION SYSTEM DEVELOPMENT PROJECT"
+  },
+  "CSE3023": {
+    "faculty": "FAKULTI TEKNOLOGI KEJURUTERAAN KELAUTAN DAN INFORMATIK",
+    "title": "WEB-BASED APPLICATION DEVELOPMENT"
+  },
+  "CSE3203": {
+    "faculty": "FAKULTI TEKNOLOGI KEJURUTERAAN KELAUTAN DAN INFORMATIK",
+    "title": "SOFTWARE REQUIREMENT ENGINEERING"
+  },
+  "CSE3209": {
+    "faculty": "FAKULTI TEKNOLOGI KEJURUTERAAN KELAUTAN DAN INFORMATIK",
+    "title": "WEB-BASED APPLICATION DEVELOPMENT"
+  },
+  "CSE3403": {
+    "faculty": "FAKULTI TEKNOLOGI KEJURUTERAAN KELAUTAN DAN INFORMATIK",
+    "title": "SOFTWARE PROJECT MANAGEMENT"
+  },
+  "CSE3413": {
+    "faculty": "FAKULTI TEKNOLOGI KEJURUTERAAN KELAUTAN DAN INFORMATIK",
+    "title": "SOFTWARE TESTING"
+  },
+  "CSE3423": {
+    "faculty": "FAKULTI TEKNOLOGI KEJURUTERAAN KELAUTAN DAN INFORMATIK",
+    "title": "SOFTWARE QUALITY ASSURANCE"
+  },
+  "CSE3433": {
+    "faculty": "FAKULTI TEKNOLOGI KEJURUTERAAN KELAUTAN DAN INFORMATIK",
+    "title": "SOFTWARE ARCHITECTURE"
+  },
+  "CSE3443": {
+    "faculty": "FAKULTI TEKNOLOGI KEJURUTERAAN KELAUTAN DAN INFORMATIK",
+    "title": "SOFTWARE MAINTENANCE AND EVOLUTION"
+  },
+  "CSE3453": {
+    "faculty": "FAKULTI TEKNOLOGI KEJURUTERAAN KELAUTAN DAN INFORMATIK",
+    "title": "ETHICS AND  PROFESSIONAL PRACTICES"
+  },
+  "CSE3503": {
+    "faculty": "FAKULTI TEKNOLOGI KEJURUTERAAN KELAUTAN DAN INFORMATIK",
+    "title": "SOFTWARE REQUIREMENT ENGINEERING"
+  },
+  "CSE3508": {
+    "faculty": "FAKULTI TEKNOLOGI KEJURUTERAAN KELAUTAN DAN INFORMATIK",
+    "title": "SOFTWARE PROJECT MANAGEMENT"
+  },
+  "CSE3510": {
+    "faculty": "FAKULTI TEKNOLOGI KEJURUTERAAN KELAUTAN DAN INFORMATIK",
+    "title": "SOFTWARE ARCHITECTURE"
+  },
+  "CSE3511": {
+    "faculty": "FAKULTI TEKNOLOGI KEJURUTERAAN KELAUTAN DAN INFORMATIK",
+    "title": "SOFTWARE TESTING"
+  },
+  "CSE3512": {
+    "faculty": "FAKULTI TEKNOLOGI KEJURUTERAAN KELAUTAN DAN INFORMATIK",
+    "title": "SOFTWARE QUALITY ASSURANCE"
+  },
+  "CSE3513": {
+    "faculty": "FAKULTI TEKNOLOGI KEJURUTERAAN KELAUTAN DAN INFORMATIK",
+    "title": "SOFTWARE MAINTENANCE AND EVOLUTION"
+  },
+  "CSE3514": {
+    "faculty": "FAKULTI TEKNOLOGI KEJURUTERAAN KELAUTAN DAN INFORMATIK",
+    "title": "ETHICS AND  PROFESSIONAL PRACTICES"
+  },
+  "CSE3953": {
+    "faculty": "FAKULTI TEKNOLOGI KEJURUTERAAN KELAUTAN DAN INFORMATIK",
+    "title": "APPLICATION SYSTEM DEVELOPMENT PROJECT"
+  },
+  "CSE3999": {
+    "faculty": "FAKULTI TEKNOLOGI KEJURUTERAAN KELAUTAN DAN INFORMATIK",
+    "title": "APPLICATION SYSTEM DEVELOPMENT PROJECT"
+  },
+  "CSF3001": {
+    "faculty": "FAKULTI TEKNOLOGI KEJURUTERAAN KELAUTAN DAN INFORMATIK",
+    "title": "DISCRETE STRUCTURE"
+  },
+  "CSF3003": {
+    "faculty": "FAKULTI TEKNOLOGI KEJURUTERAAN KELAUTAN DAN INFORMATIK",
+    "title": "DISCRETE STRUCTURE"
+  },
+  "CSF3013": {
+    "faculty": "FAKULTI TEKNOLOGI KEJURUTERAAN KELAUTAN DAN INFORMATIK",
+    "title": "DATA STRUCTURE AND ALGORITHM"
+  },
+  "CSF3023": {
+    "faculty": "FAKULTI TEKNOLOGI KEJURUTERAAN KELAUTAN DAN INFORMATIK",
+    "title": "SYSTEM THINKING AND LOGIC"
+  },
+  "CSF3034": {
+    "faculty": "FAKULTI TEKNOLOGI KEJURUTERAAN KELAUTAN DAN INFORMATIK",
+    "title": "PROGRAMMING"
+  },
+  "CSF3043": {
+    "faculty": "FAKULTI TEKNOLOGI KEJURUTERAAN KELAUTAN DAN INFORMATIK",
+    "title": "OBJECT-ORIENTED PROGRAMMING"
+  },
+  "CSF3104": {
+    "faculty": "FAKULTI TEKNOLOGI KEJURUTERAAN KELAUTAN DAN INFORMATIK",
+    "title": "DATA STRUCTURE AND ALGORITHM"
+  },
+  "CSF3105": {
+    "faculty": "FAKULTI TEKNOLOGI KEJURUTERAAN KELAUTAN DAN INFORMATIK",
+    "title": "SYSTEM THINKING AND LOGIC"
+  },
+  "CSF3108": {
+    "faculty": "FAKULTI TEKNOLOGI KEJURUTERAAN KELAUTAN DAN INFORMATIK",
+    "title": "PROGRAMMING"
+  },
+  "CSF3109": {
+    "faculty": "FAKULTI TEKNOLOGI KEJURUTERAAN KELAUTAN DAN INFORMATIK",
+    "title": "OBJECT-ORIENTED PROGRAMMING"
+  },
+  "CSF3113": {
+    "faculty": "FAKULTI TEKNOLOGI KEJURUTERAAN KELAUTAN DAN INFORMATIK",
+    "title": "SYSTEM ANALYSIS AND DESIGN"
+  },
+  "CSF3123": {
+    "faculty": "FAKULTI TEKNOLOGI KEJURUTERAAN KELAUTAN DAN INFORMATIK",
+    "title": "DATABASE"
+  },
+  "CSF3133": {
+    "faculty": "FAKULTI TEKNOLOGI KEJURUTERAAN KELAUTAN DAN INFORMATIK",
+    "title": "WEB-BASED INTERFACE DESIGN"
+  },
+  "CSF3143": {
+    "faculty": "FAKULTI TEKNOLOGI KEJURUTERAAN KELAUTAN DAN INFORMATIK",
+    "title": "BASICS OF SOFTWARE ENGINEERING"
+  },
+  "CSF3204": {
+    "faculty": "FAKULTI TEKNOLOGI KEJURUTERAAN KELAUTAN DAN INFORMATIK",
+    "title": "SYSTEM ANALYSIS AND DESIGN"
+  },
+  "CSF3205": {
+    "faculty": "FAKULTI TEKNOLOGI KEJURUTERAAN KELAUTAN DAN INFORMATIK",
+    "title": "DATABASE"
+  },
+  "CSF3206": {
+    "faculty": "FAKULTI TEKNOLOGI KEJURUTERAAN KELAUTAN DAN INFORMATIK",
+    "title": "WEB-BASED INTERFACE DESIGN"
+  },
+  "CSF3213": {
+    "faculty": "FAKULTI TEKNOLOGI KEJURUTERAAN KELAUTAN DAN INFORMATIK",
+    "title": "OPERATING SYSTEM"
+  },
+  "CSF3223": {
+    "faculty": "FAKULTI TEKNOLOGI KEJURUTERAAN KELAUTAN DAN INFORMATIK",
+    "title": "NETWORKING"
+  },
+  "CSF3233": {
+    "faculty": "FAKULTI TEKNOLOGI KEJURUTERAAN KELAUTAN DAN INFORMATIK",
+    "title": "CYBER SECURITY"
+  },
+  "CSF3243": {
+    "faculty": "FAKULTI TEKNOLOGI KEJURUTERAAN KELAUTAN DAN INFORMATIK",
+    "title": "COMPUTER ARCHITECTURE AND ORGANIZATION"
+  },
+  "CSF3253": {
+    "faculty": "FAKULTI TEKNOLOGI KEJURUTERAAN KELAUTAN DAN INFORMATIK",
+    "title": "INTELLIGENT SYSTEM"
+  },
+  "CSF3304": {
+    "faculty": "FAKULTI TEKNOLOGI KEJURUTERAAN KELAUTAN DAN INFORMATIK",
+    "title": "COMPUTER ARCHITECTURE AND ORGANIZATION"
+  },
+  "CSF3305 ": {
+    "faculty": "FAKULTI TEKNOLOGI KEJURUTERAAN KELAUTAN DAN INFORMATIK",
+    "title": "OPERATING SYSTEM"
+  },
+  "CSF3402": {
+    "faculty": "FAKULTI TEKNOLOGI KEJURUTERAAN KELAUTAN DAN INFORMATIK",
+    "title": "NETWORKING"
+  },
+  "CSF3404 ": {
+    "faculty": "FAKULTI TEKNOLOGI KEJURUTERAAN KELAUTAN DAN INFORMATIK",
+    "title": "CYBER SECURITY"
+  },
+  "CSF3501": {
+    "faculty": "FAKULTI TEKNOLOGI KEJURUTERAAN KELAUTAN DAN INFORMATIK",
+    "title": "BASICS OF SOFTWARE ENGINEERING"
+  },
+  "CSF3503": {
+    "faculty": "FAKULTI TEKNOLOGI KEJURUTERAAN KELAUTAN DAN INFORMATIK",
+    "title": "SPECIAL TOPICS IN MARITIME INFORMATICS"
+  },
+  "CSF3513": {
+    "faculty": "FAKULTI TEKNOLOGI KEJURUTERAAN KELAUTAN DAN INFORMATIK",
+    "title": "SPECIAL TOPICS IN SOFTWARE ENGINEERING"
+  },
+  "CSF3523": {
+    "faculty": "FAKULTI TEKNOLOGI KEJURUTERAAN KELAUTAN DAN INFORMATIK",
+    "title": "INFORMATION SYSTEM"
+  },
+  "CSF3533": {
+    "faculty": "FAKULTI TEKNOLOGI KEJURUTERAAN KELAUTAN DAN INFORMATIK",
+    "title": "MULTIMEDIA TECHNOLOGY"
+  },
+  "CSF3543": {
+    "faculty": "FAKULTI TEKNOLOGI KEJURUTERAAN KELAUTAN DAN INFORMATIK",
+    "title": "DIGITAL IMAGE PROCESSING"
+  },
+  "CSF3553": {
+    "faculty": "FAKULTI TEKNOLOGI KEJURUTERAAN KELAUTAN DAN INFORMATIK",
+    "title": "INFORMATION RETRIEVAL"
+  },
+  "CSF3563": {
+    "faculty": "FAKULTI TEKNOLOGI KEJURUTERAAN KELAUTAN DAN INFORMATIK",
+    "title": "DATA MINING"
+  },
+  "CSF3573": {
+    "faculty": "FAKULTI TEKNOLOGI KEJURUTERAAN KELAUTAN DAN INFORMATIK",
+    "title": "COMPUTER AUDITING"
+  },
+  "CSF3583": {
+    "faculty": "FAKULTI TEKNOLOGI KEJURUTERAAN KELAUTAN DAN INFORMATIK",
+    "title": "FORMAL METHOD"
+  },
+  "CSF3593": {
+    "faculty": "FAKULTI TEKNOLOGI KEJURUTERAAN KELAUTAN DAN INFORMATIK",
+    "title": "COMPUTER FORENSICS"
+  },
+  "CSF3603": {
+    "faculty": "FAKULTI TEKNOLOGI KEJURUTERAAN KELAUTAN DAN INFORMATIK",
+    "title": "DIGITAL COMMERCE"
+  },
+  "CSF3613": {
+    "faculty": "FAKULTI TEKNOLOGI KEJURUTERAAN KELAUTAN DAN INFORMATIK",
+    "title": "MACHINE LEARNING"
+  },
+  "CSF3623": {
+    "faculty": "FAKULTI TEKNOLOGI KEJURUTERAAN KELAUTAN DAN INFORMATIK",
+    "title": "PROGRAMMING PARADIGMS"
+  },
+  "CSF3701": {
+    "faculty": "FAKULTI TEKNOLOGI KEJURUTERAAN KELAUTAN DAN INFORMATIK",
+    "title": "INTELLIGENT SYSTEM"
+  },
+  "CSF49712": {
+    "faculty": "FAKULTI TEKNOLOGI KEJURUTERAAN KELAUTAN DAN INFORMATIK",
+    "title": "INDUSTRIAL TRAINING"
+  },
+  "CSF4984": {
+    "faculty": "FAKULTI TEKNOLOGI KEJURUTERAAN KELAUTAN DAN INFORMATIK",
+    "title": "FINAL YEAR PROJECT I"
+  },
+  "CSF4992": {
+    "faculty": "FAKULTI TEKNOLOGI KEJURUTERAAN KELAUTAN DAN INFORMATIK",
+    "title": "INDUSTRIAL TRAINING"
+  },
+  "CSF4994": {
+    "faculty": "FAKULTI TEKNOLOGI KEJURUTERAAN KELAUTAN DAN INFORMATIK",
+    "title": "FINAL YEAR PROJECT II"
+  },
+  "CSF4998": {
+    "faculty": "FAKULTI TEKNOLOGI KEJURUTERAAN KELAUTAN DAN INFORMATIK",
+    "title": "FINAL YEAR PROJECT I"
+  },
+  "CSF4999": {
+    "faculty": "FAKULTI TEKNOLOGI KEJURUTERAAN KELAUTAN DAN INFORMATIK",
+    "title": "FINAL YEAR PROJECT II"
+  },
+  "CSM3023": {
+    "faculty": "FAKULTI TEKNOLOGI KEJURUTERAAN KELAUTAN DAN INFORMATIK",
+    "title": "WEB-BASED APPLICATION DEVELOPMENT"
+  },
+  "CSM3103": {
+    "faculty": "FAKULTI TEKNOLOGI KEJURUTERAAN KELAUTAN DAN INFORMATIK",
+    "title": "FRONT-END PROGRAMMING"
+  },
+  "CSM3114": {
+    "faculty": "FAKULTI TEKNOLOGI KEJURUTERAAN KELAUTAN DAN INFORMATIK",
+    "title": "FRAMEWORK-BASED MOBILE APPLICATION DEVELOPMENT"
+  },
+  "CSM3123": {
+    "faculty": "FAKULTI TEKNOLOGI KEJURUTERAAN KELAUTAN DAN INFORMATIK",
+    "title": "NATIVE MOBILE PROGRAMMING"
+  },
+  "CSM3313": {
+    "faculty": "FAKULTI TEKNOLOGI KEJURUTERAAN KELAUTAN DAN INFORMATIK",
+    "title": "IOT COMPUTING"
+  },
+  "CSM3401": {
+    "faculty": "FAKULTI TEKNOLOGI KEJURUTERAAN KELAUTAN DAN INFORMATIK",
+    "title": "IOT COMPUTING"
+  },
+  "CSM3502": {
+    "faculty": "FAKULTI TEKNOLOGI KEJURUTERAAN KELAUTAN DAN INFORMATIK",
+    "title": "WEB-BASED APPLICATION DEVELOPMENT"
+  },
+  "CSM3503": {
+    "faculty": "FAKULTI TEKNOLOGI KEJURUTERAAN KELAUTAN DAN INFORMATIK",
+    "title": "FRONT-END PROGRAMMING"
+  },
+  "CSM3504": {
+    "faculty": "FAKULTI TEKNOLOGI KEJURUTERAAN KELAUTAN DAN INFORMATIK",
+    "title": "FRAMEWORK-BASED MOBILE APPLICATION DEVELOPMENT"
+  },
+  "CSM3505": {
+    "faculty": "FAKULTI TEKNOLOGI KEJURUTERAAN KELAUTAN DAN INFORMATIK",
+    "title": "NATIVE MOBILE PROGRAMMING"
+  },
+  "CSM4908-I": {
+    "faculty": "FAKULTI TEKNOLOGI KEJURUTERAAN KELAUTAN DAN INFORMATIK",
+    "title": "INDUSTRIAL PROJECT MANAGEMENT"
+  },
+  "CSM4918-I": {
+    "faculty": "FAKULTI TEKNOLOGI KEJURUTERAAN KELAUTAN DAN INFORMATIK",
+    "title": "INDUSTRIAL PROJECT DEVELOPMENT"
+  },
+  "CSM4928-I": {
+    "faculty": "FAKULTI TEKNOLOGI KEJURUTERAAN KELAUTAN DAN INFORMATIK",
+    "title": "INTEGRATED INDUSTRIAL PROJECT MANAGEMENT"
+  },
+  "CSM4938-I": {
+    "faculty": "FAKULTI TEKNOLOGI KEJURUTERAAN KELAUTAN DAN INFORMATIK",
+    "title": "INTEGRATED INDUSTRIAL PROJECT DEVELOPMENT"
+  },
+  "CSM4993": {
+    "faculty": "FAKULTI TEKNOLOGI KEJURUTERAAN KELAUTAN DAN INFORMATIK",
+    "title": "INDUSTRIAL PROJECT MANAGEMENT"
+  },
+  "CSM4994": {
+    "faculty": "FAKULTI TEKNOLOGI KEJURUTERAAN KELAUTAN DAN INFORMATIK",
+    "title": "INDUSTRIAL PROJECT DEVELOPMENT"
+  },
+  "CSM4995": {
+    "faculty": "FAKULTI TEKNOLOGI KEJURUTERAAN KELAUTAN DAN INFORMATIK",
+    "title": " INTEGRATED INDUSTRIAL PROJECT MANAGEMENT"
+  },
+  "CSM4996": {
+    "faculty": "FAKULTI TEKNOLOGI KEJURUTERAAN KELAUTAN DAN INFORMATIK",
+    "title": " INTEGRATED INDUSTRIAL PROJECT DEVELOPMENT"
+  },
+  "CSM5003": {
+    "faculty": "FAKULTI TEKNOLOGI KEJURUTERAAN KELAUTAN DAN INFORMATIK",
+    "title": "KAEDAH PENYELIDIKAN"
+  },
+  "CSM5983": {
+    "faculty": "FAKULTI TEKNOLOGI KEJURUTERAAN KELAUTAN DAN INFORMATIK",
+    "title": "PROJEK KOLOKIUM SISWAZAH"
+  },
+  "CSS3003": {
+    "faculty": "FAKULTI TEKNOLOGI KEJURUTERAAN KELAUTAN DAN INFORMATIK",
+    "title": "COMPUTER SYSTEM AND APPLICATION"
+  },
+  "CSS5014": {
+    "faculty": "FAKULTI TEKNOLOGI KEJURUTERAAN KELAUTAN DAN INFORMATIK",
+    "title": "PENGURUSAN PROJEK PERISIAN"
+  },
+  "CSS5024": {
+    "faculty": "FAKULTI TEKNOLOGI KEJURUTERAAN KELAUTAN DAN INFORMATIK",
+    "title": "ANALISIS ALGORITMA"
+  },
+  "CSS5034": {
+    "faculty": "FAKULTI TEKNOLOGI KEJURUTERAAN KELAUTAN DAN INFORMATIK",
+    "title": "TEKNOLOGI INTERNET"
+  },
+  "CSS5044": {
+    "faculty": "FAKULTI TEKNOLOGI KEJURUTERAAN KELAUTAN DAN INFORMATIK",
+    "title": "PEMBELAJARAN MESIN"
+  },
+  "CSS5414": {
+    "faculty": "FAKULTI TEKNOLOGI KEJURUTERAAN KELAUTAN DAN INFORMATIK",
+    "title": "KAEDAH PENGUJIAN PERISIAN"
+  },
+  "CSS5424": {
+    "faculty": "FAKULTI TEKNOLOGI KEJURUTERAAN KELAUTAN DAN INFORMATIK",
+    "title": "PENGURUSAN KUALITI PERISIAN"
+  },
+  "CSS5434": {
+    "faculty": "FAKULTI TEKNOLOGI KEJURUTERAAN KELAUTAN DAN INFORMATIK",
+    "title": "SISTEM SOKONGAN KEPUTUSAN"
+  },
+  "CSS5444": {
+    "faculty": "FAKULTI TEKNOLOGI KEJURUTERAAN KELAUTAN DAN INFORMATIK",
+    "title": "PEMPROSESAN IMEJ DIGITAL"
+  },
+  "CSS59910": {
+    "faculty": "FAKULTI TEKNOLOGI KEJURUTERAAN KELAUTAN DAN INFORMATIK",
+    "title": "PROJEK SARJANA"
+  },
+  "ECO3003": {
+    "faculty": "FAKULTI PERNIAGAAN,EKONOMI DAN PEMBANGUNAN SOSIAL",
+    "title": "PRINCIPLES OF ECONOMIC THINKING"
+  },
+  "ECO3013": {
+    "faculty": "FAKULTI PERNIAGAAN,EKONOMI DAN PEMBANGUNAN SOSIAL",
+    "title": "INTRODUCTION TO MICROECONOMICS"
+  },
+  "ECO3023": {
+    "faculty": "FAKULTI PERNIAGAAN,EKONOMI DAN PEMBANGUNAN SOSIAL",
+    "title": "INTRODUCTION TO MACROECONOMICS"
+  },
+  "ECO3033": {
+    "faculty": "FAKULTI PERNIAGAAN,EKONOMI DAN PEMBANGUNAN SOSIAL",
+    "title": "MICROECONOMICS"
+  },
+  "ECO3043": {
+    "faculty": "FAKULTI PERNIAGAAN,EKONOMI DAN PEMBANGUNAN SOSIAL",
+    "title": "MACROECONOMICS"
+  },
+  "ECO3053": {
+    "faculty": "FAKULTI PERNIAGAAN,EKONOMI DAN PEMBANGUNAN SOSIAL",
+    "title": "MANAGERIAL ECONOMICS"
+  },
+  "ECO3063": {
+    "faculty": "FAKULTI PERNIAGAAN,EKONOMI DAN PEMBANGUNAN SOSIAL",
+    "title": "HISTORY OF ECONOMIC THOUGHT"
+  },
+  "ECO3073": {
+    "faculty": "FAKULTI PERNIAGAAN,EKONOMI DAN PEMBANGUNAN SOSIAL",
+    "title": "INTRODUCTION TO ISLAMIC ECONOMICS"
+  },
+  "ECO3083": {
+    "faculty": "FAKULTI PERNIAGAAN,EKONOMI DAN PEMBANGUNAN SOSIAL",
+    "title": "MICROECONOMICS I"
+  },
+  "ECO3093": {
+    "faculty": "FAKULTI PERNIAGAAN,EKONOMI DAN PEMBANGUNAN SOSIAL",
+    "title": "MACROECONOMICS 1"
+  },
+  "ECO3113": {
+    "faculty": "FAKULTI PERNIAGAAN,EKONOMI DAN PEMBANGUNAN SOSIAL",
+    "title": "MACROECONOMICS II"
+  },
+  "ECO3123": {
+    "faculty": "FAKULTI PERNIAGAAN,EKONOMI DAN PEMBANGUNAN SOSIAL",
+    "title": "MICROECONOMICS II"
+  },
+  "ECO3153": {
+    "faculty": "FAKULTI PERNIAGAAN,EKONOMI DAN PEMBANGUNAN SOSIAL",
+    "title": "STATISTICS ECONOMICS AND BUSINESS I"
+  },
+  "ECO3163": {
+    "faculty": "FAKULTI PERNIAGAAN,EKONOMI DAN PEMBANGUNAN SOSIAL",
+    "title": "STATISTICS FOR ECONOMICS AND BUSINESS II"
+  },
+  "ECO3173": {
+    "faculty": "FAKULTI PERNIAGAAN,EKONOMI DAN PEMBANGUNAN SOSIAL",
+    "title": "ECONOMETRICS I"
+  },
+  "ECO3183": {
+    "faculty": "FAKULTI PERNIAGAAN,EKONOMI DAN PEMBANGUNAN SOSIAL",
+    "title": "ECONOMETRICS II"
+  },
+  "ECO3193": {
+    "faculty": "FAKULTI PERNIAGAAN,EKONOMI DAN PEMBANGUNAN SOSIAL",
+    "title": "INTRODUCTION TO MATHEMATICAL ECONOMICS"
+  },
+  "ECO3213": {
+    "faculty": "FAKULTI PERNIAGAAN,EKONOMI DAN PEMBANGUNAN SOSIAL",
+    "title": "MATHEMATICAL ECONOMICS"
+  },
+  "ECO4133": {
+    "faculty": "FAKULTI PERNIAGAAN,EKONOMI DAN PEMBANGUNAN SOSIAL",
+    "title": "MACROECONOMICS III"
+  },
+  "ECO4143": {
+    "faculty": "FAKULTI PERNIAGAAN,EKONOMI DAN PEMBANGUNAN SOSIAL",
+    "title": "MICROECONOMICS III"
+  },
+  "ECO4213": {
+    "faculty": "FAKULTI PERNIAGAAN,EKONOMI DAN PEMBANGUNAN SOSIAL",
+    "title": "RESEARCH METHODOLOGY"
+  },
+  "ECO4233": {
+    "faculty": "FAKULTI PERNIAGAAN,EKONOMI DAN PEMBANGUNAN SOSIAL",
+    "title": "PUBLIC ECONOMICS"
+  },
+  "ECO4243": {
+    "faculty": "FAKULTI PERNIAGAAN,EKONOMI DAN PEMBANGUNAN SOSIAL",
+    "title": "NATURAL RESOURCE ECONOMICS"
+  },
+  "ECO4250": {
+    "faculty": "FAKULTI PERNIAGAAN,EKONOMI DAN PEMBANGUNAN SOSIAL",
+    "title": "ENVIRONMENTAL ECONOMICS"
+  },
+  "ECO4263": {
+    "faculty": "FAKULTI PERNIAGAAN,EKONOMI DAN PEMBANGUNAN SOSIAL",
+    "title": "ENERGY ECONOMICS"
+  },
+  "ECO4273": {
+    "faculty": "FAKULTI PERNIAGAAN,EKONOMI DAN PEMBANGUNAN SOSIAL",
+    "title": "LAND AND FOREST ECONOMICS"
+  },
+  "ECO4283": {
+    "faculty": "FAKULTI PERNIAGAAN,EKONOMI DAN PEMBANGUNAN SOSIAL",
+    "title": "FISHERIES AND AQUACULTURE ECONOMICS"
+  },
+  "ECO4293": {
+    "faculty": "FAKULTI PERNIAGAAN,EKONOMI DAN PEMBANGUNAN SOSIAL",
+    "title": "RECREATION AND TOURISM ECONOMICS"
+  },
+  "ECO4333": {
+    "faculty": "FAKULTI PERNIAGAAN,EKONOMI DAN PEMBANGUNAN SOSIAL",
+    "title": "DISASTER ECONOMICS"
+  },
+  "ECO4353": {
+    "faculty": "FAKULTI PERNIAGAAN,EKONOMI DAN PEMBANGUNAN SOSIAL",
+    "title": "LABOUR ECONOMICS"
+  },
+  "ECO4373": {
+    "faculty": "FAKULTI PERNIAGAAN,EKONOMI DAN PEMBANGUNAN SOSIAL",
+    "title": "PLANNING AND DEVELOPMENT OF THE MALAYSIAN ECONOMY"
+  },
+  "ECO4383": {
+    "faculty": "FAKULTI PERNIAGAAN,EKONOMI DAN PEMBANGUNAN SOSIAL",
+    "title": "SUSTAINABLE DEVELOPMENT"
+  },
+  "ECO4393": {
+    "faculty": "FAKULTI PERNIAGAAN,EKONOMI DAN PEMBANGUNAN SOSIAL",
+    "title": "PROJECT PLANNING AND EVALUATION"
+  },
+  "ECO4404": {
+    "faculty": "FAKULTI PERNIAGAAN,EKONOMI DAN PEMBANGUNAN SOSIAL",
+    "title": "INTERNATIONAL ECONOMICS"
+  },
+  "ECO4413": {
+    "faculty": "FAKULTI PERNIAGAAN,EKONOMI DAN PEMBANGUNAN SOSIAL",
+    "title": "HEALTH ECONOMICS"
+  },
+  "ECO4423": {
+    "faculty": "FAKULTI PERNIAGAAN,EKONOMI DAN PEMBANGUNAN SOSIAL",
+    "title": "AGRI-BUSINESS MANAGEMENT"
+  },
+  "ECO4433": {
+    "faculty": "FAKULTI PERNIAGAAN,EKONOMI DAN PEMBANGUNAN SOSIAL",
+    "title": "ECOLOGICAL ECONOMICS"
+  },
+  "ECO4443": {
+    "faculty": "FAKULTI PERNIAGAAN,EKONOMI DAN PEMBANGUNAN SOSIAL",
+    "title": "WATER ECONOMICS"
+  },
+  "ECO4453": {
+    "faculty": "FAKULTI PERNIAGAAN,EKONOMI DAN PEMBANGUNAN SOSIAL",
+    "title": " FINANCIAL ECONOMICS"
+  },
+  "ECO4463": {
+    "faculty": "FAKULTI PERNIAGAAN,EKONOMI DAN PEMBANGUNAN SOSIAL",
+    "title": "INDUSTRIAL ECONOMICS"
+  },
+  "ECO4613": {
+    "faculty": "FAKULTI PERNIAGAAN,EKONOMI DAN PEMBANGUNAN SOSIAL",
+    "title": "NATURAL RESOURCES LAW"
+  },
+  "ECO4978": {
+    "faculty": "FAKULTI PERNIAGAAN,EKONOMI DAN PEMBANGUNAN SOSIAL",
+    "title": "INDUSTRIAL TRAINING"
+  },
+  "ECO4982": {
+    "faculty": "FAKULTI PERNIAGAAN,EKONOMI DAN PEMBANGUNAN SOSIAL",
+    "title": "FINAL YEAR PROJECT I"
+  },
+  "ECO4994": {
+    "faculty": "FAKULTI PERNIAGAAN,EKONOMI DAN PEMBANGUNAN SOSIAL",
+    "title": "FINAL YEAR PROJECT II"
+  },
+  "ECO5003": {
+    "faculty": "FAKULTI PERNIAGAAN,EKONOMI DAN PEMBANGUNAN SOSIAL",
+    "title": "ADVANCED MICROECONOMICS"
+  },
+  "ECO5013": {
+    "faculty": "FAKULTI PERNIAGAAN,EKONOMI DAN PEMBANGUNAN SOSIAL",
+    "title": "ADVANCED MACROECONOMICS"
+  },
+  "ECO5024": {
+    "faculty": "FAKULTI PERNIAGAAN,EKONOMI DAN PEMBANGUNAN SOSIAL",
+    "title": "RESEARCH METHODOLOGY IN APPLIED ECONOMICS"
+  },
+  "ECO5033": {
+    "faculty": "FAKULTI PERNIAGAAN,EKONOMI DAN PEMBANGUNAN SOSIAL",
+    "title": "ADVANCED ECONOMETRICS"
+  },
+  "ECO5173": {
+    "faculty": "FAKULTI PERNIAGAAN,EKONOMI DAN PEMBANGUNAN SOSIAL",
+    "title": "ECONOMIC VALUATION OF RESOURCES"
+  },
+  "ECO5183": {
+    "faculty": "FAKULTI PERNIAGAAN,EKONOMI DAN PEMBANGUNAN SOSIAL",
+    "title": "MANAGERIAL ECONOMICS"
+  },
+  "ECO5203": {
+    "faculty": "FAKULTI PERNIAGAAN,EKONOMI DAN PEMBANGUNAN SOSIAL",
+    "title": "ENVIRONMENTAL ECONOMICS AND POLICY"
+  },
+  "ECO5213": {
+    "faculty": "FAKULTI PERNIAGAAN,EKONOMI DAN PEMBANGUNAN SOSIAL",
+    "title": " NATURAL RESOURCE ECONOMICS AND MODELLING"
+  },
+  "ECO5223": {
+    "faculty": "FAKULTI PERNIAGAAN,EKONOMI DAN PEMBANGUNAN SOSIAL",
+    "title": "ECONOMIC VALUATION AND COST & BENEFIT ANALYSIS"
+  },
+  "ECO5243": {
+    "faculty": "FAKULTI PERNIAGAAN,EKONOMI DAN PEMBANGUNAN SOSIAL",
+    "title": "ADVANCED NATURAL RESOURCE ECONOMICS"
+  },
+  "ECO5253": {
+    "faculty": "FAKULTI PERNIAGAAN,EKONOMI DAN PEMBANGUNAN SOSIAL",
+    "title": "ISSUES IN ECONOMICS AND NATURAL RESOURCES"
+  },
+  "ECO5303": {
+    "faculty": "FAKULTI PERNIAGAAN,EKONOMI DAN PEMBANGUNAN SOSIAL",
+    "title": "MONETARY ECONOMICS, BANKING AND FINANCIAL MARKET"
+  },
+  "ECO5313": {
+    "faculty": "FAKULTI PERNIAGAAN,EKONOMI DAN PEMBANGUNAN SOSIAL",
+    "title": "RURAL DEVELOPMENT AND MICROFINANCE POLICY"
+  },
+  "ECO5323": {
+    "faculty": "FAKULTI PERNIAGAAN,EKONOMI DAN PEMBANGUNAN SOSIAL",
+    "title": "CONTRACTING AND MICROFINANCE PRODUCTS"
+  },
+  "ECO5333": {
+    "faculty": "FAKULTI PERNIAGAAN,EKONOMI DAN PEMBANGUNAN SOSIAL",
+    "title": "BANKING AND MICROFINANCE"
+  },
+  "ECO5343": {
+    "faculty": "FAKULTI PERNIAGAAN,EKONOMI DAN PEMBANGUNAN SOSIAL",
+    "title": "ISSUES IN MICROFINANCE"
+  },
+  "ECO5353": {
+    "faculty": "FAKULTI PERNIAGAAN,EKONOMI DAN PEMBANGUNAN SOSIAL",
+    "title": "ISLAMIC MICROFINANCE"
+  },
+  "ECO5363": {
+    "faculty": "FAKULTI PERNIAGAAN,EKONOMI DAN PEMBANGUNAN SOSIAL",
+    "title": "SOCIAL ENTREPRENEURSHIP"
+  },
+  "ECO5373": {
+    "faculty": "FAKULTI PERNIAGAAN,EKONOMI DAN PEMBANGUNAN SOSIAL",
+    "title": "EMPOWERMENT OF COMMUNITIES"
+  },
+  "EDI2013": {
+    "faculty": "FAKULTI TEKNOLOGI KEJURUTERAAN KELAUTAN DAN INFORMATIK",
+    "title": "BASICS OF ENGINEERING MATHEMATICS AND ELECTRICITY"
+  },
+  "EDI3013": {
+    "faculty": "FAKULTI TEKNOLOGI KEJURUTERAAN KELAUTAN DAN INFORMATIK",
+    "title": "ENGINEERING MATHEMATICS I"
+  },
+  "EDI3023": {
+    "faculty": "FAKULTI TEKNOLOGI KEJURUTERAAN KELAUTAN DAN INFORMATIK",
+    "title": "ENGINEERING MATHEMATICS II"
+  },
+  "EDI3033": {
+    "faculty": "FAKULTI TEKNOLOGI KEJURUTERAAN KELAUTAN DAN INFORMATIK",
+    "title": "ELECTRICITY AND MAGNETISM"
+  },
+  "EDI3043": {
+    "faculty": "FAKULTI TEKNOLOGI KEJURUTERAAN KELAUTAN DAN INFORMATIK",
+    "title": "DIGITAL ELECRONICS"
+  },
+  "EDI3053": {
+    "faculty": "FAKULTI TEKNOLOGI KEJURUTERAAN KELAUTAN DAN INFORMATIK",
+    "title": "CIRCUIT THEORY"
+  },
+  "EDI3063": {
+    "faculty": "FAKULTI TEKNOLOGI KEJURUTERAAN KELAUTAN DAN INFORMATIK",
+    "title": "SENSORS AND TRANSDUCERS"
+  },
+  "EDI3073": {
+    "faculty": "FAKULTI TEKNOLOGI KEJURUTERAAN KELAUTAN DAN INFORMATIK",
+    "title": "ELECTRONIC DEVICES"
+  },
+  "EDI3083": {
+    "faculty": "FAKULTI TEKNOLOGI KEJURUTERAAN KELAUTAN DAN INFORMATIK",
+    "title": "COMPUTATIONAL TECHNIQUE"
+  },
+  "EDI3093": {
+    "faculty": "FAKULTI TEKNOLOGI KEJURUTERAAN KELAUTAN DAN INFORMATIK",
+    "title": "MODERN INSTRUMENTATION SYSTEM"
+  },
+  "EDI3113": {
+    "faculty": "FAKULTI TEKNOLOGI KEJURUTERAAN KELAUTAN DAN INFORMATIK",
+    "title": "ANALOGUE ELECTRONIC"
+  },
+  "EDI3123": {
+    "faculty": "FAKULTI TEKNOLOGI KEJURUTERAAN KELAUTAN DAN INFORMATIK",
+    "title": "MEASUREMENT SYSTEM"
+  },
+  "EDI3183": {
+    "faculty": "FAKULTI TEKNOLOGI KEJURUTERAAN KELAUTAN DAN INFORMATIK",
+    "title": "BASIC PROGRAMMING FOR TECHNOLOGIST"
+  },
+  "EDI3303": {
+    "faculty": "FAKULTI TEKNOLOGI KEJURUTERAAN KELAUTAN DAN INFORMATIK",
+    "title": "FUNDAMENTAL PHYSICS"
+  },
+  "EDI3313": {
+    "faculty": "FAKULTI TEKNOLOGI KEJURUTERAAN KELAUTAN DAN INFORMATIK",
+    "title": "ENGINEERING MATHEMATICS I"
+  },
+  "EDI3323": {
+    "faculty": "FAKULTI TEKNOLOGI KEJURUTERAAN KELAUTAN DAN INFORMATIK",
+    "title": "ENGINEERING MATHEMATICS II"
+  },
+  "EDI3333": {
+    "faculty": "FAKULTI TEKNOLOGI KEJURUTERAAN KELAUTAN DAN INFORMATIK",
+    "title": "BASIC PROGRAMMING FOR TECHNOLOGIST"
+  },
+  "EDI3343": {
+    "faculty": "FAKULTI TEKNOLOGI KEJURUTERAAN KELAUTAN DAN INFORMATIK",
+    "title": "FUNDAMENTAL PHYSICS"
+  },
+  "EDI3353": {
+    "faculty": "FAKULTI TEKNOLOGI KEJURUTERAAN KELAUTAN DAN INFORMATIK",
+    "title": "BASIC PROGRAMMING FOR TECHNOLOGIST"
+  },
+  "EDI3403": {
+    "faculty": "FAKULTI TEKNOLOGI KEJURUTERAAN KELAUTAN DAN INFORMATIK",
+    "title": "DESIGN OF THE ELECTRONIC EQUIPMENTS"
+  },
+  "EDI3533": {
+    "faculty": "FAKULTI TEKNOLOGI KEJURUTERAAN KELAUTAN DAN INFORMATIK",
+    "title": "THERMAL AND MODERN PHYSICS"
+  },
+  "EDI3543": {
+    "faculty": "FAKULTI TEKNOLOGI KEJURUTERAAN KELAUTAN DAN INFORMATIK",
+    "title": "MECHANICS AND WAVES"
+  },
+  "EDI3553": {
+    "faculty": "FAKULTI TEKNOLOGI KEJURUTERAAN KELAUTAN DAN INFORMATIK",
+    "title": "MATERIAL SCIENCE"
+  },
+  "EDI4103": {
+    "faculty": "FAKULTI TEKNOLOGI KEJURUTERAAN KELAUTAN DAN INFORMATIK",
+    "title": "SIGNAL AND SYSTEM"
+  },
+  "EDI4133": {
+    "faculty": "FAKULTI TEKNOLOGI KEJURUTERAAN KELAUTAN DAN INFORMATIK",
+    "title": "POWER ELECTRONICS"
+  },
+  "EDI4143": {
+    "faculty": "FAKULTI TEKNOLOGI KEJURUTERAAN KELAUTAN DAN INFORMATIK",
+    "title": "ELECTROMAGNETISM"
+  },
+  "EDI4153": {
+    "faculty": "FAKULTI TEKNOLOGI KEJURUTERAAN KELAUTAN DAN INFORMATIK",
+    "title": "EMBEDDED SYSTEM"
+  },
+  "EDI4163": {
+    "faculty": "FAKULTI TEKNOLOGI KEJURUTERAAN KELAUTAN DAN INFORMATIK",
+    "title": "CONTROL SYSTEM"
+  },
+  "EDI4173": {
+    "faculty": "FAKULTI TEKNOLOGI KEJURUTERAAN KELAUTAN DAN INFORMATIK",
+    "title": "NUMERICAL METHODS"
+  },
+  "EDI4413": {
+    "faculty": "FAKULTI TEKNOLOGI KEJURUTERAAN KELAUTAN DAN INFORMATIK",
+    "title": "SEMINAR AND RESEARCH"
+  },
+  "EDI4423": {
+    "faculty": "FAKULTI TEKNOLOGI KEJURUTERAAN KELAUTAN DAN INFORMATIK",
+    "title": "ELECTRONICS AND MEDICAL IMAGING"
+  },
+  "EDI4433": {
+    "faculty": "FAKULTI TEKNOLOGI KEJURUTERAAN KELAUTAN DAN INFORMATIK",
+    "title": "ADVANCED ANALOGUE ELECTRONICS"
+  },
+  "EDI4443": {
+    "faculty": "FAKULTI TEKNOLOGI KEJURUTERAAN KELAUTAN DAN INFORMATIK",
+    "title": "INTERNET OF THINGS"
+  },
+  "EDI4463": {
+    "faculty": "FAKULTI TEKNOLOGI KEJURUTERAAN KELAUTAN DAN INFORMATIK",
+    "title": "OPTICS AND LASER TECHNOLOGY"
+  },
+  "EDI4473": {
+    "faculty": "FAKULTI TEKNOLOGI KEJURUTERAAN KELAUTAN DAN INFORMATIK",
+    "title": "COMPUTER INTERFACING AND CONTROL"
+  },
+  "EDI4483": {
+    "faculty": "FAKULTI TEKNOLOGI KEJURUTERAAN KELAUTAN DAN INFORMATIK",
+    "title": "PRINCIPLE OF COMMUNICATION SYSTEM"
+  },
+  "EDI4493": {
+    "faculty": "FAKULTI TEKNOLOGI KEJURUTERAAN KELAUTAN DAN INFORMATIK",
+    "title": "ELECTRICAL MACHINES"
+  },
+  "EDI4503": {
+    "faculty": "FAKULTI TEKNOLOGI KEJURUTERAAN KELAUTAN DAN INFORMATIK",
+    "title": "WIRELESS COMMUNICATION"
+  },
+  "EDI4513": {
+    "faculty": "FAKULTI TEKNOLOGI KEJURUTERAAN KELAUTAN DAN INFORMATIK",
+    "title": "INTRODUCTION TO SIMULINK ENVIRONMENT"
+  },
+  "EDI4523": {
+    "faculty": "FAKULTI TEKNOLOGI KEJURUTERAAN KELAUTAN DAN INFORMATIK",
+    "title": "PLASMA ELECTONICS"
+  },
+  "EDI4563": {
+    "faculty": "FAKULTI TEKNOLOGI KEJURUTERAAN KELAUTAN DAN INFORMATIK",
+    "title": "SOLID STATE PHYSICS "
+  },
+  "EDI4573": {
+    "faculty": "FAKULTI TEKNOLOGI KEJURUTERAAN KELAUTAN DAN INFORMATIK",
+    "title": "QUANTUM MECHANICS"
+  },
+  "EDI4583": {
+    "faculty": "FAKULTI TEKNOLOGI KEJURUTERAAN KELAUTAN DAN INFORMATIK",
+    "title": "PHYSICAL ACOUSTIC "
+  },
+  "EDI4593": {
+    "faculty": "FAKULTI TEKNOLOGI KEJURUTERAAN KELAUTAN DAN INFORMATIK",
+    "title": "ATOMIC PHYSICS"
+  },
+  "EDI4603": {
+    "faculty": "FAKULTI TEKNOLOGI KEJURUTERAAN KELAUTAN DAN INFORMATIK",
+    "title": "SEMICONDUCTOR DEVICES"
+  },
+  "EDI4613": {
+    "faculty": "FAKULTI TEKNOLOGI KEJURUTERAAN KELAUTAN DAN INFORMATIK",
+    "title": "MATERIALS PROCESSING TECHNOLOGY "
+  },
+  "EDI4623": {
+    "faculty": "FAKULTI TEKNOLOGI KEJURUTERAAN KELAUTAN DAN INFORMATIK",
+    "title": "PHYSICS AND THIN FILM TECHNOLOGY "
+  },
+  "EDI4633": {
+    "faculty": "FAKULTI TEKNOLOGI KEJURUTERAAN KELAUTAN DAN INFORMATIK",
+    "title": "WIRELESS POWER TRANSFER"
+  },
+  "EDI4643": {
+    "faculty": "FAKULTI TEKNOLOGI KEJURUTERAAN KELAUTAN DAN INFORMATIK",
+    "title": "HIGH VOLTAGE TECHNOLOGY"
+  },
+  "EDI4653": {
+    "faculty": "FAKULTI TEKNOLOGI KEJURUTERAAN KELAUTAN DAN INFORMATIK",
+    "title": "CONDITION MONITORING"
+  },
+  "EDI4663": {
+    "faculty": "FAKULTI TEKNOLOGI KEJURUTERAAN KELAUTAN DAN INFORMATIK",
+    "title": "INTRODUCTION TO MATERIALS ANALYSIS"
+  },
+  "EDI4673": {
+    "faculty": "FAKULTI TEKNOLOGI KEJURUTERAAN KELAUTAN DAN INFORMATIK",
+    "title": "INTRODUCTION TO RENEWABLE ENERGY"
+  },
+  "EDI4683": {
+    "faculty": "FAKULTI TEKNOLOGI KEJURUTERAAN KELAUTAN DAN INFORMATIK",
+    "title": "INTRODUCTION TO  ENERGY STORAGE"
+  },
+  "EDI4693": {
+    "faculty": "FAKULTI TEKNOLOGI KEJURUTERAAN KELAUTAN DAN INFORMATIK",
+    "title": "MEDICAL INSTRUMENTATION"
+  },
+  "EDI4703": {
+    "faculty": "FAKULTI TEKNOLOGI KEJURUTERAAN KELAUTAN DAN INFORMATIK",
+    "title": "INTRODUCTION TO HYBRID AND ELECTRIC VEHICLES"
+  },
+  "EDI4713": {
+    "faculty": "FAKULTI TEKNOLOGI KEJURUTERAAN KELAUTAN DAN INFORMATIK",
+    "title": "INTRODUCTION TO COMPUTER AIDED DRAWING"
+  },
+  "EDI4723": {
+    "faculty": "FAKULTI TEKNOLOGI KEJURUTERAAN KELAUTAN DAN INFORMATIK",
+    "title": "SUSTAINABILITY IN TELECOMMUNICATION TECHNOLOGY"
+  },
+  "EDI4733": {
+    "faculty": "FAKULTI TEKNOLOGI KEJURUTERAAN KELAUTAN DAN INFORMATIK",
+    "title": "BATTERIES AND SUPERCAPACITORS TECHNOLOGY"
+  },
+  "EDI4743": {
+    "faculty": "FAKULTI TEKNOLOGI KEJURUTERAAN KELAUTAN DAN INFORMATIK",
+    "title": "HYDROGEN-BASED ENERGY AND STORAGE"
+  },
+  "EDI49712": {
+    "faculty": "FAKULTI TEKNOLOGI KEJURUTERAAN KELAUTAN DAN INFORMATIK",
+    "title": "INDUSTRIAL TRAINING"
+  },
+  "EDI4982": {
+    "faculty": "FAKULTI TEKNOLOGI KEJURUTERAAN KELAUTAN DAN INFORMATIK",
+    "title": "FINAL YEAR PROJECT I"
+  },
+  "EDI4994": {
+    "faculty": "FAKULTI TEKNOLOGI KEJURUTERAAN KELAUTAN DAN INFORMATIK",
+    "title": "FINAL YEAR PROJECT II"
+  },
+  "FIS2014": {
+    "faculty": "FAKULTI PERIKANAN DAN SAINS MAKANAN",
+    "title": "BIOLOGI IKAN"
+  },
+  "FIS2023": {
+    "faculty": "FAKULTI PERIKANAN DAN SAINS MAKANAN",
+    "title": "BIOLOGI INVERTEBRAT AKUATIK I"
+  },
+  "FIS2024": {
+    "faculty": "FAKULTI PERIKANAN DAN SAINS MAKANAN",
+    "title": "SAINS PERIKANAN I"
+  },
+  "FIS2053": {
+    "faculty": "FAKULTI PERIKANAN DAN SAINS MAKANAN",
+    "title": "PENGENALAN KEPADA BIOTEKNOLOGI PERIKANAN"
+  },
+  "FIS2203": {
+    "faculty": "FAKULTI PERIKANAN DAN SAINS MAKANAN",
+    "title": "APLIKASI KOMPUTER DALAM PERIKANAN"
+  },
+  "FIS2213": {
+    "faculty": "FAKULTI PERIKANAN DAN SAINS MAKANAN",
+    "title": "STATISTIK GUNAAN PERIKANAN"
+  },
+  "FIS2223": {
+    "faculty": "FAKULTI PERIKANAN DAN SAINS MAKANAN",
+    "title": "TEKNOLOGI INSTRUMENTASI PERIKANAN"
+  },
+  "FIS2313": {
+    "faculty": "FAKULTI PERIKANAN DAN SAINS MAKANAN",
+    "title": "KEUSAHAWANAN PERIKANAN"
+  },
+  "FIS2324": {
+    "faculty": "FAKULTI PERIKANAN DAN SAINS MAKANAN",
+    "title": "PEMPROSESAN DAN PEMASARAN PRODUK PERIKANAN"
+  },
+  "FIS2413": {
+    "faculty": "FAKULTI PERIKANAN DAN SAINS MAKANAN",
+    "title": "DINAMIK POPULASI IKAN I"
+  },
+  "FIS2443": {
+    "faculty": "FAKULTI PERIKANAN DAN SAINS MAKANAN",
+    "title": "PENGURUSAN SUMBER PERIKANAN"
+  },
+  "FIS2453": {
+    "faculty": "FAKULTI PERIKANAN DAN SAINS MAKANAN",
+    "title": "PERIKANAN REKREASI I"
+  },
+  "FIS2463": {
+    "faculty": "FAKULTI PERIKANAN DAN SAINS MAKANAN",
+    "title": "EKOSISTEM PERIKANAN"
+  },
+  "FIS2511": {
+    "faculty": "FAKULTI PERIKANAN DAN SAINS MAKANAN",
+    "title": "RENANG DAN KESELAMATAN AIR"
+  },
+  "FIS2976": {
+    "faculty": "FAKULTI PERIKANAN DAN SAINS MAKANAN",
+    "title": "LATIHAN INDUSTRI"
+  },
+  "FIS3003": {
+    "faculty": "FAKULTI PERIKANAN DAN SAINS MAKANAN",
+    "title": "BIOLOGI INVERTEBRAT AKUATIK II"
+  },
+  "FIS3013": {
+    "faculty": "FAKULTI PERIKANAN DAN SAINS MAKANAN",
+    "title": "MIKROBIOLOGI PERSEKITARAN AKUATIK"
+  },
+  "FIS3033": {
+    "faculty": "FAKULTI PERIKANAN DAN SAINS MAKANAN",
+    "title": "EKOFISIOLOGI ORGANISMA AKUATIK"
+  },
+  "FIS3043": {
+    "faculty": "FAKULTI PERIKANAN DAN SAINS MAKANAN",
+    "title": "BOTANI AKUATIK"
+  },
+  "FIS3063": {
+    "faculty": "FAKULTI PERIKANAN DAN SAINS MAKANAN",
+    "title": "OSEANOGRAFI PERIKANAN"
+  },
+  "FIS3073": {
+    "faculty": "FAKULTI PERIKANAN DAN SAINS MAKANAN",
+    "title": "EKOLOGI MUARA DAN BAKAU"
+  },
+  "FIS3083": {
+    "faculty": "FAKULTI PERIKANAN DAN SAINS MAKANAN",
+    "title": "BIOINFORMATIK DAN FILOGENI MOLEKUL ORGANISMA AKUATIK"
+  },
+  "FIS3093": {
+    "faculty": "FAKULTI PERIKANAN DAN SAINS MAKANAN",
+    "title": "EKOLOGI MOLEKUL PERIKANAN"
+  },
+  "FIS3113": {
+    "faculty": "FAKULTI PERIKANAN DAN SAINS MAKANAN",
+    "title": "KEPELBAGAIAN IKAN MARIN DAN PEMBANGUNAN KOLEKSI"
+  },
+  "FIS3154": {
+    "faculty": "FAKULTI PERIKANAN DAN SAINS MAKANAN",
+    "title": "EKOLOGI AKUATIK"
+  },
+  "FIS3164": {
+    "faculty": "FAKULTI PERIKANAN DAN SAINS MAKANAN",
+    "title": "IKTIOLOGI"
+  },
+  "FIS3212": {
+    "faculty": "FAKULTI PERIKANAN DAN SAINS MAKANAN",
+    "title": "UNDANG-UNDANG DAN PENGURUSAN PERIKANAN"
+  },
+  "FIS3223": {
+    "faculty": "FAKULTI PERIKANAN DAN SAINS MAKANAN",
+    "title": "TEKNIK PANCING REKREASI"
+  },
+  "FIS3233": {
+    "faculty": "FAKULTI PERIKANAN DAN SAINS MAKANAN",
+    "title": "PENGURUSAN KUALITI AIR UNTUK AKUAKULTUR"
+  },
+  "FIS3243": {
+    "faculty": "FAKULTI PERIKANAN DAN SAINS MAKANAN",
+    "title": "DINAMIK POPULASI IKAN II"
+  },
+  "FIS3403": {
+    "faculty": "FAKULTI PERIKANAN DAN SAINS MAKANAN",
+    "title": "KOMPUTERAN IOT DALAM PERIKANAN"
+  },
+  "FIS3413": {
+    "faculty": "FAKULTI PERIKANAN DAN SAINS MAKANAN",
+    "title": "TEKNIK EKSPLOITASI SUMBER AKUATIK"
+  },
+  "FIS3423": {
+    "faculty": "FAKULTI PERIKANAN DAN SAINS MAKANAN",
+    "title": "TEKNOLOGI ALATAN PERIKANAN"
+  },
+  "FIS3433": {
+    "faculty": "FAKULTI PERIKANAN DAN SAINS MAKANAN",
+    "title": "APLIKASI TENAGA KETERBAHARUAN DALAM PERIKANAN"
+  },
+  "FIS3443": {
+    "faculty": "FAKULTI PERIKANAN DAN SAINS MAKANAN",
+    "title": "TEKNOLOGI KAPAL PERIKANAN"
+  },
+  "FIS3453": {
+    "faculty": "FAKULTI PERIKANAN DAN SAINS MAKANAN",
+    "title": "TEKNOLOGI RAWATAN AIR KUMBAHAN UNTUK INDUSTRI PERIKANAN DAN AKUAKULTUR"
+  },
+  "FIS3463": {
+    "faculty": "FAKULTI PERIKANAN DAN SAINS MAKANAN",
+    "title": "PENDERIAAN JAUH DAN GIS DALAM PERIKANAN"
+  },
+  "FIS3473": {
+    "faculty": "FAKULTI PERIKANAN DAN SAINS MAKANAN",
+    "title": "TEKNOLOGI PASCA PANEN PERIKANAN"
+  },
+  "FIS3483": {
+    "faculty": "FAKULTI PERIKANAN DAN SAINS MAKANAN",
+    "title": "PRINSIP KEPELAUTAN DAN NAVIGASI"
+  },
+  "FIS3603": {
+    "faculty": "FAKULTI PERIKANAN DAN SAINS MAKANAN",
+    "title": "EKONOMI PERIKANAN"
+  },
+  "FIS3624": {
+    "faculty": "FAKULTI PERIKANAN DAN SAINS MAKANAN",
+    "title": "PEMPROSESAN PRODUK AKUATIK"
+  },
+  "FIS3633": {
+    "faculty": "FAKULTI PERIKANAN DAN SAINS MAKANAN",
+    "title": "KEUSAHAWANAN PERIKANAN"
+  },
+  "FIS3704": {
+    "faculty": "FAKULTI PERIKANAN DAN SAINS MAKANAN",
+    "title": "PERANCANGAN DAN PENILAIAN PROJEK"
+  },
+  "FIS3813": {
+    "faculty": "FAKULTI PERIKANAN DAN SAINS MAKANAN",
+    "title": "BIOSTATISTIK PERIKANAN"
+  },
+  "FIS3823": {
+    "faculty": "FAKULTI PERIKANAN DAN SAINS MAKANAN",
+    "title": "PENULISAN SAINTIFIK DALAM PERIKANAN"
+  },
+  "FIS3834": {
+    "faculty": "FAKULTI PERIKANAN DAN SAINS MAKANAN",
+    "title": "KESELAMATAN DAN KUALITI MAKANAN LAUT"
+  },
+  "FIS3842": {
+    "faculty": "FAKULTI PERIKANAN DAN SAINS MAKANAN",
+    "title": "PENGEMBANGAN PERIKANAN"
+  },
+  "FIS3904": {
+    "faculty": "FAKULTI PERIKANAN DAN SAINS MAKANAN",
+    "title": "SAINS PERIKANAN II"
+  },
+  "FIS4976": {
+    "faculty": "FAKULTI PERIKANAN DAN SAINS MAKANAN",
+    "title": "LATIHAN INDUSTRI"
+  },
+  "FIS4982": {
+    "faculty": "FAKULTI PERIKANAN DAN SAINS MAKANAN",
+    "title": "PROJEK ILMIAH TAHUN AKHIR I"
+  },
+  "FIS4994": {
+    "faculty": "FAKULTI PERIKANAN DAN SAINS MAKANAN",
+    "title": "PROJEK ILMIAH TAHUN AKHIR II"
+  },
+  "FIS5012": {
+    "faculty": "FAKULTI PERIKANAN DAN SAINS MAKANAN",
+    "title": "ADVANCED FISHERIES MICROBIOLOGY (MIKROBIOLOGI PERIKANAN LANJUTAN)"
+  },
+  "FIS5022": {
+    "faculty": "FAKULTI PERIKANAN DAN SAINS MAKANAN",
+    "title": "CONSERVATION AND MANAGEMENT OF FISHERY RESOURCES (PEMULIHARAAN DAN PENGURUSAN SUMBER PERIKANAN)"
+  },
+  "FIS5032": {
+    "faculty": "FAKULTI PERIKANAN DAN SAINS MAKANAN",
+    "title": "STATISTICAL TECHNIQUES IN FISHERIES (TEKNIK STATISTIK DALAM PERIKANAN)"
+  },
+  "FIS5072": {
+    "faculty": "FAKULTI PERIKANAN DAN SAINS MAKANAN",
+    "title": "SURVEY  AND MONITORING SYSTEM (SISTEM TINJAUAN DAN PENGAWASAN)"
+  },
+  "FIS5082": {
+    "faculty": "FAKULTI PERIKANAN DAN SAINS MAKANAN",
+    "title": "FISHING GEARS TECHNOLOGY (TEKNOLOGI ALATAN PERIKANAN)"
+  },
+  "FIS5092": {
+    "faculty": "FAKULTI PERIKANAN DAN SAINS MAKANAN",
+    "title": "CURRENT ISSUES IN FISHERIES (ISU-ISU SEMASA DALAM PERIKANAN)"
+  },
+  "FIS5102": {
+    "faculty": "FAKULTI PERIKANAN DAN SAINS MAKANAN",
+    "title": "REGIONAL FISHERY GOVERNANCE, LAW AND POLICY (GOVERNAN, UNDANG-UNDANG DAN POLISI PERIKANAN SETEMPAT)"
+  },
+  "FIS5112": {
+    "faculty": "FAKULTI PERIKANAN DAN SAINS MAKANAN",
+    "title": "SUSTAINABLE FISHERY AND COMMUNITY LIVELIHOOD (PERIKANAN LESTARI DAN PENDAPATAN KOMUNITI)"
+  },
+  "FIS5123": {
+    "faculty": "FAKULTI PERIKANAN DAN SAINS MAKANAN",
+    "title": "MARINE POLLUTION AND FISHERIES (PENCEMARAN MARIN DAN PERIKANAN)"
+  },
+  "FIS5133": {
+    "faculty": "FAKULTI PERIKANAN DAN SAINS MAKANAN",
+    "title": "FISHERY MOLECULAR ECOLOGY (EKOLOGI MOLEKUL PERIKANAN)"
+  },
+  "FIS5143": {
+    "faculty": "FAKULTI PERIKANAN DAN SAINS MAKANAN",
+    "title": "FISHERIES LIMNOLOGY AND OCEANOGRAPHY (LIMNOLOGI DAN OSEANOGRAFI PERIKANAN)"
+  },
+  "FIS5153": {
+    "faculty": "FAKULTI PERIKANAN DAN SAINS MAKANAN",
+    "title": "SPORTS AND GAME FISHING (SUKAN DAN PERMAINAN MEMANCING)"
+  },
+  "FIS5163": {
+    "faculty": "FAKULTI PERIKANAN DAN SAINS MAKANAN",
+    "title": "CORAL REEF FISHERIES (PERIKANAN TERUMBU KARANG)"
+  },
+  "FIS5173": {
+    "faculty": "FAKULTI PERIKANAN DAN SAINS MAKANAN",
+    "title": "FISHERIES BIOINFORMATICS (BIOINFORMATIK PERIKANAN)"
+  },
+  "FIS5183": {
+    "faculty": "FAKULTI PERIKANAN DAN SAINS MAKANAN",
+    "title": "HABITAT REPLENISHMENT AREAS (KAWASAN PEMULIHAN HABITAT)"
+  },
+  "FIS5193": {
+    "faculty": "FAKULTI PERIKANAN DAN SAINS MAKANAN",
+    "title": "FISHERIES POST-HARVEST TECHNOLOGY (TEKNOLOGI LEPAS TUAI PERIKANAN)"
+  },
+  "FIS5203": {
+    "faculty": "FAKULTI PERIKANAN DAN SAINS MAKANAN",
+    "title": "BIOSECURITY AND SEAFOOD SAFETY (BIOSEKURITI DAN KESELAMATAN MAKANAN LAUT)"
+  },
+  "FIS5213": {
+    "faculty": "FAKULTI PERIKANAN DAN SAINS MAKANAN",
+    "title": "FISHERIES BIOSYSTEMS (BIOSISTEM PERIKANAN)"
+  },
+  "FIS5983A": {
+    "faculty": "FAKULTI PERIKANAN DAN SAINS MAKANAN",
+    "title": "PROJECT I"
+  },
+  "FIS5983B": {
+    "faculty": "FAKULTI PERIKANAN DAN SAINS MAKANAN",
+    "title": "PROJECT II"
+  },
+  "FIS5996": {
+    "faculty": "FAKULTI PERIKANAN DAN SAINS MAKANAN",
+    "title": "PROJECT III"
+  },
+  "FNC3013": {
+    "faculty": "FAKULTI PERNIAGAAN,EKONOMI DAN PEMBANGUNAN SOSIAL",
+    "title": "MANAGERIAL FINANCE"
+  },
+  "FNC3123": {
+    "faculty": "FAKULTI PERNIAGAAN,EKONOMI DAN PEMBANGUNAN SOSIAL",
+    "title": "STATISTICAL METHODS FOR ACCOUNTING AND FINANCE"
+  },
+  "FNC3213": {
+    "faculty": "FAKULTI PERNIAGAAN,EKONOMI DAN PEMBANGUNAN SOSIAL",
+    "title": "FINANCIAL MANAGEMENT"
+  },
+  "FNC3223": {
+    "faculty": "FAKULTI PERNIAGAAN,EKONOMI DAN PEMBANGUNAN SOSIAL",
+    "title": "ISLAMIC FINANCIAL MANAGEMENT"
+  },
+  "FNC3233": {
+    "faculty": "FAKULTI PERNIAGAAN,EKONOMI DAN PEMBANGUNAN SOSIAL",
+    "title": "WEALTH PLANNING AND MANAGEMENT"
+  },
+  "FNC4213": {
+    "faculty": "FAKULTI PERNIAGAAN,EKONOMI DAN PEMBANGUNAN SOSIAL",
+    "title": "CORPORATE FINANCE"
+  },
+  "FNC4223": {
+    "faculty": "FAKULTI PERNIAGAAN,EKONOMI DAN PEMBANGUNAN SOSIAL",
+    "title": "FINANCIAL MARKETS AND INSTITUTIONS"
+  },
+  "FNC4613": {
+    "faculty": "FAKULTI PERNIAGAAN,EKONOMI DAN PEMBANGUNAN SOSIAL",
+    "title": "INTERNATIONAL FINANCE"
+  },
+  "FNC4623": {
+    "faculty": "FAKULTI PERNIAGAAN,EKONOMI DAN PEMBANGUNAN SOSIAL",
+    "title": "INVESTMENT ANALYSIS"
+  },
+  "FNC5203": {
+    "faculty": "FAKULTI PERNIAGAAN,EKONOMI DAN PEMBANGUNAN SOSIAL",
+    "title": "FINANCIAL MANAGEMENT"
+  },
+  "FNC5503": {
+    "faculty": "FAKULTI PERNIAGAAN,EKONOMI DAN PEMBANGUNAN SOSIAL",
+    "title": "ISLAMIC FINANCIAL INSTITUTIONS AND MARKETS"
+  },
+  "FNC5513": {
+    "faculty": "FAKULTI PERNIAGAAN,EKONOMI DAN PEMBANGUNAN SOSIAL",
+    "title": "GOVERNANCE AND APPLICATION OF SYARIAH IN ISLAMIC FINANCE"
+  },
+  "FNC5543": {
+    "faculty": "FAKULTI PERNIAGAAN,EKONOMI DAN PEMBANGUNAN SOSIAL",
+    "title": "ESTATE PLANNING AND MANAGEMENT IN ISLAM"
+  },
+  "GTN3103": {
+    "faculty": "FAKULTI PERIKANAN DAN SAINS MAKANAN",
+    "title": "GENETIK DAN BIOTEKNOLOGI PERTANIAN"
+  },
+  "GTN3113": {
+    "faculty": "FAKULTI PERIKANAN DAN SAINS MAKANAN",
+    "title": "POMOLOGI"
+  },
+  "GTN3123": {
+    "faculty": "FAKULTI PERIKANAN DAN SAINS MAKANAN",
+    "title": "PEMBIAKBAKAAN TANAMAN"
+  },
+  "GTN3133": {
+    "faculty": "FAKULTI PERIKANAN DAN SAINS MAKANAN",
+    "title": "TEKNLOGI BIJI BENIH"
+  },
+  "GTN3203": {
+    "faculty": "FAKULTI PERIKANAN DAN SAINS MAKANAN",
+    "title": "ENTOMOLOGI PERTANIAN"
+  },
+  "GTN3213": {
+    "faculty": "FAKULTI PERIKANAN DAN SAINS MAKANAN",
+    "title": "PATOLOGI TUMBUHAN"
+  },
+  "GTN3233": {
+    "faculty": "FAKULTI PERIKANAN DAN SAINS MAKANAN",
+    "title": "SAINS RUMPAI"
+  },
+  "GTN3243": {
+    "faculty": "FAKULTI PERIKANAN DAN SAINS MAKANAN",
+    "title": "TEKNOLOGI KAWALAN PEROSAK TANAMAN"
+  },
+  "GTN3253": {
+    "faculty": "FAKULTI PERIKANAN DAN SAINS MAKANAN",
+    "title": "NEMATOLOGI"
+  },
+  "GTN3303": {
+    "faculty": "FAKULTI PERIKANAN DAN SAINS MAKANAN",
+    "title": "FLORIKULTUR"
+  },
+  "GTN3323": {
+    "faculty": "FAKULTI PERIKANAN DAN SAINS MAKANAN",
+    "title": "OLERIKULTUR"
+  },
+  "GTN3333": {
+    "faculty": "FAKULTI PERIKANAN DAN SAINS MAKANAN",
+    "title": "PERTANIAN ORGANIK"
+  },
+  "GTN3343": {
+    "faculty": "FAKULTI PERIKANAN DAN SAINS MAKANAN",
+    "title": "FORAJ DAN TANAMAN PENUTUP BUMI"
+  },
+  "GTN3353": {
+    "faculty": "FAKULTI PERIKANAN DAN SAINS MAKANAN",
+    "title": "HERBA UBATAN"
+  },
+  "GTN3363": {
+    "faculty": "FAKULTI PERIKANAN DAN SAINS MAKANAN",
+    "title": "TEKNOLOGI CENDAWAN"
+  },
+  "GTN3373": {
+    "faculty": "FAKULTI PERIKANAN DAN SAINS MAKANAN",
+    "title": "PERTANIAN BANDAR"
+  },
+  "GTN3383": {
+    "faculty": "FAKULTI PERIKANAN DAN SAINS MAKANAN",
+    "title": "TANAMAN PERLADANGAN"
+  },
+  "GTN3403": {
+    "faculty": "FAKULTI PERIKANAN DAN SAINS MAKANAN",
+    "title": "EKONOMI PERTANIAN"
+  },
+  "GTN3414": {
+    "faculty": "FAKULTI PERIKANAN DAN SAINS MAKANAN",
+    "title": "KAEDAH PENYELIDIKAN PERTANIAN"
+  },
+  "GTN3423": {
+    "faculty": "FAKULTI PERIKANAN DAN SAINS MAKANAN",
+    "title": "INISIATIF KESELAMATAN MAKANAN GLOBAL"
+  },
+  "GTN3432": {
+    "faculty": "FAKULTI PERIKANAN DAN SAINS MAKANAN",
+    "title": "KOMUNIKASI DAN PEMINDAHAN TEKNOLOGI PERTANIAN"
+  },
+  "GTN3503": {
+    "faculty": "FAKULTI PERIKANAN DAN SAINS MAKANAN",
+    "title": "PENGELUARAN TANAMAN"
+  },
+  "GTN3512": {
+    "faculty": "FAKULTI PERIKANAN DAN SAINS MAKANAN",
+    "title": "TEKNOLOGI PENGELUARAN PERTANIAN MAKANAN"
+  },
+  "GTN3523": {
+    "faculty": "FAKULTI PERIKANAN DAN SAINS MAKANAN",
+    "title": "TEKNOLOGI SEMAIAN DAN PEMBIAKAN TANAMAN "
+  },
+  "GTN3533": {
+    "faculty": "FAKULTI PERIKANAN DAN SAINS MAKANAN",
+    "title": "TEKNOLOGI DAN PENGURUSAN PEMBAJAAN TANAMAN 1"
+  },
+  "GTN3543": {
+    "faculty": "FAKULTI PERIKANAN DAN SAINS MAKANAN",
+    "title": "TEKNOLOGI TANAMAN TANPA TANAH"
+  },
+  "GTN3553": {
+    "faculty": "FAKULTI PERIKANAN DAN SAINS MAKANAN",
+    "title": "PENGURUSAN LADANG"
+  },
+  "GTN3563": {
+    "faculty": "FAKULTI PERIKANAN DAN SAINS MAKANAN",
+    "title": "TEKNOLOGI LEPAS TUAI TANAMAN"
+  },
+  "GTN3573": {
+    "faculty": "FAKULTI PERIKANAN DAN SAINS MAKANAN",
+    "title": "PENGENDALIAN SISA PERTANIAN"
+  },
+  "GTN3604": {
+    "faculty": "FAKULTI PERIKANAN DAN SAINS MAKANAN",
+    "title": "PENDERIAAN JAUH DAN GIS"
+  },
+  "GTN3613": {
+    "faculty": "FAKULTI PERIKANAN DAN SAINS MAKANAN",
+    "title": "KEJENTERAAN PERTANIAN"
+  },
+  "GTN3623": {
+    "faculty": "FAKULTI PERIKANAN DAN SAINS MAKANAN",
+    "title": "INSTRUMENTASI MAKMAL"
+  },
+  "GTN3633": {
+    "faculty": "FAKULTI PERIKANAN DAN SAINS MAKANAN",
+    "title": "TEKNOLOGI PERTANIAN TEPAT"
+  },
+  "GTN3703": {
+    "faculty": "FAKULTI PERIKANAN DAN SAINS MAKANAN",
+    "title": "AGROEKOSISTEM"
+  },
+  "GTN3713": {
+    "faculty": "FAKULTI PERIKANAN DAN SAINS MAKANAN",
+    "title": "SAINS TANAH ASAS"
+  },
+  "GTN3724": {
+    "faculty": "FAKULTI PERIKANAN DAN SAINS MAKANAN",
+    "title": "BOTANI"
+  },
+  "GTN3733": {
+    "faculty": "FAKULTI PERIKANAN DAN SAINS MAKANAN",
+    "title": "MIKROBIOLOGI PERTANIAN"
+  },
+  "GTN3743": {
+    "faculty": "FAKULTI PERIKANAN DAN SAINS MAKANAN",
+    "title": "SOIL SURVEY AND EVALUATION"
+  },
+  "GTN4123": {
+    "faculty": "FAKULTI PERIKANAN DAN SAINS MAKANAN",
+    "title": "PEMBIAKBAKAAN LANJUTAN"
+  },
+  "GTN4233": {
+    "faculty": "FAKULTI PERIKANAN DAN SAINS MAKANAN",
+    "title": "PENGURUSAN RUMPAI LANJUTAN"
+  },
+  "GTN49712": {
+    "faculty": "FAKULTI PERIKANAN DAN SAINS MAKANAN",
+    "title": "LATIHAN INDUSTRI"
+  },
+  "GTN4983": {
+    "faculty": "FAKULTI PERIKANAN DAN SAINS MAKANAN",
+    "title": "PENILAIAN ILMIAH TAHUN AKHIR I"
+  },
+  "GTN4993": {
+    "faculty": "FAKULTI PERIKANAN DAN SAINS MAKANAN",
+    "title": "PENILAIAN ILMIAH TAHUN AKHIR II"
+  },
+  "ITS5014": {
+    "faculty": "FAKULTI TEKNOLOGI KEJURUTERAAN KELAUTAN DAN INFORMATIK",
+    "title": "TEKNOLOGI PEMBANGUNAN DAN PENGURUSAN PERISIAN"
+  },
+  "ITS5024": {
+    "faculty": "FAKULTI TEKNOLOGI KEJURUTERAAN KELAUTAN DAN INFORMATIK",
+    "title": "PENGATURCARAAN SUMBER TERBUKA"
+  },
+  "ITS5034": {
+    "faculty": "FAKULTI TEKNOLOGI KEJURUTERAAN KELAUTAN DAN INFORMATIK",
+    "title": "ANALITIK DATA"
+  },
+  "ITS5044": {
+    "faculty": "FAKULTI TEKNOLOGI KEJURUTERAAN KELAUTAN DAN INFORMATIK",
+    "title": "PENDEKATAN STRATEGIK PENGURUSAN SISTEM MAKLUMAT"
+  },
+  "ITS5414": {
+    "faculty": "FAKULTI TEKNOLOGI KEJURUTERAAN KELAUTAN DAN INFORMATIK",
+    "title": "PERDAGANGAN DIGITAL"
+  },
+  "KAS3001": {
+    "faculty": "FAKULTI TEKNOLOGI KEJURUTERAAN KELAUTAN DAN INFORMATIK",
+    "title": "PENGENALAN TEKNOLOGI ALAM SEKITAR"
+  },
+  "KAS3002": {
+    "faculty": "FAKULTI TEKNOLOGI KEJURUTERAAN KELAUTAN DAN INFORMATIK",
+    "title": "STATISTIK ALAM SEKITAR"
+  },
+  "KAS3013": {
+    "faculty": "FAKULTI TEKNOLOGI KEJURUTERAAN KELAUTAN DAN INFORMATIK",
+    "title": "PENGENALAN KEPADA TEKNOLOGI ALAM SEKITAR"
+  },
+  "KAS3023": {
+    "faculty": "FAKULTI TEKNOLOGI KEJURUTERAAN KELAUTAN DAN INFORMATIK",
+    "title": "STATISTIK ALAM SEKITAR"
+  },
+  "KAS3032": {
+    "faculty": "FAKULTI TEKNOLOGI KEJURUTERAAN KELAUTAN DAN INFORMATIK",
+    "title": "PRINSIP ANALISIS ALAM SEKITAR"
+  },
+  "KAS3201": {
+    "faculty": "FAKULTI TEKNOLOGI KEJURUTERAAN KELAUTAN DAN INFORMATIK",
+    "title": "TEKNOLOGI RAWATAN AIR"
+  },
+  "KAS3202": {
+    "faculty": "FAKULTI TEKNOLOGI KEJURUTERAAN KELAUTAN DAN INFORMATIK",
+    "title": "TEKNOLOGI RAWATAN AIR SISA"
+  },
+  "KAS3213": {
+    "faculty": "FAKULTI TEKNOLOGI KEJURUTERAAN KELAUTAN DAN INFORMATIK",
+    "title": "TEKNOLOGI RAWATAN AIR"
+  },
+  "KAS3223": {
+    "faculty": "FAKULTI TEKNOLOGI KEJURUTERAAN KELAUTAN DAN INFORMATIK",
+    "title": "TEKNOLOGI RAWATAN AIR SISA"
+  },
+  "KAS3301": {
+    "faculty": "FAKULTI TEKNOLOGI KEJURUTERAAN KELAUTAN DAN INFORMATIK",
+    "title": "KUALITI DAN PENCEMARAN UDARA"
+  },
+  "KAS3313": {
+    "faculty": "FAKULTI TEKNOLOGI KEJURUTERAAN KELAUTAN DAN INFORMATIK",
+    "title": "KUALITI DAN PENCEMARAN UDARA"
+  },
+  "KAS3323": {
+    "faculty": "FAKULTI TEKNOLOGI KEJURUTERAAN KELAUTAN DAN INFORMATIK",
+    "title": "METEOROLOGI DAN ALAM SEKITAR"
+  },
+  "KAS3501": {
+    "faculty": "FAKULTI TEKNOLOGI KEJURUTERAAN KELAUTAN DAN INFORMATIK",
+    "title": "KESELAMATAN DAN KESIHATAN DALAM PEKERJAAN"
+  },
+  "KAS3502": {
+    "faculty": "FAKULTI TEKNOLOGI KEJURUTERAAN KELAUTAN DAN INFORMATIK",
+    "title": "PERATURAN DAN UNDANG-UNDANG ALAM SEKITAR"
+  },
+  "KAS3503": {
+    "faculty": "FAKULTI TEKNOLOGI KEJURUTERAAN KELAUTAN DAN INFORMATIK",
+    "title": "PENGURUSAN ALAM SEKITAR"
+  },
+  "KAS3513": {
+    "faculty": "FAKULTI TEKNOLOGI KEJURUTERAAN KELAUTAN DAN INFORMATIK",
+    "title": "KESELAMATAN DAN KESIHATAN PEKERJAAN"
+  },
+  "KAS3523": {
+    "faculty": "FAKULTI TEKNOLOGI KEJURUTERAAN KELAUTAN DAN INFORMATIK",
+    "title": "PERATURAN DAN UNDANG-UNDANG ALAM SEKITAR"
+  },
+  "KAS3533 ": {
+    "faculty": "FAKULTI TEKNOLOGI KEJURUTERAAN KELAUTAN DAN INFORMATIK",
+    "title": "PENGURUSAN ALAM SEKITAR"
+  },
+  "KAS3702": {
+    "faculty": "FAKULTI TEKNOLOGI KEJURUTERAAN KELAUTAN DAN INFORMATIK",
+    "title": "HIDROLOGI DAN SUMBER AIR"
+  },
+  "KAS3723": {
+    "faculty": "FAKULTI TEKNOLOGI KEJURUTERAAN KELAUTAN DAN INFORMATIK",
+    "title": "HIDROLOGI DAN SUMBER AIR"
+  },
+  "KAS4101": {
+    "faculty": "FAKULTI TEKNOLOGI KEJURUTERAAN KELAUTAN DAN INFORMATIK",
+    "title": "REKABENTUK KEJURUTERAAN ALAM SEKITAR"
+  },
+  "KAS4113": {
+    "faculty": "FAKULTI TEKNOLOGI KEJURUTERAAN KELAUTAN DAN INFORMATIK",
+    "title": "REKA BENTUK ALAM SEKITAR"
+  },
+  "KAS4213": {
+    "faculty": "FAKULTI TEKNOLOGI KEJURUTERAAN KELAUTAN DAN INFORMATIK",
+    "title": "SALIRAN BANDAR DAN PEMBENTUNGAN"
+  },
+  "KAS4223": {
+    "faculty": "FAKULTI TEKNOLOGI KEJURUTERAAN KELAUTAN DAN INFORMATIK",
+    "title": "TEKNOLOGI RAWATAN AIR SISA LANJUTAN"
+  },
+  "KAS4233": {
+    "faculty": "FAKULTI TEKNOLOGI KEJURUTERAAN KELAUTAN DAN INFORMATIK",
+    "title": "TANAH LEMBAP"
+  },
+  "KAS4243": {
+    "faculty": "FAKULTI TEKNOLOGI KEJURUTERAAN KELAUTAN DAN INFORMATIK",
+    "title": "RAWATAN EFLUEN PERINDUSTRIAN OLEH ENAPCEMAR TERAKTIF"
+  },
+  "KAS4313": {
+    "faculty": "FAKULTI TEKNOLOGI KEJURUTERAAN KELAUTAN DAN INFORMATIK",
+    "title": "TEKNOLOGI KAWALAN PENCEMARAN UDARA"
+  },
+  "KAS4323": {
+    "faculty": "FAKULTI TEKNOLOGI KEJURUTERAAN KELAUTAN DAN INFORMATIK",
+    "title": "KUALITI UDARA DALAM BANGUNAN"
+  },
+  "KAS4333": {
+    "faculty": "FAKULTI TEKNOLOGI KEJURUTERAAN KELAUTAN DAN INFORMATIK",
+    "title": "PELEPASAN DARIPADA PROSES PEMBAKARAN"
+  },
+  "KAS4343": {
+    "faculty": "FAKULTI TEKNOLOGI KEJURUTERAAN KELAUTAN DAN INFORMATIK",
+    "title": "PERMONITORAN KUALITI UDARA DAN INSTRUMENTASI"
+  },
+  "KAS4353": {
+    "faculty": "FAKULTI TEKNOLOGI KEJURUTERAAN KELAUTAN DAN INFORMATIK",
+    "title": "HINGAR PERSEKITARAN DAN GEGARAN "
+  },
+  "KAS4401": {
+    "faculty": "FAKULTI TEKNOLOGI KEJURUTERAAN KELAUTAN DAN INFORMATIK",
+    "title": "PENGURUSAN SISA PEPEJAL"
+  },
+  "KAS4402": {
+    "faculty": "FAKULTI TEKNOLOGI KEJURUTERAAN KELAUTAN DAN INFORMATIK",
+    "title": "PENGURUSAN SISA BERBAHAYA DAN TERJADUAL"
+  },
+  "KAS4413": {
+    "faculty": "FAKULTI TEKNOLOGI KEJURUTERAAN KELAUTAN DAN INFORMATIK",
+    "title": "PENGURUSAN SISA PEPEJAL"
+  },
+  "KAS4423": {
+    "faculty": "FAKULTI TEKNOLOGI KEJURUTERAAN KELAUTAN DAN INFORMATIK",
+    "title": "PENGURUSAN SISA BERBAHAYA DAN TERJADUAL"
+  },
+  "KAS4505": {
+    "faculty": "FAKULTI TEKNOLOGI KEJURUTERAAN KELAUTAN DAN INFORMATIK",
+    "title": "PENILAIAN IMPAK ALAM SEKITAR"
+  },
+  "KAS4513": {
+    "faculty": "FAKULTI TEKNOLOGI KEJURUTERAAN KELAUTAN DAN INFORMATIK",
+    "title": "KEJURUTERAAN GEOTEKNIKAL"
+  },
+  "KAS4533": {
+    "faculty": "FAKULTI TEKNOLOGI KEJURUTERAAN KELAUTAN DAN INFORMATIK",
+    "title": "HIGIEN INDUSTRI"
+  },
+  "KAS4543": {
+    "faculty": "FAKULTI TEKNOLOGI KEJURUTERAAN KELAUTAN DAN INFORMATIK",
+    "title": "PENGURUSAN DAN AUDIT KESELAMATAN KESIHATAN PEKERJAAN"
+  },
+  "KAS4553": {
+    "faculty": "FAKULTI TEKNOLOGI KEJURUTERAAN KELAUTAN DAN INFORMATIK",
+    "title": "PENILAIAN KESAN KEPADA ALAM SEKELILING"
+  },
+  "KAS4563": {
+    "faculty": "FAKULTI TEKNOLOGI KEJURUTERAAN KELAUTAN DAN INFORMATIK",
+    "title": "PENILAIAN KITAR HAYAT"
+  },
+  "KAS4573": {
+    "faculty": "FAKULTI TEKNOLOGI KEJURUTERAAN KELAUTAN DAN INFORMATIK",
+    "title": "KELESTARIAN OPERASI DAN PENGURUSAN"
+  },
+  "KAS4713": {
+    "faculty": "FAKULTI TEKNOLOGI KEJURUTERAAN KELAUTAN DAN INFORMATIK",
+    "title": " AIR BUMI DAN PENCEMARAN"
+  },
+  "KAS4723": {
+    "faculty": "FAKULTI TEKNOLOGI KEJURUTERAAN KELAUTAN DAN INFORMATIK",
+    "title": "HIDROLOGI DAN AIR PERMUKAAN"
+  },
+  "KAS4733": {
+    "faculty": "FAKULTI TEKNOLOGI KEJURUTERAAN KELAUTAN DAN INFORMATIK",
+    "title": "PERSEKITARAN PESISIR PANTAI"
+  },
+  "KAS4743": {
+    "faculty": "FAKULTI TEKNOLOGI KEJURUTERAAN KELAUTAN DAN INFORMATIK",
+    "title": "FIZIK TANAH"
+  },
+  "KAS4753": {
+    "faculty": "FAKULTI TEKNOLOGI KEJURUTERAAN KELAUTAN DAN INFORMATIK",
+    "title": "PENGURUSAN LEMBANGAN"
+  },
+  "KAS4763": {
+    "faculty": "FAKULTI TEKNOLOGI KEJURUTERAAN KELAUTAN DAN INFORMATIK",
+    "title": " SIFAT FIZIKAL DAN SEMULAJADI TANAH"
+  },
+  "KAS4773": {
+    "faculty": "FAKULTI TEKNOLOGI KEJURUTERAAN KELAUTAN DAN INFORMATIK",
+    "title": "SISTEM MAKLUMAT GEOGRAFI (GIS) GUNAAN UNTUK ALAM SEKITAR"
+  },
+  "KAS49712": {
+    "faculty": "FAKULTI TEKNOLOGI KEJURUTERAAN KELAUTAN DAN INFORMATIK",
+    "title": "LATIHAN INDUSTRI"
+  },
+  "KAS4983": {
+    "faculty": "FAKULTI TEKNOLOGI KEJURUTERAAN KELAUTAN DAN INFORMATIK",
+    "title": "PROJEK ILMIAH TAHUN AKHIR I"
+  },
+  "KAS4992B": {
+    "faculty": "FAKULTI TEKNOLOGI KEJURUTERAAN KELAUTAN DAN INFORMATIK",
+    "title": "LATIHAN INDUSTRI"
+  },
+  "KAS4993": {
+    "faculty": "FAKULTI TEKNOLOGI KEJURUTERAAN KELAUTAN DAN INFORMATIK",
+    "title": "PROJEK ILMIAH TAHUN AKHIR II"
+  },
+  "KAS4998": {
+    "faculty": "FAKULTI TEKNOLOGI KEJURUTERAAN KELAUTAN DAN INFORMATIK",
+    "title": "PROJEK ILMIAH TAHUN AKHIR I"
+  },
+  "KAS4999": {
+    "faculty": "FAKULTI TEKNOLOGI KEJURUTERAAN KELAUTAN DAN INFORMATIK",
+    "title": "PROJEK ILMIAH TAHUN AKHIR II"
+  },
+  "KEJ3102": {
+    "faculty": "FAKULTI TEKNOLOGI KEJURUTERAAN KELAUTAN DAN INFORMATIK",
+    "title": "KEJURUTERAAN BAHAN"
+  },
+  "KEJ3104": {
+    "faculty": "FAKULTI TEKNOLOGI KEJURUTERAAN KELAUTAN DAN INFORMATIK",
+    "title": "MEKANIK BENDALIR"
+  },
+  "KEJ3106": {
+    "faculty": "FAKULTI TEKNOLOGI KEJURUTERAAN KELAUTAN DAN INFORMATIK",
+    "title": "PRINSIP PROSES KIMIA"
+  },
+  "KEJ3123": {
+    "faculty": "FAKULTI TEKNOLOGI KEJURUTERAAN KELAUTAN DAN INFORMATIK",
+    "title": "KEJURUTERAAN BAHAN"
+  },
+  "KEJ3133": {
+    "faculty": "FAKULTI TEKNOLOGI KEJURUTERAAN KELAUTAN DAN INFORMATIK",
+    "title": "LUKISAN KEJURUTERAAN TEKNOLOGI ALAM SEKITAR"
+  },
+  "KEJ3143": {
+    "faculty": "FAKULTI TEKNOLOGI KEJURUTERAAN KELAUTAN DAN INFORMATIK",
+    "title": "MEKANIK BENDALIR"
+  },
+  "KEJ3163": {
+    "faculty": "FAKULTI TEKNOLOGI KEJURUTERAAN KELAUTAN DAN INFORMATIK",
+    "title": "PRINSIP PROSES KIMIA"
+  },
+  "KEJ3173": {
+    "faculty": "FAKULTI TEKNOLOGI KEJURUTERAAN KELAUTAN DAN INFORMATIK",
+    "title": "MATEMATIK UNTUK TEKNOLOGI"
+  },
+  "KEJ4113": {
+    "faculty": "FAKULTI TEKNOLOGI KEJURUTERAAN KELAUTAN DAN INFORMATIK",
+    "title": "OPERASI UNIT"
+  },
+  "KEJ4123": {
+    "faculty": "FAKULTI TEKNOLOGI KEJURUTERAAN KELAUTAN DAN INFORMATIK",
+    "title": "TEKNOLOGI TINDAKBALAS KIMIA"
+  },
+  "KEJ4133": {
+    "faculty": "FAKULTI TEKNOLOGI KEJURUTERAAN KELAUTAN DAN INFORMATIK",
+    "title": "PEMINDAHAN HABA"
+  },
+  "KEJ4143": {
+    "faculty": "FAKULTI TEKNOLOGI KEJURUTERAAN KELAUTAN DAN INFORMATIK",
+    "title": "IMBANGAN BAHAN DAN TENAGA"
+  },
+  "KEJ4513": {
+    "faculty": "FAKULTI TEKNOLOGI KEJURUTERAAN KELAUTAN DAN INFORMATIK",
+    "title": "EKONOMI KEJURUTERAAN"
+  },
+  "KEJ4523": {
+    "faculty": "FAKULTI TEKNOLOGI KEJURUTERAAN KELAUTAN DAN INFORMATIK",
+    "title": "KESELAMATAN PROSES KIMIA"
+  },
+  "KEJ4613": {
+    "faculty": "FAKULTI TEKNOLOGI KEJURUTERAAN KELAUTAN DAN INFORMATIK",
+    "title": "TEKNOLOGI TENAGA KETERBAHARUAN"
+  },
+  "KEJ4623": {
+    "faculty": "FAKULTI TEKNOLOGI KEJURUTERAAN KELAUTAN DAN INFORMATIK",
+    "title": "TEKNOLOGI MEMBRAN"
+  },
+  "KEJ4633": {
+    "faculty": "FAKULTI TEKNOLOGI KEJURUTERAAN KELAUTAN DAN INFORMATIK",
+    "title": "TEKNOLOGI BERSIH"
+  },
+  "KEJ4643": {
+    "faculty": "FAKULTI TEKNOLOGI KEJURUTERAAN KELAUTAN DAN INFORMATIK",
+    "title": "POLIMER DAN ALAM SEKITAR"
+  },
+  "KEJ4653": {
+    "faculty": "FAKULTI TEKNOLOGI KEJURUTERAAN KELAUTAN DAN INFORMATIK",
+    "title": "NANOTEKNOLOGI ALAM SEKITAR"
+  },
+  "KEJ4663": {
+    "faculty": "FAKULTI TEKNOLOGI KEJURUTERAAN KELAUTAN DAN INFORMATIK",
+    "title": "RAWATAN TERMOKIMIA DAN PEMULIHAN BIOJISIM"
+  },
+  "KEJ4673": {
+    "faculty": "FAKULTI TEKNOLOGI KEJURUTERAAN KELAUTAN DAN INFORMATIK",
+    "title": "TEKNOLOGI PROSES PENCERNAAN ANAEROBIK"
+  },
+  "KEJ4683": {
+    "faculty": "FAKULTI TEKNOLOGI KEJURUTERAAN KELAUTAN DAN INFORMATIK",
+    "title": "TENAGA DAN PERUBAHAN IKLIM"
+  },
+  "KEJ4693": {
+    "faculty": "FAKULTI TEKNOLOGI KEJURUTERAAN KELAUTAN DAN INFORMATIK",
+    "title": "PENGURUSAN DAN AUDIT TENAGA"
+  },
+  "KKI2001-S": {
+    "faculty": "FAKULTI TEKNOLOGI KEJURUTERAAN KELAUTAN DAN INFORMATIK",
+    "title": "OCEAN OF DISCOVERIES"
+  },
+  "KKI2011-S": {
+    "faculty": "FAKULTI TEKNOLOGI KEJURUTERAAN KELAUTAN DAN INFORMATIK",
+    "title": "NATURE, HERITAGE AND CULTURE"
+  },
+  "KKI4961-M": {
+    "faculty": "FAKULTI TEKNOLOGI KEJURUTERAAN KELAUTAN DAN INFORMATIK",
+    "title": "INTERNATIONAL MOBILITY I"
+  },
+  "KKI4962-M": {
+    "faculty": "FAKULTI TEKNOLOGI KEJURUTERAAN KELAUTAN DAN INFORMATIK",
+    "title": "INTERNATIONAL MOBILITY II"
+  },
+  "KL5011-M": {
+    "faculty": "FAKULTI TEKNOLOGI KEJURUTERAAN KELAUTAN DAN INFORMATIK",
+    "title": "\"OCEAN ENGINEERING INDEPENDENT STUDY (KAJIAN MANDIRI KEJURUTERAAN KELAUTAN) \t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  "MGM3003": {
+    "faculty": "FAKULTI PERNIAGAAN,EKONOMI DAN PEMBANGUNAN SOSIAL",
+    "title": "PRINCIPLES OF MANAGEMENT"
+  },
+  "MGM3013": {
+    "faculty": "FAKULTI PERNIAGAAN,EKONOMI DAN PEMBANGUNAN SOSIAL",
+    "title": "PRINCIPLES OF MARKETING"
+  },
+  "MGM3023": {
+    "faculty": "FAKULTI PERNIAGAAN,EKONOMI DAN PEMBANGUNAN SOSIAL",
+    "title": "MARKETING MANAGEMENT"
+  },
+  "MGM3033": {
+    "faculty": "FAKULTI PERNIAGAAN,EKONOMI DAN PEMBANGUNAN SOSIAL",
+    "title": "BUSINESS AND MANAGEMENT STATISTICS"
+  },
+  "MGM3043": {
+    "faculty": "FAKULTI PERNIAGAAN,EKONOMI DAN PEMBANGUNAN SOSIAL",
+    "title": "ORGANIZATIONAL BEHAVIOUR"
+  },
+  "MGM3053": {
+    "faculty": "FAKULTI PERNIAGAAN,EKONOMI DAN PEMBANGUNAN SOSIAL",
+    "title": "SOCIAL MARKETING"
+  },
+  "MGM3063": {
+    "faculty": "FAKULTI PERNIAGAAN,EKONOMI DAN PEMBANGUNAN SOSIAL",
+    "title": "QUANTITATIVE METHODS IN DECISION MAKING"
+  },
+  "MGM3073": {
+    "faculty": "FAKULTI PERNIAGAAN,EKONOMI DAN PEMBANGUNAN SOSIAL",
+    "title": "HUMAN RESOURCE MANAGEMENT "
+  },
+  "MGM3083": {
+    "faculty": "FAKULTI PERNIAGAAN,EKONOMI DAN PEMBANGUNAN SOSIAL",
+    "title": "CONSUMER BEHAVIOR"
+  },
+  "MGM3093": {
+    "faculty": "FAKULTI PERNIAGAAN,EKONOMI DAN PEMBANGUNAN SOSIAL",
+    "title": "ELECTRONIC MARKETING"
+  },
+  "MGM3123": {
+    "faculty": "FAKULTI PERNIAGAAN,EKONOMI DAN PEMBANGUNAN SOSIAL",
+    "title": "MARKETING RESEARCH"
+  },
+  "MGM3133": {
+    "faculty": "FAKULTI PERNIAGAAN,EKONOMI DAN PEMBANGUNAN SOSIAL",
+    "title": "INTEGRATED MARKETING COMMUNICATIONS"
+  },
+  "MGM3143": {
+    "faculty": "FAKULTI PERNIAGAAN,EKONOMI DAN PEMBANGUNAN SOSIAL",
+    "title": "COMMERCIAL LAW"
+  },
+  "MGM3153": {
+    "faculty": "FAKULTI PERNIAGAAN,EKONOMI DAN PEMBANGUNAN SOSIAL",
+    "title": "INTERNATIONAL BUSINESS"
+  },
+  "MGM3163": {
+    "faculty": "FAKULTI PERNIAGAAN,EKONOMI DAN PEMBANGUNAN SOSIAL",
+    "title": "ENTREPRENEURSHIP"
+  },
+  "MGM3173": {
+    "faculty": "FAKULTI PERNIAGAAN,EKONOMI DAN PEMBANGUNAN SOSIAL",
+    "title": "SERVICES MARKETING"
+  },
+  "MGM3183": {
+    "faculty": "FAKULTI PERNIAGAAN,EKONOMI DAN PEMBANGUNAN SOSIAL",
+    "title": "PRODUCT MANAGEMENT"
+  },
+  "MGM3193": {
+    "faculty": "FAKULTI PERNIAGAAN,EKONOMI DAN PEMBANGUNAN SOSIAL",
+    "title": "PRICING STRATEGY"
+  },
+  "MGM3213": {
+    "faculty": "FAKULTI PERNIAGAAN,EKONOMI DAN PEMBANGUNAN SOSIAL",
+    "title": "STRATEGIC MANAGEMENT"
+  },
+  "MGM3223": {
+    "faculty": "FAKULTI PERNIAGAAN,EKONOMI DAN PEMBANGUNAN SOSIAL",
+    "title": "BUSINESS ETHICS"
+  },
+  "MGM3233": {
+    "faculty": "FAKULTI PERNIAGAAN,EKONOMI DAN PEMBANGUNAN SOSIAL",
+    "title": "INTERNATIONAL MARKETING"
+  },
+  "MGM3243": {
+    "faculty": "FAKULTI PERNIAGAAN,EKONOMI DAN PEMBANGUNAN SOSIAL",
+    "title": "RETAILING MANAGEMENT"
+  },
+  "MGM3253": {
+    "faculty": "FAKULTI PERNIAGAAN,EKONOMI DAN PEMBANGUNAN SOSIAL",
+    "title": "DIRECT MARKETING"
+  },
+  "MGM3262": {
+    "faculty": "FAKULTI PERNIAGAAN,EKONOMI DAN PEMBANGUNAN SOSIAL",
+    "title": "MERCHANDISING AND PURCHASING MANAGEMENT"
+  },
+  "MGM3273": {
+    "faculty": "FAKULTI PERNIAGAAN,EKONOMI DAN PEMBANGUNAN SOSIAL",
+    "title": "LABOUR LAW"
+  },
+  "MGM3283": {
+    "faculty": "FAKULTI PERNIAGAAN,EKONOMI DAN PEMBANGUNAN SOSIAL",
+    "title": "BUSINESS COMMUNICATION"
+  },
+  "MGM3293": {
+    "faculty": "FAKULTI PERNIAGAAN,EKONOMI DAN PEMBANGUNAN SOSIAL",
+    "title": "MANAGEMENT INFORMATION SYSTEM"
+  },
+  "MGM3303": {
+    "faculty": "FAKULTI PERNIAGAAN,EKONOMI DAN PEMBANGUNAN SOSIAL",
+    "title": "COMPANY LAW"
+  },
+  "MGM3313": {
+    "faculty": "FAKULTI PERNIAGAAN,EKONOMI DAN PEMBANGUNAN SOSIAL",
+    "title": "BUSINESS LAW"
+  },
+  "MGM3323": {
+    "faculty": "FAKULTI PERNIAGAAN,EKONOMI DAN PEMBANGUNAN SOSIAL",
+    "title": "PHILOSOPHY OF MANAGEMENT"
+  },
+  "MGM3323-E": {
+    "faculty": "FAKULTI PERNIAGAAN,EKONOMI DAN PEMBANGUNAN SOSIAL",
+    "title": "PHILOSOPHY OF MANAGEMENT"
+  },
+  "MGM49712": {
+    "faculty": "FAKULTI PERNIAGAAN,EKONOMI DAN PEMBANGUNAN SOSIAL",
+    "title": "INDUSTRIAL TRAINING"
+  },
+  "MGM4983": {
+    "faculty": "FAKULTI PERNIAGAAN,EKONOMI DAN PEMBANGUNAN SOSIAL",
+    "title": "FINAL YEAR PROJECT I"
+  },
+  "MGM4993": {
+    "faculty": "FAKULTI PERNIAGAAN,EKONOMI DAN PEMBANGUNAN SOSIAL",
+    "title": "FINAL YEAR PROJECT II"
+  },
+  "MGM5113": {
+    "faculty": "FAKULTI PERNIAGAAN,EKONOMI DAN PEMBANGUNAN SOSIAL",
+    "title": "BUSINESS RESEARCH METHODS"
+  },
+  "MGM5123": {
+    "faculty": "FAKULTI PERNIAGAAN,EKONOMI DAN PEMBANGUNAN SOSIAL",
+    "title": "E-COMMERCE TECHNOLOGY"
+  },
+  "MGM5143": {
+    "faculty": "FAKULTI PERNIAGAAN,EKONOMI DAN PEMBANGUNAN SOSIAL",
+    "title": "MARKETING MANAGEMENT"
+  },
+  "MGM5303": {
+    "faculty": "FAKULTI PERNIAGAAN,EKONOMI DAN PEMBANGUNAN SOSIAL",
+    "title": "BUSINESS ETHICS IN CORPORATE GOVERNANCE"
+  },
+  "MGM5543": {
+    "faculty": "FAKULTI PERNIAGAAN,EKONOMI DAN PEMBANGUNAN SOSIAL",
+    "title": "STRATEGIC HUMAN RESOURCE MANAGEMENT"
+  },
+  "MGS3003": {
+    "faculty": "FAKULTI SAINS DAN SEKITARAN MARIN",
+    "title": "ASAS BUMI"
+  },
+  "MGS3023": {
+    "faculty": "FAKULTI SAINS DAN SEKITARAN MARIN",
+    "title": "GEOMORFOLOGI"
+  },
+  "MGS3033": {
+    "faculty": "FAKULTI SAINS DAN SEKITARAN MARIN",
+    "title": "PALEONTOLOGI"
+  },
+  "MGS3043": {
+    "faculty": "FAKULTI SAINS DAN SEKITARAN MARIN",
+    "title": "GEOTEKTONIK DAN STRUKTUR"
+  },
+  "MGS3053": {
+    "faculty": "FAKULTI SAINS DAN SEKITARAN MARIN",
+    "title": "GEOKRONOLOGI DAN STRATIGRAFI"
+  },
+  "MGS3063": {
+    "faculty": "FAKULTI SAINS DAN SEKITARAN MARIN",
+    "title": "SEDIMENTOLOGI"
+  },
+  "MGS3073": {
+    "faculty": "FAKULTI SAINS DAN SEKITARAN MARIN",
+    "title": "GEOLOGI MALAYSIA DAN ASIA TENGGARA"
+  },
+  "MGS3083": {
+    "faculty": "FAKULTI SAINS DAN SEKITARAN MARIN",
+    "title": "GEOBIOLOGI"
+  },
+  "MGS3093": {
+    "faculty": "FAKULTI SAINS DAN SEKITARAN MARIN",
+    "title": "GEOLOGI WARISAN"
+  },
+  "MGS3103": {
+    "faculty": "FAKULTI SAINS DAN SEKITARAN MARIN",
+    "title": "HIDROGEOLOGI"
+  },
+  "MGS3113": {
+    "faculty": "FAKULTI SAINS DAN SEKITARAN MARIN",
+    "title": "GEOBENCANA"
+  },
+  "MGS3123": {
+    "faculty": "FAKULTI SAINS DAN SEKITARAN MARIN",
+    "title": "SAINS PESISIR PANTAI"
+  },
+  "MGS3133": {
+    "faculty": "FAKULTI SAINS DAN SEKITARAN MARIN",
+    "title": "SUMBER DASAR LAUT"
+  },
+  "MGS3203": {
+    "faculty": "FAKULTI SAINS DAN SEKITARAN MARIN",
+    "title": "GEOFIZIK EKPLORASI"
+  },
+  "MGS3213": {
+    "faculty": "FAKULTI SAINS DAN SEKITARAN MARIN",
+    "title": "GEOKIMIA MARIN"
+  },
+  "MGS3223": {
+    "faculty": "FAKULTI SAINS DAN SEKITARAN MARIN",
+    "title": "SURVEI DAN EKSPLORASI DASAR LAUTAN"
+  },
+  "MGS3233": {
+    "faculty": "FAKULTI SAINS DAN SEKITARAN MARIN",
+    "title": "GEOLOGI PETROLEUM"
+  },
+  "MGS3273": {
+    "faculty": "FAKULTI SAINS DAN SEKITARAN MARIN",
+    "title": "PALEOIKLIM DAN PERUBAHAN ARAS LAUT"
+  },
+  "MGS3303": {
+    "faculty": "FAKULTI SAINS DAN SEKITARAN MARIN",
+    "title": "GEOSTATISTIK DAN ANALISIS DATA GEOLOGI"
+  },
+  "MGS3313": {
+    "faculty": "FAKULTI SAINS DAN SEKITARAN MARIN",
+    "title": "PENGENALAN KEPADA PENDERIAAN JAUH"
+  },
+  "MGS3323": {
+    "faculty": "FAKULTI SAINS DAN SEKITARAN MARIN",
+    "title": "ASAS SISTEM MAKLUMAT GEOGRAFI"
+  },
+  "MGS3333": {
+    "faculty": "FAKULTI SAINS DAN SEKITARAN MARIN",
+    "title": "PEMETAAN GEOLOGI"
+  },
+  "MGS3694": {
+    "faculty": "FAKULTI SAINS DAN SEKITARAN MARIN",
+    "title": "KERJA LAPANGAN GEOSAINS MARIN 2"
+  },
+  "MGS3963": {
+    "faculty": "FAKULTI SAINS DAN SEKITARAN MARIN",
+    "title": "KERJA LAPANGAN GEOSAINS 1"
+  },
+  "MGS3983": {
+    "faculty": "FAKULTI SAINS DAN SEKITARAN MARIN",
+    "title": "PROJEK ILMIAH TAHUN AKHIR I"
+  },
+  "MGS4978": {
+    "faculty": "FAKULTI SAINS DAN SEKITARAN MARIN",
+    "title": "LATIHAN INDUSTRI"
+  },
+  "MGS4995": {
+    "faculty": "FAKULTI SAINS DAN SEKITARAN MARIN",
+    "title": "PROJEK ILMIAH TAHUN AKHIR II"
+  },
+  "MKG3002": {
+    "faculty": "FAKULTI TEKNOLOGI KEJURUTERAAN KELAUTAN DAN INFORMATIK",
+    "title": "PRINCIPLE OF MATHEMATICAL MODELLING"
+  },
+  "MKG3003": {
+    "faculty": "FAKULTI TEKNOLOGI KEJURUTERAAN KELAUTAN DAN INFORMATIK",
+    "title": "VECTOR CALCULUS"
+  },
+  "MKG3004": {
+    "faculty": "FAKULTI TEKNOLOGI KEJURUTERAAN KELAUTAN DAN INFORMATIK",
+    "title": "NUMERICAL ANALYSIS"
+  },
+  "MKG3013": {
+    "faculty": "FAKULTI TEKNOLOGI KEJURUTERAAN KELAUTAN DAN INFORMATIK",
+    "title": "MODERN ALGEBRA"
+  },
+  "MKG3023": {
+    "faculty": "FAKULTI TEKNOLOGI KEJURUTERAAN KELAUTAN DAN INFORMATIK",
+    "title": "APPLIED MATHEMATICAL METHODS"
+  },
+  "MKG3033": {
+    "faculty": "FAKULTI TEKNOLOGI KEJURUTERAAN KELAUTAN DAN INFORMATIK",
+    "title": "SCIENTIFIC COMPUTING"
+  },
+  "MKG4003": {
+    "faculty": "FAKULTI TEKNOLOGI KEJURUTERAAN KELAUTAN DAN INFORMATIK",
+    "title": "PARTIAL DIFFERENTIAL EQUATIONS"
+  },
+  "MKG4004": {
+    "faculty": "FAKULTI TEKNOLOGI KEJURUTERAAN KELAUTAN DAN INFORMATIK",
+    "title": "ADVANCED OPERATIONS RESEARCH"
+  },
+  "MKG4013": {
+    "faculty": "FAKULTI TEKNOLOGI KEJURUTERAAN KELAUTAN DAN INFORMATIK",
+    "title": "COMPUTATIONAL METHODS FOR DIFFERENTIAL EQUATIONS"
+  },
+  "MKG4023": {
+    "faculty": "FAKULTI TEKNOLOGI KEJURUTERAAN KELAUTAN DAN INFORMATIK",
+    "title": "MATHEMATICAL FLUID MECHANICS"
+  },
+  "MKG4033": {
+    "faculty": "FAKULTI TEKNOLOGI KEJURUTERAAN KELAUTAN DAN INFORMATIK",
+    "title": "INTRODUCTION TO FUZZY SET THEORY"
+  },
+  "MKG4043": {
+    "faculty": "FAKULTI TEKNOLOGI KEJURUTERAAN KELAUTAN DAN INFORMATIK",
+    "title": "DYNAMICAL SYSTEMS"
+  },
+  "MKG4053": {
+    "faculty": "FAKULTI TEKNOLOGI KEJURUTERAAN KELAUTAN DAN INFORMATIK",
+    "title": "COMPLEX ANALYSIS"
+  },
+  "MKG4063": {
+    "faculty": "FAKULTI TEKNOLOGI KEJURUTERAAN KELAUTAN DAN INFORMATIK",
+    "title": "FUNCTIONAL ANALYSIS"
+  },
+  "MKG4073": {
+    "faculty": "FAKULTI TEKNOLOGI KEJURUTERAAN KELAUTAN DAN INFORMATIK",
+    "title": "TOPOLOGY"
+  },
+  "MKG4083": {
+    "faculty": "FAKULTI TEKNOLOGI KEJURUTERAAN KELAUTAN DAN INFORMATIK",
+    "title": "LOGIC AND COMPUTATION"
+  },
+  "MKG4093": {
+    "faculty": "FAKULTI TEKNOLOGI KEJURUTERAAN KELAUTAN DAN INFORMATIK",
+    "title": "HEURISTICS TECHNIQUES FOR COMBINATORIAL OPTIMIZATION"
+  },
+  "MKG4103": {
+    "faculty": "FAKULTI TEKNOLOGI KEJURUTERAAN KELAUTAN DAN INFORMATIK",
+    "title": "GRAPH THEORY"
+  },
+  "MKG4113": {
+    "faculty": "FAKULTI TEKNOLOGI KEJURUTERAAN KELAUTAN DAN INFORMATIK",
+    "title": "COMPUTER AIDED GEOMETRIC DESIGN"
+  },
+  "MKW3003": {
+    "faculty": "FAKULTI TEKNOLOGI KEJURUTERAAN KELAUTAN DAN INFORMATIK",
+    "title": "PROBABILITY THEORY IN FINANCE"
+  },
+  "MKW3013": {
+    "faculty": "FAKULTI TEKNOLOGI KEJURUTERAAN KELAUTAN DAN INFORMATIK",
+    "title": "STOCHASTIC MODELLING AND APPLICATIONS"
+  },
+  "MKW3023": {
+    "faculty": "FAKULTI TEKNOLOGI KEJURUTERAAN KELAUTAN DAN INFORMATIK",
+    "title": "INVESTMENT MATHEMATICS"
+  },
+  "MKW4003": {
+    "faculty": "FAKULTI TEKNOLOGI KEJURUTERAAN KELAUTAN DAN INFORMATIK",
+    "title": "INTRODUCTION TO STOCHASTIC DIFFERENTIAL EQUATIONS"
+  },
+  "MKW4004": {
+    "faculty": "FAKULTI TEKNOLOGI KEJURUTERAAN KELAUTAN DAN INFORMATIK",
+    "title": "NUMERICAL METHODS IN FINANCE"
+  },
+  "MKW4013": {
+    "faculty": "FAKULTI TEKNOLOGI KEJURUTERAAN KELAUTAN DAN INFORMATIK",
+    "title": "FINANCIAL DERIVATIVES"
+  },
+  "MKW4023": {
+    "faculty": "FAKULTI TEKNOLOGI KEJURUTERAAN KELAUTAN DAN INFORMATIK",
+    "title": "FINANCIAL FORECASTING"
+  },
+  "MKW4033": {
+    "faculty": "FAKULTI TEKNOLOGI KEJURUTERAAN KELAUTAN DAN INFORMATIK",
+    "title": "MATHEMATICAL THEORY IN INSURANCE"
+  },
+  "MKW4043": {
+    "faculty": "FAKULTI TEKNOLOGI KEJURUTERAAN KELAUTAN DAN INFORMATIK",
+    "title": "FINANCIAL OPTIMIZATION"
+  },
+  "MKW4053": {
+    "faculty": "FAKULTI TEKNOLOGI KEJURUTERAAN KELAUTAN DAN INFORMATIK",
+    "title": "FINANCIAL RISK ANALYSIS"
+  },
+  "MKW4063": {
+    "faculty": "FAKULTI TEKNOLOGI KEJURUTERAAN KELAUTAN DAN INFORMATIK",
+    "title": "FINANCIAL ECONOMETRICS"
+  },
+  "MKW4073": {
+    "faculty": "FAKULTI TEKNOLOGI KEJURUTERAAN KELAUTAN DAN INFORMATIK",
+    "title": "ISLAMIC FINANCIAL MATHEMATICS"
+  },
+  "MMB3113": {
+    "faculty": "FAKULTI SAINS DAN SEKITARAN MARIN",
+    "title": "STATISTIK DAN PENGENDALIAN DATA BIOLOGI"
+  },
+  "MMB3123": {
+    "faculty": "FAKULTI SAINS DAN SEKITARAN MARIN",
+    "title": "KAEDAH DAN INSTRUMENTASI BIOLOGI MARIN"
+  },
+  "MMB3133": {
+    "faculty": "FAKULTI SAINS DAN SEKITARAN MARIN",
+    "title": "PENULISAN SAINTIFIK DAN KOMUNIKASI DALAM BIOLOGI MARIN"
+  },
+  "MMB3143": {
+    "faculty": "FAKULTI SAINS DAN SEKITARAN MARIN",
+    "title": "SELAMAN UNTUK PENYELIDIKAN BIOLOGI MARIN"
+  },
+  "MMB3213": {
+    "faculty": "FAKULTI SAINS DAN SEKITARAN MARIN",
+    "title": "KEHIDUPAN DAN LAUTAN"
+  },
+  "MMB3223": {
+    "faculty": "FAKULTI SAINS DAN SEKITARAN MARIN",
+    "title": "PENGURUSAN DAN PEMULIHARAAN BIODIVERSITI MARIN"
+  },
+  "MMB3234": {
+    "faculty": "FAKULTI SAINS DAN SEKITARAN MARIN",
+    "title": "PENDEKATAN PENGURUSAN DAN PENILAIAN ALAM SEKITAR"
+  },
+  "MMB3243": {
+    "faculty": "FAKULTI SAINS DAN SEKITARAN MARIN",
+    "title": "EKOLOGI MUARA DAN BAKAU"
+  },
+  "MMB3253": {
+    "faculty": "FAKULTI SAINS DAN SEKITARAN MARIN",
+    "title": "PRINSIP EKOLOGI MARIN"
+  },
+  "MMB3263": {
+    "faculty": "FAKULTI SAINS DAN SEKITARAN MARIN",
+    "title": "BIOLOGI LAUTAN DAN KESIHATAN MANUSIA"
+  },
+  "MMB3323": {
+    "faculty": "FAKULTI SAINS DAN SEKITARAN MARIN",
+    "title": "PLANKTONOLOGI"
+  },
+  "MMB3333": {
+    "faculty": "FAKULTI SAINS DAN SEKITARAN MARIN",
+    "title": "BIOLOGI INVERTEBRAT MARIN"
+  },
+  "MMB3343": {
+    "faculty": "FAKULTI SAINS DAN SEKITARAN MARIN",
+    "title": "EKOLOGI DAN BIOLOGI TERUMBU KARANG"
+  },
+  "MMB3353": {
+    "faculty": "FAKULTI SAINS DAN SEKITARAN MARIN",
+    "title": "PENYAKIT DAN PARASITOLOGI ORGANISMA MARIN"
+  },
+  "MMB3363": {
+    "faculty": "FAKULTI SAINS DAN SEKITARAN MARIN",
+    "title": "BIOLOGI DAN EKOLOGI IKAN MARIN"
+  },
+  "MMB3373": {
+    "faculty": "FAKULTI SAINS DAN SEKITARAN MARIN",
+    "title": "BIOLOGI VERTEBRATA MARIN"
+  },
+  "MMB3413": {
+    "faculty": "FAKULTI SAINS DAN SEKITARAN MARIN",
+    "title": "KEPELBAGAIAN MIKROB MARIN"
+  },
+  "MMB3423": {
+    "faculty": "FAKULTI SAINS DAN SEKITARAN MARIN",
+    "title": "PENGELUAR PRIMER MARIN"
+  },
+  "MMB3432": {
+    "faculty": "FAKULTI SAINS DAN SEKITARAN MARIN",
+    "title": "PRINSIP BIOKIMIA MARIN"
+  },
+  "MMB3442": {
+    "faculty": "FAKULTI SAINS DAN SEKITARAN MARIN",
+    "title": "BLUM ORGANISMA MARIN"
+  },
+  "MMB3453": {
+    "faculty": "FAKULTI SAINS DAN SEKITARAN MARIN",
+    "title": "BIOLOGI KARBON BIRU"
+  },
+  "MMB3463": {
+    "faculty": "FAKULTI SAINS DAN SEKITARAN MARIN",
+    "title": "PENGKELASAN BIOLOGI ORGANISMA MARIN"
+  },
+  "MMB3472": {
+    "faculty": "FAKULTI SAINS DAN SEKITARAN MARIN",
+    "title": "KEMIMIKAN BIOLOGI LAUTAN"
+  },
+  "MMB3513": {
+    "faculty": "FAKULTI SAINS DAN SEKITARAN MARIN",
+    "title": "PENGENALAN KEPADA BIOTEKNOLOGI MARIN"
+  },
+  "MMB3523": {
+    "faculty": "FAKULTI SAINS DAN SEKITARAN MARIN",
+    "title": "ASAS GENOMIK DAN PROTEOMIK MARIN"
+  },
+  "MMB3613": {
+    "faculty": "FAKULTI SAINS DAN SEKITARAN MARIN",
+    "title": "OSEANOGRAFI FIZIKAL DAN GEOLOGI"
+  },
+  "MMB3964": {
+    "faculty": "FAKULTI SAINS DAN SEKITARAN MARIN",
+    "title": "KERJA LAPANGAN BIOLOGI MARIN"
+  },
+  "MMB4978": {
+    "faculty": "FAKULTI SAINS DAN SEKITARAN MARIN",
+    "title": "LATIHAN INDUSTRI"
+  },
+  "MMB4983": {
+    "faculty": "FAKULTI SAINS DAN SEKITARAN MARIN",
+    "title": "PROJEK TAHUN AKHIR I"
+  },
+  "MMB4995": {
+    "faculty": "FAKULTI SAINS DAN SEKITARAN MARIN",
+    "title": "PROJEK TAHUN AKHIR II"
+  },
+  "MMM 3601- MMM 3653": {
+    "faculty": "FAKULTI PENGAJIAN MARITIM",
+    "title": "PENGURUSAN KESELAMATAN & KESIHATAN PEKERJAAN MARITIM"
+  },
+  "MMM 4513-MMM3723": {
+    "faculty": "FAKULTI PENGAJIAN MARITIM",
+    "title": "PENGURUSAN E- KOMUNITI MARITIM"
+  },
+  "MMM3001-MMM3773": {
+    "faculty": "FAKULTI PENGAJIAN MARITIM",
+    "title": "MARITIME ENGLISH"
+  },
+  "MMM3101-MMM3803": {
+    "faculty": "FAKULTI PENGAJIAN MARITIM",
+    "title": "PENGANGKUTAN MULTIMODAL"
+  },
+  "MMM3105-MMM3933": {
+    "faculty": "FAKULTI PENGAJIAN MARITIM",
+    "title": "PENGURUSAN LOGISTIK DAN DISTRIBUTIF"
+  },
+  "MMM3201-MMM3603": {
+    "faculty": "FAKULTI PENGAJIAN MARITIM",
+    "title": "SISTEM KONTENA"
+  },
+  "MMM3202-MMM3613": {
+    "faculty": "FAKULTI PENGAJIAN MARITIM",
+    "title": "PENGURUSAN LINER"
+  },
+  "MMM3203-MMM3623": {
+    "faculty": "FAKULTI PENGAJIAN MARITIM",
+    "title": "GEOGRAFI PELABUHAN"
+  },
+  "MMM3301-MMM3833": {
+    "faculty": "FAKULTI PENGAJIAN MARITIM",
+    "title": "UNDANG UNDANG ADMIRALTI"
+  },
+  "MMM3302-MMM3913": {
+    "faculty": "FAKULTI PENGAJIAN MARITIM",
+    "title": "UNDANG UNDANG LAUT"
+  },
+  "MMM3311-MMM3863": {
+    "faculty": "FAKULTI PENGAJIAN MARITIM",
+    "title": "UNDANG UNDANG PERKAPALAN KOMERSIAL"
+  },
+  "MMM3403-MMM3633": {
+    "faculty": "FAKULTI PENGAJIAN MARITIM",
+    "title": "HUBUNGAN DIPLOMASI & ANTARABANGSA MARITIM"
+  },
+  "MMM3404-MMM3643": {
+    "faculty": "FAKULTI PENGAJIAN MARITIM",
+    "title": "PERATURAN KASTAM DAN RENTAS SEMPADAN"
+  },
+  "MMM3405-MMM3783": {
+    "faculty": "FAKULTI PENGAJIAN MARITIM",
+    "title": "STATISTIK DAN PERNIAGAAN MARITIM"
+  },
+  "MMM3406-MMM3853": {
+    "faculty": "FAKULTI PENGAJIAN MARITIM",
+    "title": "PERDAGANGAN MARITIM"
+  },
+  "MMM3407-MMM3813": {
+    "faculty": "FAKULTI PENGAJIAN MARITIM",
+    "title": "EKONOMI PERKAPALAN"
+  },
+  "MMM3501-MMM3793": {
+    "faculty": "FAKULTI PENGAJIAN MARITIM",
+    "title": "SISTEM MAKLUMAT MARITIM"
+  },
+  "MMM3502-MMM3763": {
+    "faculty": "FAKULTI PENGAJIAN MARITIM",
+    "title": "PRINSIP PENGURUSAN MARITIM"
+  },
+  "MMM3503-MMM3753": {
+    "faculty": "FAKULTI PENGAJIAN MARITIM",
+    "title": "PEMASARAN PERKHIDMATAN MARITIM"
+  },
+  "MMM3603-MMM3663": {
+    "faculty": "FAKULTI PENGAJIAN MARITIM",
+    "title": "PENGURUSAN RISIKO RANTAIAN BEKALAN MARITIM"
+  },
+  "MMM4103-MMM3703": {
+    "faculty": "FAKULTI PENGAJIAN MARITIM",
+    "title": "PERANCANGAN PELABUHAN"
+  },
+  "MMM4106-MMM3673": {
+    "faculty": "FAKULTI PENGAJIAN MARITIM",
+    "title": "SALVAJ MARIN"
+  },
+  "MMM4201-MMM3893": {
+    "faculty": "FAKULTI PENGAJIAN MARITIM",
+    "title": "BROKER DAN CARTAR KAPAL"
+  },
+  "MMM4204-MMM3843": {
+    "faculty": "FAKULTI PENGAJIAN MARITIM",
+    "title": "PENGURUSAN PELABUHAN DAN PERKAPALAN"
+  },
+  "MMM4301-MMM3683": {
+    "faculty": "FAKULTI PENGAJIAN MARITIM",
+    "title": "POLISI DAN PENTADBIRAN PELABUHAN DAN PERKAPALAN"
+  },
+  "MMM4302-MMM3743": {
+    "faculty": "FAKULTI PENGAJIAN MARITIM",
+    "title": "POLISI DAN UNDANG UNDANG SUMBER AKUATIK"
+  },
+  "MMM4303-MMM3693": {
+    "faculty": "FAKULTI PENGAJIAN MARITIM",
+    "title": "PENGURUSAN DAN PENGAWALAN PENCEMARAN MARIN"
+  },
+  "MMM4305-MMM3733": {
+    "faculty": "FAKULTI PENGAJIAN MARITIM",
+    "title": "UNDANG UNDANG PENGANGKUTAN MARITIM"
+  },
+  "MMM4306-MMM3883": {
+    "faculty": "FAKULTI PENGAJIAN MARITIM",
+    "title": "POLISI DAN PENGURUSAN MARIN"
+  },
+  "MMM4307-MMM3903": {
+    "faculty": "FAKULTI PENGAJIAN MARITIM",
+    "title": "UNDANG UNDANG INSURAN MARIN"
+  },
+  "MMM4503-MMM3713": {
+    "faculty": "FAKULTI PENGAJIAN MARITIM",
+    "title": "KORUPSI MARITIM & INTEGRITI"
+  },
+  "MMM4504-MMM3823": {
+    "faculty": "FAKULTI PENGAJIAN MARITIM",
+    "title": "PENGURUSAN SUMBER MANUSIA MARITIM"
+  },
+  "MMM4505-MMM3923": {
+    "faculty": "FAKULTI PENGAJIAN MARITIM",
+    "title": "PENGURUSAN STATEGIK MARITIM"
+  },
+  "MMM4901-MMM3873": {
+    "faculty": "FAKULTI PENGAJIAN MARITIM",
+    "title": "KAEDAH PENYELIDIKAN MARITIM"
+  },
+  "MMM4982-MMM4998A": {
+    "faculty": "FAKULTI PENGAJIAN MARITIM",
+    "title": "PROJEK ILMIAH TAHUN AKHIR I"
+  },
+  "MMM4992A-MMM49712": {
+    "faculty": "FAKULTI PENGAJIAN MARITIM",
+    "title": "LATIHAN INDUSTRI"
+  },
+  "MMM4994-MMM4999A": {
+    "faculty": "FAKULTI PENGAJIAN MARITIM",
+    "title": "PROJEK ILMIAH TAHUN AKHIR II"
+  },
+  "MMM4998": {
+    "faculty": "FAKULTI PENGAJIAN MARITIM",
+    "title": "PROJEK ILMIAH TAHUN AKHIR I"
+  },
+  "MMM4999": {
+    "faculty": "FAKULTI PENGAJIAN MARITIM",
+    "title": "PROJEK ILMIAH TAHUN AKHIR II"
+  },
+  "MMS3003": {
+    "faculty": "FAKULTI SAINS DAN SEKITARAN MARIN",
+    "title": "ALAM SEKITAR - ISU DAN PERSPEKTIF GLOBAL"
+  },
+  "MMS3033": {
+    "faculty": "FAKULTI SAINS DAN SEKITARAN MARIN",
+    "title": "ALAM SEKITAR DAN MANUSIA"
+  },
+  "MMS3043": {
+    "faculty": "FAKULTI SAINS DAN SEKITARAN MARIN",
+    "title": "SAINS ALAM SEKITAR"
+  },
+  "MMS3053": {
+    "faculty": "FAKULTI SAINS DAN SEKITARAN MARIN",
+    "title": "PENCEMARAN PERSEKITARAN"
+  },
+  "MMS3063": {
+    "faculty": "FAKULTI SAINS DAN SEKITARAN MARIN",
+    "title": "PENILAIAN KESAN ALAM SEKITAR"
+  },
+  "MMS3103": {
+    "faculty": "FAKULTI SAINS DAN SEKITARAN MARIN",
+    "title": "LAUTAN, ATMOSFERA DAN IKLIM"
+  },
+  "MMS3113": {
+    "faculty": "FAKULTI SAINS DAN SEKITARAN MARIN",
+    "title": "OSEANOGRAFI FIZIKAL"
+  },
+  "MMS3123": {
+    "faculty": "FAKULTI SAINS DAN SEKITARAN MARIN",
+    "title": "DINAMIK PINGGIR LAUT DAN MUARA"
+  },
+  "MMS3203": {
+    "faculty": "FAKULTI SAINS DAN SEKITARAN MARIN",
+    "title": "PENCEMARAN MARIN"
+  },
+  "MMS3213": {
+    "faculty": "FAKULTI SAINS DAN SEKITARAN MARIN",
+    "title": "PENCEMARAN AKUATIK"
+  },
+  "MMS3223": {
+    "faculty": "FAKULTI SAINS DAN SEKITARAN MARIN",
+    "title": "OSEANOGRAFI KIMIA"
+  },
+  "MMS3233": {
+    "faculty": "FAKULTI SAINS DAN SEKITARAN MARIN",
+    "title": "BIOGEOKIMIA MARIN"
+  },
+  "MMS3243": {
+    "faculty": "FAKULTI SAINS DAN SEKITARAN MARIN",
+    "title": "TOKSIKOLOGI SEKITARAN"
+  },
+  "MMS3303": {
+    "faculty": "FAKULTI SAINS DAN SEKITARAN MARIN",
+    "title": "EKOSISTEM MARIN: INTERAKSI DAN MODEL"
+  },
+  "MMS3323": {
+    "faculty": "FAKULTI SAINS DAN SEKITARAN MARIN",
+    "title": "PRODUKTIVITI MARIN"
+  },
+  "MMS3333": {
+    "faculty": "FAKULTI SAINS DAN SEKITARAN MARIN",
+    "title": "OSEANOGRAFI BIOLOGI"
+  },
+  "MMS3343": {
+    "faculty": "FAKULTI SAINS DAN SEKITARAN MARIN",
+    "title": "BIOLOGI PERUBAHAN IKLIM"
+  },
+  "MMS3353": {
+    "faculty": "FAKULTI SAINS DAN SEKITARAN MARIN",
+    "title": "PERUBAHAN IKLIM DAN TERUMBU KARANG"
+  },
+  "MMS3413": {
+    "faculty": "FAKULTI SAINS DAN SEKITARAN MARIN",
+    "title": "MORFOLOGI DAN PENGURUSAN PESISIRAN PANTAI"
+  },
+  "MMS3443": {
+    "faculty": "FAKULTI SAINS DAN SEKITARAN MARIN",
+    "title": "OSEANOGRAFI GEOLOGI"
+  },
+  "MMS3503": {
+    "faculty": "FAKULTI SAINS DAN SEKITARAN MARIN",
+    "title": "SISTEM MAKLUMAT GEOGRAFI"
+  },
+  "MMS3513": {
+    "faculty": "FAKULTI SAINS DAN SEKITARAN MARIN",
+    "title": "METEOROLOGI"
+  },
+  "MMS3523": {
+    "faculty": "FAKULTI SAINS DAN SEKITARAN MARIN",
+    "title": "OSEANOGRAFI SATELIT"
+  },
+  "MMS3553": {
+    "faculty": "FAKULTI SAINS DAN SEKITARAN MARIN",
+    "title": "PENDERIAAN JAUH DAN GIS"
+  },
+  "MMS3603": {
+    "faculty": "FAKULTI SAINS DAN SEKITARAN MARIN",
+    "title": "PENGENALAN SAINS MARIN"
+  },
+  "MMS3613": {
+    "faculty": "FAKULTI SAINS DAN SEKITARAN MARIN",
+    "title": "KAEDAH DAN INSTUMENTASI AKUATIK"
+  },
+  "MMS3623": {
+    "faculty": "FAKULTI SAINS DAN SEKITARAN MARIN",
+    "title": "PENGURUSAN SUMBER MARIN"
+  },
+  "MMS3633": {
+    "faculty": "FAKULTI SAINS DAN SEKITARAN MARIN",
+    "title": "PENDEKATAN PENGURUSAN DAN POLISI MARIN"
+  },
+  "MMS3643": {
+    "faculty": "FAKULTI SAINS DAN SEKITARAN MARIN",
+    "title": "PENULISAN SAINTIFIK DAN KOMUNIKASI DALAM SAINS MARIN"
+  },
+  "MMS3653": {
+    "faculty": "FAKULTI SAINS DAN SEKITARAN MARIN",
+    "title": "ANALISIS DATA SAINTIFIK MARIN"
+  },
+  "MMS3663": {
+    "faculty": "FAKULTI SAINS DAN SEKITARAN MARIN",
+    "title": "ASAS SAINS MARIN"
+  },
+  "MMS3963": {
+    "faculty": "FAKULTI SAINS DAN SEKITARAN MARIN",
+    "title": "KERJA LAPANGAN SEKITARAN MARIN"
+  },
+  "MMS4978": {
+    "faculty": "FAKULTI SAINS DAN SEKITARAN MARIN",
+    "title": "LATIHAN INDUSTRI"
+  },
+  "MMS4983": {
+    "faculty": "FAKULTI SAINS DAN SEKITARAN MARIN",
+    "title": "PROJEK ILMIAH TAHUN AKHIR I"
+  },
+  "MMS4995": {
+    "faculty": "FAKULTI SAINS DAN SEKITARAN MARIN",
+    "title": "PROJEK ILMIAH TAHUN AKHIR II"
+  },
+  "MMT3023": {
+    "faculty": "FAKULTI TEKNOLOGI KEJURUTERAAN KELAUTAN DAN INFORMATIK",
+    "title": "MEKANIK BENDALIR"
+  },
+  "MMT3033": {
+    "faculty": "FAKULTI TEKNOLOGI KEJURUTERAAN KELAUTAN DAN INFORMATIK",
+    "title": "REKABENTUK DAN GRAFIK"
+  },
+  "MMT3043": {
+    "faculty": "FAKULTI TEKNOLOGI KEJURUTERAAN KELAUTAN DAN INFORMATIK",
+    "title": "KEJURUTERAAN BAHAN"
+  },
+  "MMT3053": {
+    "faculty": "FAKULTI TEKNOLOGI KEJURUTERAAN KELAUTAN DAN INFORMATIK",
+    "title": "TERMODINAMIK"
+  },
+  "MMT3063": {
+    "faculty": "FAKULTI TEKNOLOGI KEJURUTERAAN KELAUTAN DAN INFORMATIK",
+    "title": "KUASA BENDALIR MARIN"
+  },
+  "MMT3073": {
+    "faculty": "FAKULTI TEKNOLOGI KEJURUTERAAN KELAUTAN DAN INFORMATIK",
+    "title": "TEKNOLOGI PERKAPALAN DAN PERLABUHAN"
+  },
+  "MMT3082": {
+    "faculty": "FAKULTI TEKNOLOGI KEJURUTERAAN KELAUTAN DAN INFORMATIK",
+    "title": "BENGKEL PERMESINAN DAN KIMPALAN"
+  },
+  "MMT3093": {
+    "faculty": "FAKULTI TEKNOLOGI KEJURUTERAAN KELAUTAN DAN INFORMATIK",
+    "title": "MEKANIK DINAMIK"
+  },
+  "MMT3103": {
+    "faculty": "FAKULTI TEKNOLOGI KEJURUTERAAN KELAUTAN DAN INFORMATIK",
+    "title": "MEKANIK KEJURUTERAAN"
+  },
+  "MMT3112": {
+    "faculty": "FAKULTI TEKNOLOGI KEJURUTERAAN KELAUTAN DAN INFORMATIK",
+    "title": "MAKMAL TEKNOLOGI MARIN"
+  },
+  "MMT3123": {
+    "faculty": "FAKULTI TEKNOLOGI KEJURUTERAAN KELAUTAN DAN INFORMATIK",
+    "title": "KEKUATAN BAHAN"
+  },
+  "MMT3133": {
+    "faculty": "FAKULTI TEKNOLOGI KEJURUTERAAN KELAUTAN DAN INFORMATIK",
+    "title": "SISTEM KEJURUTERAAN MARIN"
+  },
+  "MMT3144": {
+    "faculty": "FAKULTI TEKNOLOGI KEJURUTERAAN KELAUTAN DAN INFORMATIK",
+    "title": "ELEKTRONIK DAN INSTRUMENTASI MARIN"
+  },
+  "MMT3154 ": {
+    "faculty": "FAKULTI TEKNOLOGI KEJURUTERAAN KELAUTAN DAN INFORMATIK",
+    "title": "SENIBINA DAN PEMBINAAN KAPAL"
+  },
+  "MMT4163": {
+    "faculty": "FAKULTI TEKNOLOGI KEJURUTERAAN KELAUTAN DAN INFORMATIK",
+    "title": "TEKNOLOGI MARIN DAN PERSEKITARAN"
+  },
+  "MMT4173": {
+    "faculty": "FAKULTI TEKNOLOGI KEJURUTERAAN KELAUTAN DAN INFORMATIK",
+    "title": "OTOMASI DAN KAWALAN MARIN"
+  },
+  "MMT4183": {
+    "faculty": "FAKULTI TEKNOLOGI KEJURUTERAAN KELAUTAN DAN INFORMATIK",
+    "title": "SENIBINA KAPAL LANJUTAN"
+  },
+  "MMT4193": {
+    "faculty": "FAKULTI TEKNOLOGI KEJURUTERAAN KELAUTAN DAN INFORMATIK",
+    "title": "REKABENTUK KEJURUTERAAN MARITIM"
+  },
+  "MMT4213": {
+    "faculty": "FAKULTI TEKNOLOGI KEJURUTERAAN KELAUTAN DAN INFORMATIK",
+    "title": "ENGIN DIESEL"
+  },
+  "MMT4223": {
+    "faculty": "FAKULTI TEKNOLOGI KEJURUTERAAN KELAUTAN DAN INFORMATIK",
+    "title": "KAEDAH PENYELIDIKAN TEKNOLOGI"
+  },
+  "MMT4233": {
+    "faculty": "FAKULTI TEKNOLOGI KEJURUTERAAN KELAUTAN DAN INFORMATIK",
+    "title": "LOJI KUASA DAN JENTERA KAPAL"
+  },
+  "MMT4244": {
+    "faculty": "FAKULTI TEKNOLOGI KEJURUTERAAN KELAUTAN DAN INFORMATIK",
+    "title": "SISTEM PENYELENGGARAAN DAN PEMBAIKAN KAPAL"
+  },
+  "MMT4253": {
+    "faculty": "FAKULTI TEKNOLOGI KEJURUTERAAN KELAUTAN DAN INFORMATIK",
+    "title": "KAKISAN MARIN"
+  },
+  "MMT4263": {
+    "faculty": "FAKULTI TEKNOLOGI KEJURUTERAAN KELAUTAN DAN INFORMATIK",
+    "title": "STRUKTUR LUAR PANTAI"
+  },
+  "MMT4273": {
+    "faculty": "FAKULTI TEKNOLOGI KEJURUTERAAN KELAUTAN DAN INFORMATIK",
+    "title": "HIDRODINAMIK MARIN"
+  },
+  "MMT4283": {
+    "faculty": "FAKULTI TEKNOLOGI KEJURUTERAAN KELAUTAN DAN INFORMATIK",
+    "title": "SISTEM PENYEJUKAN DAN PENDINGINAN MARIN"
+  },
+  "MMT4293": {
+    "faculty": "FAKULTI TEKNOLOGI KEJURUTERAAN KELAUTAN DAN INFORMATIK",
+    "title": "STRUKTUR KAPAL"
+  },
+  "MMT4313": {
+    "faculty": "FAKULTI TEKNOLOGI KEJURUTERAAN KELAUTAN DAN INFORMATIK",
+    "title": "MOORING DAN RISER LUAR PANTAI"
+  },
+  "MMT4323": {
+    "faculty": "FAKULTI TEKNOLOGI KEJURUTERAAN KELAUTAN DAN INFORMATIK",
+    "title": "SALURAN PAIP LUAR PANTAI"
+  },
+  "MMT4333": {
+    "faculty": "FAKULTI TEKNOLOGI KEJURUTERAAN KELAUTAN DAN INFORMATIK",
+    "title": "MARITIM DAN KEJURUTERAAN PANTAI"
+  },
+  "MMT4343": {
+    "faculty": "FAKULTI TEKNOLOGI KEJURUTERAAN KELAUTAN DAN INFORMATIK",
+    "title": "REKABENTUK STRUKTUR TERAPUNG"
+  },
+  "MMT49712": {
+    "faculty": "FAKULTI TEKNOLOGI KEJURUTERAAN KELAUTAN DAN INFORMATIK",
+    "title": "LATIHAN INDUSTRI ( INDUSTRIAL TRAINING)"
+  },
+  "MMT4982": {
+    "faculty": "FAKULTI TEKNOLOGI KEJURUTERAAN KELAUTAN DAN INFORMATIK",
+    "title": "PROJEK ILMIAH TAHUN AKHIR I"
+  },
+  "MMT4994": {
+    "faculty": "FAKULTI TEKNOLOGI KEJURUTERAAN KELAUTAN DAN INFORMATIK",
+    "title": "PROJEK ILMIAH TAHUN AKHIR II"
+  },
+  "MNA3013": {
+    "faculty": "FAKULTI TEKNOLOGI KEJURUTERAAN KELAUTAN DAN INFORMATIK",
+    "title": "LUKISAN KEJURUTERAAN"
+  },
+  "MNA3023": {
+    "faculty": "FAKULTI TEKNOLOGI KEJURUTERAAN KELAUTAN DAN INFORMATIK",
+    "title": "DINAMIK"
+  },
+  "MNA3033": {
+    "faculty": "FAKULTI TEKNOLOGI KEJURUTERAAN KELAUTAN DAN INFORMATIK",
+    "title": "PEMBINAAN KAPAL"
+  },
+  "MNA3043": {
+    "faculty": "FAKULTI TEKNOLOGI KEJURUTERAAN KELAUTAN DAN INFORMATIK",
+    "title": "SENIBINA KAPAL 1"
+  },
+  "MNA3053": {
+    "faculty": "FAKULTI TEKNOLOGI KEJURUTERAAN KELAUTAN DAN INFORMATIK",
+    "title": "KEJURUTERAAN SISTEM MARIN 1"
+  },
+  "MNA3064": {
+    "faculty": "FAKULTI TEKNOLOGI KEJURUTERAAN KELAUTAN DAN INFORMATIK",
+    "title": "SENIBINA KAPAL 2"
+  },
+  "MNA3073": {
+    "faculty": "FAKULTI TEKNOLOGI KEJURUTERAAN KELAUTAN DAN INFORMATIK",
+    "title": "KEJURUTERAAN SISTEM MARIN 2"
+  },
+  "MNA3082": {
+    "faculty": "FAKULTI TEKNOLOGI KEJURUTERAAN KELAUTAN DAN INFORMATIK",
+    "title": "EKONOMI KEJURUTERAAN DAN KEUSAHAWAN"
+  },
+  "MNA3093": {
+    "faculty": "FAKULTI TEKNOLOGI KEJURUTERAAN KELAUTAN DAN INFORMATIK",
+    "title": "SENIBINA KAPAL 3"
+  },
+  "MNA3103": {
+    "faculty": "FAKULTI TEKNOLOGI KEJURUTERAAN KELAUTAN DAN INFORMATIK",
+    "title": "KEJURUTERAAN SISTEM MARIN 3"
+  },
+  "MNA3113": {
+    "faculty": "FAKULTI TEKNOLOGI KEJURUTERAAN KELAUTAN DAN INFORMATIK",
+    "title": "PENGURUSAN PROJEK"
+  },
+  "MNA3124": {
+    "faculty": "FAKULTI TEKNOLOGI KEJURUTERAAN KELAUTAN DAN INFORMATIK",
+    "title": "PROJEK REKABENTUK KAPSTONE"
+  },
+  "MNA3133": {
+    "faculty": "FAKULTI TEKNOLOGI KEJURUTERAAN KELAUTAN DAN INFORMATIK",
+    "title": "SISTEM PENYELENGGARAAN DAN PEMBAIKAN KAPAL"
+  },
+  "MNA3143": {
+    "faculty": "FAKULTI TEKNOLOGI KEJURUTERAAN KELAUTAN DAN INFORMATIK",
+    "title": "SENIBINA KAPAL 4"
+  },
+  "MNA3153": {
+    "faculty": "FAKULTI TEKNOLOGI KEJURUTERAAN KELAUTAN DAN INFORMATIK",
+    "title": "KEJURUTERAAN SISTEM MARIN 4"
+  },
+  "MNA3163": {
+    "faculty": "FAKULTI TEKNOLOGI KEJURUTERAAN KELAUTAN DAN INFORMATIK",
+    "title": "AUTOMASI DAN SISTEM KAWALAN"
+  },
+  "MNA3173": {
+    "faculty": "FAKULTI TEKNOLOGI KEJURUTERAAN KELAUTAN DAN INFORMATIK",
+    "title": "STATISTIK KEJURUTERAAN"
+  },
+  "MNA3183": {
+    "faculty": "FAKULTI TEKNOLOGI KEJURUTERAAN KELAUTAN DAN INFORMATIK",
+    "title": "KESELAMATAN DAN KESIHATAN PEKERJAAN"
+  },
+  "MNA3192": {
+    "faculty": "FAKULTI TEKNOLOGI KEJURUTERAAN KELAUTAN DAN INFORMATIK",
+    "title": "JURUTERA, UNDANG-UNDANG DAN PERTUBUHAN"
+  },
+  "MNA3203": {
+    "faculty": "FAKULTI TEKNOLOGI KEJURUTERAAN KELAUTAN DAN INFORMATIK",
+    "title": "STATIK"
+  },
+  "MNA49712": {
+    "faculty": "FAKULTI TEKNOLOGI KEJURUTERAAN KELAUTAN DAN INFORMATIK",
+    "title": "LATIHAN INDUSTRI"
+  },
+  "MNA4982": {
+    "faculty": "FAKULTI TEKNOLOGI KEJURUTERAAN KELAUTAN DAN INFORMATIK",
+    "title": "PROJEK ILMIAH TAHUN AKHIR 1"
+  },
+  "MNA4994": {
+    "faculty": "FAKULTI TEKNOLOGI KEJURUTERAAN KELAUTAN DAN INFORMATIK",
+    "title": "PROJEK ILMIAH TAHUN AKHIR 2"
+  },
+  "MNS2203-MNS3003": {
+    "faculty": "FAKULTI PENGAJIAN MARITIM",
+    "title": "KOMPETENSI ASAS PELAYARAN"
+  },
+  "MNS3013-MNS3013": {
+    "faculty": "FAKULTI PENGAJIAN MARITIM",
+    "title": "BAHASA INGGERIS UNTUK PENGAJIAN MARITIM "
+  },
+  "MNS3043-MNS3043": {
+    "faculty": "FAKULTI PENGAJIAN MARITIM",
+    "title": "NAVIGASI CAKERAWALA"
+  },
+  "MNS3083-MNS3083": {
+    "faculty": "FAKULTI PENGAJIAN MARITIM",
+    "title": "KERJA CARTA"
+  },
+  "MNS3101-MNS3023": {
+    "faculty": "FAKULTI PENGAJIAN MARITIM",
+    "title": "KEPELAUTAN"
+  },
+  "MNS3102-MNS3063": {
+    "faculty": "FAKULTI PENGAJIAN MARITIM",
+    "title": "NAVIGASI LAUTAN DAN PESISIRAN"
+  },
+  "MNS3103-MNS3103 ": {
+    "faculty": "FAKULTI PENGAJIAN MARITIM",
+    "title": "METEOROLOGI PELAUT"
+  },
+  "MNS3133-MNS3133": {
+    "faculty": "FAKULTI PENGAJIAN MARITIM",
+    "title": "SISTEM NAVIGASI ELEKTRONIK"
+  },
+  "MNS3201-MNS3073": {
+    "faculty": "FAKULTI PENGAJIAN MARITIM",
+    "title": "KESTABILAN KAPAL"
+  },
+  "MNS3204-MNS3204": {
+    "faculty": "FAKULTI PENGAJIAN MARITIM",
+    "title": "OPERASI KECEMASAN ATAS KAPAL "
+  },
+  "MNS4001-MNS3173": {
+    "faculty": "FAKULTI PENGAJIAN MARITIM",
+    "title": "KAEDAH PENYELIDIKAN "
+  },
+  "MNS4013-MNS4013": {
+    "faculty": "FAKULTI PENGAJIAN MARITIM",
+    "title": "ECDIS"
+  },
+  "MNS4063-MNS4063": {
+    "faculty": "FAKULTI PENGAJIAN MARITIM",
+    "title": "FAMILIARISASI DAN OPERASI KAPAL TANGKI"
+  },
+  "MNS4101-MNS3113": {
+    "faculty": "FAKULTI PENGAJIAN MARITIM",
+    "title": "PERANCANGAN DAN PENGURUSAN PELAYARAN"
+  },
+  "MNS4102-MNS3053": {
+    "faculty": "FAKULTI PENGAJIAN MARITIM",
+    "title": "PENGAWASAN ANJUNGAN ASAS"
+  },
+  "MNS4103-MNS3163": {
+    "faculty": "FAKULTI PENGAJIAN MARITIM",
+    "title": "KOMPAS MAGNETIK DAN GYRO"
+  },
+  "MNS4104-MNS3093": {
+    "faculty": "FAKULTI PENGAJIAN MARITIM",
+    "title": "PENGAWASAN ANJUNGAN LANJUTAN"
+  },
+  "MNS4105-MNS3193": {
+    "faculty": "FAKULTI PENGAJIAN MARITIM",
+    "title": "PENGURUSAN DAN KEPIMPINAN ATAS KAPAL"
+  },
+  "MNS4106-MNS4003": {
+    "faculty": "FAKULTI PENGAJIAN MARITIM",
+    "title": "RADAR DAN ARPA"
+  },
+  "MNS4201-MNS3143": {
+    "faculty": "FAKULTI PENGAJIAN MARITIM",
+    "title": "KESELAMATAN MARITIM "
+  },
+  "MNS4202-MNS4043": {
+    "faculty": "FAKULTI PENGAJIAN MARITIM",
+    "title": "KOMUNIKASI MARITIM "
+  },
+  "MNS4203-MNS3123": {
+    "faculty": "FAKULTI PENGAJIAN MARITIM",
+    "title": "PEMBINAAN KAPAL"
+  },
+  "MNS4205-MNS3033": {
+    "faculty": "FAKULTI PENGAJIAN MARITIM",
+    "title": "MODUL PERSEDIAAN PEGAWAI DEK ASAS"
+  },
+  "MNS4206-MNS4033": {
+    "faculty": "FAKULTI PENGAJIAN MARITIM",
+    "title": "MODUL PERSEDIAAN PEGAWAI DEK (LANJUTAN)"
+  },
+  "MNS4207-MNS4023": {
+    "faculty": "FAKULTI PENGAJIAN MARITIM",
+    "title": "PENGURUSAN KESELAMATAN DAN ANALISIS RISIKO MARITIM"
+  },
+  "MNS4301-MNS4053": {
+    "faculty": "FAKULTI PENGAJIAN MARITIM",
+    "title": "OPERASI KARGO MARIN"
+  },
+  "MNS4302-MNS3153": {
+    "faculty": "FAKULTI PENGAJIAN MARITIM",
+    "title": "PENGENDALIAN DAN PENYIMPANAN KARGO "
+  },
+  "MNS4303-MNS3183": {
+    "faculty": "FAKULTI PENGAJIAN MARITIM",
+    "title": "PENGURUSAN KARGO "
+  },
+  "MNS4992A-MNS49712": {
+    "faculty": "FAKULTI PENGAJIAN MARITIM",
+    "title": "LATIHAN INDUSTRI "
+  },
+  "MNS4998-MNS4982": {
+    "faculty": "FAKULTI PENGAJIAN MARITIM",
+    "title": "PROJEK ILMIAH TAHUN AKHIR 1"
+  },
+  "MNS4999-MNS4994": {
+    "faculty": "FAKULTI PENGAJIAN MARITIM",
+    "title": "PROJEK ILMIAH TAHUN AKHIR 2"
+  },
+  "MOM3033": {
+    "faculty": "FAKULTI PENGAJIAN MARITIM",
+    "title": "PENGURUSAN IMPORT DAN EXPORT KARGO"
+  },
+  "MOM3043": {
+    "faculty": "FAKULTI PENGAJIAN MARITIM",
+    "title": "OPERASI PERGUDANGAN"
+  },
+  "MOM3053": {
+    "faculty": "FAKULTI PENGAJIAN MARITIM",
+    "title": "PENGURUSAN DAN PENGOPERASIAN SHIPYARD"
+  },
+  "MOM3063": {
+    "faculty": "FAKULTI PENGAJIAN MARITIM",
+    "title": "PENGHANTARAN FRED DAN AMALAN KASTAM"
+  },
+  "MOM3073": {
+    "faculty": "FAKULTI PENGAJIAN MARITIM",
+    "title": "PEMBERSIHAN TANGKI KAPAL"
+  },
+  "MOM3083": {
+    "faculty": "FAKULTI PENGAJIAN MARITIM",
+    "title": "PENGURUSAN FLEET"
+  },
+  "MOM3093": {
+    "faculty": "FAKULTI PENGAJIAN MARITIM",
+    "title": "OPERASI PELABUHAN DAN TERMINAL"
+  },
+  "MOM3093-MOM4201": {
+    "faculty": "FAKULTI PENGAJIAN MARITIM",
+    "title": "OPERASI PELABUHAN DAN TERMINAL"
+  },
+  "MOM3101-MOM3013": {
+    "faculty": "FAKULTI PENGAJIAN MARITIM",
+    "title": "PENGURUSAN RANTAIAN BEKALAN"
+  },
+  "MOM3102-MOM3023": {
+    "faculty": "FAKULTI PENGAJIAN MARITIM",
+    "title": "OPERASI PENGANGKUTAN MARITIM"
+  },
+  "MOM3113-MOM4301": {
+    "faculty": "FAKULTI PENGAJIAN MARITIM",
+    "title": "KONVENSYEN ANTARABANGSA MARITIM"
+  },
+  "MOM3123-MOM4501": {
+    "faculty": "FAKULTI PENGAJIAN MARITIM",
+    "title": "SISTEM PENGENDALIAN KARGO"
+  },
+  "MOM3153-MOM4701": {
+    "faculty": "FAKULTI PENGAJIAN MARITIM",
+    "title": "PENGURUSAN KRISIS DAN RISIKO OPERASI MARITIM"
+  },
+  "MOM3163-MOM4503": {
+    "faculty": "FAKULTI PENGAJIAN MARITIM",
+    "title": "PERANCANGAN DAN PENGURUSAN KAPAL DAN KARGO BERBAHAYA"
+  },
+  "MOM3173": {
+    "faculty": "FAKULTI PENGAJIAN MARITIM",
+    "title": "OPERASI MARITIM"
+  },
+  "MOM3183": {
+    "faculty": "FAKULTI PENGAJIAN MARITIM",
+    "title": "PENGURUSAN PROCUMENT"
+  },
+  "MOM3203": {
+    "faculty": "FAKULTI PENGAJIAN MARITIM",
+    "title": "PERANCANGAN DAN PENGOPERASIAN KONTENA"
+  },
+  "MOM3233": {
+    "faculty": "FAKULTI PENGAJIAN MARITIM",
+    "title": "KEWANGAN MARITIM"
+  },
+  "MOM3243": {
+    "faculty": "FAKULTI PENGAJIAN MARITIM",
+    "title": "INOVASI MARITIM DAN PENGURUSAN KUALITI"
+  },
+  "MOM3253-MOM3253": {
+    "faculty": "FAKULTI PENGAJIAN MARITIM",
+    "title": "KESELAMATAN DAN KESIHATAN PEKERJAAN"
+  },
+  "MOM3273": {
+    "faculty": "FAKULTI PENGAJIAN MARITIM",
+    "title": "KEPIMPINAN CERMELANG OPERASI MARITIM"
+  },
+  "MOM3283": {
+    "faculty": "FAKULTI PENGAJIAN MARITIM",
+    "title": "SEMINAR OPERASI MARITIM"
+  },
+  "MOM3505-MOM3193": {
+    "faculty": "FAKULTI PENGAJIAN MARITIM",
+    "title": "PENGURUSAN INVENTORI"
+  },
+  "MOM3510-MOM3213": {
+    "faculty": "FAKULTI PENGAJIAN MARITIM",
+    "title": "SISTEM PIPELINE DAN KONVEYOR"
+  },
+  "MOM3923": {
+    "faculty": "FAKULTI PENGAJIAN MARITIM",
+    "title": "PENGURUSAN STATEGIK MARITIM"
+  },
+  "MOM4133-MOM4504": {
+    "faculty": "FAKULTI PENGAJIAN MARITIM",
+    "title": "MARINE SURVEYER, PEMERIKSAAN DAN AMALAN KESELAMATAN"
+  },
+  "MOM4184-MOM3504": {
+    "faculty": "FAKULTI PENGAJIAN MARITIM",
+    "title": "SISTEM PENGURUSAN TRAFIK PERKAPALAN"
+  },
+  "MOM4224-MOM3511": {
+    "faculty": "FAKULTI PENGAJIAN MARITIM",
+    "title": "KAWALAN PENCEMARAN DI LAUT"
+  },
+  "MOM4254-MOM4505": {
+    "faculty": "FAKULTI PENGAJIAN MARITIM",
+    "title": "LATIHAN TEKNIKAL OPERASI MARITIM"
+  },
+  "MOM4264-MOM4506": {
+    "faculty": "FAKULTI PENGAJIAN MARITIM",
+    "title": "OPERASI LOGISTIK OFFSHORE"
+  },
+  "MOM4504-MOM4133": {
+    "faculty": "FAKULTI PENGAJIAN MARITIM",
+    "title": "MARINE SURVEYER, PEMERIKSAAN DAN AMALAN KESELAMATAN"
+  },
+  "MOM4601-MOM3143": {
+    "faculty": "FAKULTI PENGAJIAN MARITIM",
+    "title": "TEKNIK MEMBUAT KEPUTUSAN DALAM OPERASI MARITIM"
+  },
+  "MOM4701-MOM3153": {
+    "faculty": "FAKULTI PENGAJIAN MARITIM",
+    "title": "PENGURUSAN KRISIS DAN RISIKO OPERASI MARITIM"
+  },
+  "MOM4901-MOM3103": {
+    "faculty": "FAKULTI PENGAJIAN MARITIM",
+    "title": "PROJEK OPERASI MARITIM"
+  },
+  "MOM4902-MOM4975": {
+    "faculty": "FAKULTI PENGAJIAN MARITIM",
+    "title": "MODUL PROFESIONAL INDUSTRI"
+  },
+  "MOM4976": {
+    "faculty": "FAKULTI PENGAJIAN MARITIM",
+    "title": "MODUL PROFESIONAL INDUSTRI"
+  },
+  "MOM4982": {
+    "faculty": "FAKULTI PENGAJIAN MARITIM",
+    "title": "PROJEK ILMIAH TAHUN AKHIR I"
+  },
+  "MOM4994": {
+    "faculty": "FAKULTI PENGAJIAN MARITIM",
+    "title": "PROJEK ILMIAH TAHUN AKHIR II"
+  },
+  "MPU3132": {
+    "faculty": "PUSAT PENDIDIKAN ASAS DAN LANJUTAN",
+    "title": "PENGHAYATAN ETIKA DAN PERADABAN"
+  },
+  "MPU3142": {
+    "faculty": "PUSAT PENDIDIKAN ASAS DAN LANJUTAN",
+    "title": "FALSAFAH DAN ISU SEMASA"
+  },
+  "MPU3143": {
+    "faculty": "PUSAT PENDIDIKAN ASAS DAN LANJUTAN",
+    "title": "MALAY LANGUAGE COMMUNICATIVE"
+  },
+  "MPU3223": {
+    "faculty": "PUSAT PENDIDIKAN ASAS DAN LANJUTAN",
+    "title": "BASIC ENTREPRENEURSHIP"
+  },
+  "MPU3312": {
+    "faculty": "PUSAT PENDIDIKAN ASAS DAN LANJUTAN",
+    "title": "APRESIASI ALAM DAN WARISAN LAUT"
+  },
+  "MTK3022": {
+    "faculty": "FAKULTI TEKNOLOGI KEJURUTERAAN KELAUTAN DAN INFORMATIK",
+    "title": "MATHEMATICS FOR CHEMISTRY"
+  },
+  "MTK3032": {
+    "faculty": "FAKULTI TEKNOLOGI KEJURUTERAAN KELAUTAN DAN INFORMATIK",
+    "title": "STATISTICS FOR CHEMISTRY"
+  },
+  "MTK3033": {
+    "faculty": "FAKULTI TEKNOLOGI KEJURUTERAAN KELAUTAN DAN INFORMATIK",
+    "title": "MATHEMATICS"
+  },
+  "MTK3043": {
+    "faculty": "FAKULTI TEKNOLOGI KEJURUTERAAN KELAUTAN DAN INFORMATIK",
+    "title": "ENGINEERING MATHEMATICS"
+  },
+  "MTK3053": {
+    "faculty": "FAKULTI TEKNOLOGI KEJURUTERAAN KELAUTAN DAN INFORMATIK",
+    "title": "INTRODUCTION TO STATISTICS"
+  },
+  "MTK3063": {
+    "faculty": "FAKULTI TEKNOLOGI KEJURUTERAAN KELAUTAN DAN INFORMATIK",
+    "title": "BIOSTATISTICS"
+  },
+  "MTM3004": {
+    "faculty": "FAKULTI TEKNOLOGI KEJURUTERAAN KELAUTAN DAN INFORMATIK",
+    "title": "LINEAR ALGEBRA"
+  },
+  "MTM3013": {
+    "faculty": "FAKULTI TEKNOLOGI KEJURUTERAAN KELAUTAN DAN INFORMATIK",
+    "title": "REAL ANALYSIS"
+  },
+  "MTM3014": {
+    "faculty": "FAKULTI TEKNOLOGI KEJURUTERAAN KELAUTAN DAN INFORMATIK",
+    "title": "CALCULUS"
+  },
+  "MTM3024": {
+    "faculty": "FAKULTI TEKNOLOGI KEJURUTERAAN KELAUTAN DAN INFORMATIK",
+    "title": "STATISTICS"
+  },
+  "MTM3034": {
+    "faculty": "FAKULTI TEKNOLOGI KEJURUTERAAN KELAUTAN DAN INFORMATIK",
+    "title": "ADVANCED STATISTICS"
+  },
+  "MTM3044": {
+    "faculty": "FAKULTI TEKNOLOGI KEJURUTERAAN KELAUTAN DAN INFORMATIK",
+    "title": "OPERATIONS RESEARCH WITH SAS"
+  },
+  "MTM3054": {
+    "faculty": "FAKULTI TEKNOLOGI KEJURUTERAAN KELAUTAN DAN INFORMATIK",
+    "title": "PROGRAMMING LANGUAGE"
+  },
+  "MTM4004": {
+    "faculty": "FAKULTI TEKNOLOGI KEJURUTERAAN KELAUTAN DAN INFORMATIK",
+    "title": "OPTIMIZATION"
+  },
+  "MTM49712": {
+    "faculty": "FAKULTI TEKNOLOGI KEJURUTERAAN KELAUTAN DAN INFORMATIK",
+    "title": "INDUSTRIAL TRAINING"
+  },
+  "MTM4982": {
+    "faculty": "FAKULTI TEKNOLOGI KEJURUTERAAN KELAUTAN DAN INFORMATIK",
+    "title": "FINAL YEAR PROJECT I"
+  },
+  "MTM4994": {
+    "faculty": "FAKULTI TEKNOLOGI KEJURUTERAAN KELAUTAN DAN INFORMATIK",
+    "title": "FINAL YEAR PROJECT II"
+  },
+  "MTS5004": {
+    "faculty": "FAKULTI TEKNOLOGI KEJURUTERAAN KELAUTAN DAN INFORMATIK",
+    "title": "NONLINEAR DIFFERENTIAL EQUATIONS"
+  },
+  "MTS5014": {
+    "faculty": "FAKULTI TEKNOLOGI KEJURUTERAAN KELAUTAN DAN INFORMATIK",
+    "title": "NUMERICAL SOLUTIONS IN MATHEMATICAL MODELING"
+  },
+  "MTS5024": {
+    "faculty": "FAKULTI TEKNOLOGI KEJURUTERAAN KELAUTAN DAN INFORMATIK",
+    "title": "SELECTED ISSUES IN MATHEMATICAL MODELLING"
+  },
+  "MTS5034": {
+    "faculty": "FAKULTI TEKNOLOGI KEJURUTERAAN KELAUTAN DAN INFORMATIK",
+    "title": "MATHEMATICS FOR PHYSICAL OCEANOGRAPHY"
+  },
+  "MTS5044": {
+    "faculty": "FAKULTI TEKNOLOGI KEJURUTERAAN KELAUTAN DAN INFORMATIK",
+    "title": "COMPUTATIONAL WAVE DYNAMICS"
+  },
+  "MTS5054": {
+    "faculty": "FAKULTI TEKNOLOGI KEJURUTERAAN KELAUTAN DAN INFORMATIK",
+    "title": "STOCHASTIC MODELLING IN PHYSICAL OCEANOGRAPHY"
+  },
+  "MTS5064": {
+    "faculty": "FAKULTI TEKNOLOGI KEJURUTERAAN KELAUTAN DAN INFORMATIK",
+    "title": "DYNAMICAL SYSTEM FOR PHYSICAL OCEANOGRAPHY"
+  },
+  "MTS5074": {
+    "faculty": "FAKULTI TEKNOLOGI KEJURUTERAAN KELAUTAN DAN INFORMATIK",
+    "title": "DETERMINISTIC MATHEMATICAL MODEL IN MARITIME MANAGEMENT"
+  },
+  "MTS5084": {
+    "faculty": "FAKULTI TEKNOLOGI KEJURUTERAAN KELAUTAN DAN INFORMATIK",
+    "title": "CONVEX AND NONLINEAR OPTIMIZATION IN MARITIME PROBLEM"
+  },
+  "MTS5094": {
+    "faculty": "FAKULTI TEKNOLOGI KEJURUTERAAN KELAUTAN DAN INFORMATIK",
+    "title": "FUZZY DECISION IN MARITIME"
+  },
+  "MTS5104": {
+    "faculty": "FAKULTI TEKNOLOGI KEJURUTERAAN KELAUTAN DAN INFORMATIK",
+    "title": "METAHEURISTICS FOR MARITIME DECISION MAKING"
+  },
+  "MTS5114": {
+    "faculty": "FAKULTI TEKNOLOGI KEJURUTERAAN KELAUTAN DAN INFORMATIK",
+    "title": "MACHINE LEARNING"
+  },
+  "MTS59910": {
+    "faculty": "FAKULTI TEKNOLOGI KEJURUTERAAN KELAUTAN DAN INFORMATIK",
+    "title": "MASTER PROJECT"
+  },
+  "NCC3053": {
+    "faculty": "PUSAT PENDIDIKAN ASAS DAN LANJUTAN",
+    "title": "KENEGARAAN MALAYSIA"
+  },
+  "NCC3103": {
+    "faculty": "PUSAT PENDIDIKAN ASAS DAN LANJUTAN",
+    "title": "ISLAM DAN ALAM SEKITAR"
+  },
+  "NCC3113": {
+    "faculty": "PUSAT PENDIDIKAN ASAS DAN LANJUTAN",
+    "title": "HADIS PILIHAN"
+  },
+  "NCC3123": {
+    "faculty": "PUSAT PENDIDIKAN ASAS DAN LANJUTAN",
+    "title": "FIQH IBADAT"
+  },
+  "NCC3133": {
+    "faculty": "PUSAT PENDIDIKAN ASAS DAN LANJUTAN",
+    "title": "KEPIMPINAN KENDIRI"
+  },
+  "NCC3143": {
+    "faculty": "PUSAT PENDIDIKAN ASAS DAN LANJUTAN",
+    "title": "KEPIMPINAN KOMUNITI"
+  },
+  "NCC3152": {
+    "faculty": "PUSAT PENDIDIKAN ASAS DAN LANJUTAN",
+    "title": "INTEGRITI & ANTI RASUAH"
+  },
+  "NCC3153": {
+    "faculty": "PUSAT PENDIDIKAN ASAS DAN LANJUTAN",
+    "title": "KEPIMPINAN STRATEGIK"
+  },
+  "NCC3163": {
+    "faculty": "PUSAT PENDIDIKAN ASAS DAN LANJUTAN",
+    "title": "DA'I DAN MASYARAKAT"
+  },
+  "NCC3173": {
+    "faculty": "PUSAT PENDIDIKAN ASAS DAN LANJUTAN",
+    "title": "FALSAFAH SAINS ISLAM"
+  },
+  "NCC3203": {
+    "faculty": "PUSAT PENDIDIKAN ASAS DAN LANJUTAN",
+    "title": "ISLAM DAN EKONOMI"
+  },
+  "NCC3303": {
+    "faculty": "PUSAT PENDIDIKAN ASAS DAN LANJUTAN",
+    "title": "ISLAM DAN IDEOLOGI MASAKINI"
+  },
+  "NCC3403": {
+    "faculty": "PUSAT PENDIDIKAN ASAS DAN LANJUTAN",
+    "title": "PRINSIP KEKELUARGAAN ISLAM"
+  },
+  "NCC3503": {
+    "faculty": "PUSAT PENDIDIKAN ASAS DAN LANJUTAN",
+    "title": "ISLAM DAN KEPIMPINAN"
+  },
+  "NCC3513": {
+    "faculty": "PUSAT PENDIDIKAN ASAS DAN LANJUTAN",
+    "title": "KOMUNITI ASEAN DAN KESELAMATAN SERANTAU"
+  },
+  "NCC3603": {
+    "faculty": "PUSAT PENDIDIKAN ASAS DAN LANJUTAN",
+    "title": "ISU-ISU KONTEMPORARI  POLITIK MALAYSIA"
+  },
+  "NCC3703": {
+    "faculty": "PUSAT PENDIDIKAN ASAS DAN LANJUTAN",
+    "title": "PERSONALITI ULUL ALBAB"
+  },
+  "NCC3803": {
+    "faculty": "PUSAT PENDIDIKAN ASAS DAN LANJUTAN",
+    "title": "TASAWWUR ISLAM"
+  },
+  "NCC3903": {
+    "faculty": "PUSAT PENDIDIKAN ASAS DAN LANJUTAN",
+    "title": "AL QURAN DAN DUNIA MODEN"
+  },
+  "POL3013": {
+    "faculty": "FAKULTI PERNIAGAAN,EKONOMI DAN PEMBANGUNAN SOSIAL",
+    "title": "INTRODUCTION TO ANTHROPOLOGY AND SOCIOLOGY"
+  },
+  "POL3023": {
+    "faculty": "FAKULTI PERNIAGAAN,EKONOMI DAN PEMBANGUNAN SOSIAL",
+    "title": "HUMAN DEVELOPMENT AND SOCIAL POLICY"
+  },
+  "POL3033": {
+    "faculty": "FAKULTI PERNIAGAAN,EKONOMI DAN PEMBANGUNAN SOSIAL",
+    "title": "SUSTAINABLE PLANNING AND DEVELOPMENT"
+  },
+  "POL3042": {
+    "faculty": "FAKULTI PERNIAGAAN,EKONOMI DAN PEMBANGUNAN SOSIAL",
+    "title": "INTRODUCTION TO STRATEGIC PLANNING"
+  },
+  "POL3053": {
+    "faculty": "FAKULTI PERNIAGAAN,EKONOMI DAN PEMBANGUNAN SOSIAL",
+    "title": "URBAN SOCIOLOGY"
+  },
+  "POL3063": {
+    "faculty": "FAKULTI PERNIAGAAN,EKONOMI DAN PEMBANGUNAN SOSIAL",
+    "title": "SOCIOLOGY INDUSTRY"
+  },
+  "POL3113": {
+    "faculty": "FAKULTI PERNIAGAAN,EKONOMI DAN PEMBANGUNAN SOSIAL",
+    "title": "INTRODUCTION AND PHILOSOPHY OF SOCIAL SCIENCES"
+  },
+  "POL3123": {
+    "faculty": "FAKULTI PERNIAGAAN,EKONOMI DAN PEMBANGUNAN SOSIAL",
+    "title": "INTRODUCTION TO PUBLIC POLICY MANAGEMENT"
+  },
+  "POL3133": {
+    "faculty": "FAKULTI PERNIAGAAN,EKONOMI DAN PEMBANGUNAN SOSIAL",
+    "title": "INTRODUCTION TO POLITICAL SCIENCE"
+  },
+  "POL3213": {
+    "faculty": "FAKULTI PERNIAGAAN,EKONOMI DAN PEMBANGUNAN SOSIAL",
+    "title": "INTRODUCTION TO COMMUNITY MANAGEMENT"
+  },
+  "POL3223": {
+    "faculty": "FAKULTI PERNIAGAAN,EKONOMI DAN PEMBANGUNAN SOSIAL",
+    "title": "THEORIES OF PUBLIC ADMINISTRATION"
+  },
+  "POL3233": {
+    "faculty": "FAKULTI PERNIAGAAN,EKONOMI DAN PEMBANGUNAN SOSIAL",
+    "title": "PUBLIC POLICY MAKING"
+  },
+  "POL3313": {
+    "faculty": "FAKULTI PERNIAGAAN,EKONOMI DAN PEMBANGUNAN SOSIAL",
+    "title": "PUBLIC ADMINISTRATIVE ETHICS"
+  },
+  "POL3323": {
+    "faculty": "FAKULTI PERNIAGAAN,EKONOMI DAN PEMBANGUNAN SOSIAL",
+    "title": "INTRODUCTION TO SOCIAL SCIENCE METHODS"
+  },
+  "POL3413": {
+    "faculty": "FAKULTI PERNIAGAAN,EKONOMI DAN PEMBANGUNAN SOSIAL",
+    "title": "HUMAN CAPITAL MANAGEMENT"
+  },
+  "POL3414": {
+    "faculty": "FAKULTI PERNIAGAAN,EKONOMI DAN PEMBANGUNAN SOSIAL",
+    "title": "STATISTIC AND DATA ANALYSIS"
+  },
+  "POL3423": {
+    "faculty": "FAKULTI PERNIAGAAN,EKONOMI DAN PEMBANGUNAN SOSIAL",
+    "title": "COMPARATIVE PUBLIC POLICY"
+  },
+  "POL4013": {
+    "faculty": "FAKULTI PERNIAGAAN,EKONOMI DAN PEMBANGUNAN SOSIAL",
+    "title": "PUBLIC POLICY IMPLEMENTATION"
+  },
+  "POL4023": {
+    "faculty": "FAKULTI PERNIAGAAN,EKONOMI DAN PEMBANGUNAN SOSIAL",
+    "title": "DEMOGRAPHY AND POPULATION DYNAMICS"
+  },
+  "POL4033": {
+    "faculty": "FAKULTI PERNIAGAAN,EKONOMI DAN PEMBANGUNAN SOSIAL",
+    "title": "SOCIAL IMPACT ASSESSMENT"
+  },
+  "POL4043": {
+    "faculty": "FAKULTI PERNIAGAAN,EKONOMI DAN PEMBANGUNAN SOSIAL",
+    "title": "SOCIAL CHANGE AND DEVELOPMENT"
+  },
+  "POL4053": {
+    "faculty": "FAKULTI PERNIAGAAN,EKONOMI DAN PEMBANGUNAN SOSIAL",
+    "title": "POPULATION POLICY AND MALAYSIAN DEMOGRAPHIC"
+  },
+  "POL4513": {
+    "faculty": "FAKULTI PERNIAGAAN,EKONOMI DAN PEMBANGUNAN SOSIAL",
+    "title": "INTERNATIONAL RELATIONS"
+  },
+  "POL4524": {
+    "faculty": "FAKULTI PERNIAGAAN,EKONOMI DAN PEMBANGUNAN SOSIAL",
+    "title": "PUBLIC POLICY ANALYSIS"
+  },
+  "POL4613": {
+    "faculty": "FAKULTI PERNIAGAAN,EKONOMI DAN PEMBANGUNAN SOSIAL",
+    "title": "EVALUATION AND MONITORING PROGRAMME"
+  },
+  "POL4623": {
+    "faculty": "FAKULTI PERNIAGAAN,EKONOMI DAN PEMBANGUNAN SOSIAL",
+    "title": "COMMUNITY AND GOVERNANCE SYSTEM ASEAN"
+  },
+  "POL4633": {
+    "faculty": "FAKULTI PERNIAGAAN,EKONOMI DAN PEMBANGUNAN SOSIAL",
+    "title": "ENVIRONMENTAL MANAGEMENT AND POLICY IN MALAYSIA"
+  },
+  "POL4643": {
+    "faculty": "FAKULTI PERNIAGAAN,EKONOMI DAN PEMBANGUNAN SOSIAL",
+    "title": "POLITICAL ECONOMY"
+  },
+  "POL4978": {
+    "faculty": "FAKULTI PERNIAGAAN,EKONOMI DAN PEMBANGUNAN SOSIAL",
+    "title": "INDUSTRIAL TRAINING"
+  },
+  "POL4983": {
+    "faculty": "FAKULTI PERNIAGAAN,EKONOMI DAN PEMBANGUNAN SOSIAL",
+    "title": "FINAL YEAR PROJECT 1"
+  },
+  "POL4993": {
+    "faculty": "FAKULTI PERNIAGAAN,EKONOMI DAN PEMBANGUNAN SOSIAL",
+    "title": "FINAL YEAR PROJECT II"
+  },
+  "PPA3023": {
+    "faculty": "PUSAT PENDIDIKAN ASAS DAN LANJUTAN",
+    "title": "INTRODUCTION TO ECONOMIC PLANNING"
+  },
+  "PPA3053": {
+    "faculty": "PUSAT PENDIDIKAN ASAS DAN LANJUTAN",
+    "title": "ECONOMIC THOUGHT OF BIODIVERSITY"
+  },
+  "PPA3063": {
+    "faculty": "PUSAT PENDIDIKAN ASAS DAN LANJUTAN",
+    "title": "IKAN DAN PERIKANAN"
+  },
+  "PPA3093": {
+    "faculty": "PUSAT PENDIDIKAN ASAS DAN LANJUTAN",
+    "title": "TANAMAN HIASAN"
+  },
+  "PPA3103": {
+    "faculty": "PUSAT PENDIDIKAN ASAS DAN LANJUTAN",
+    "title": "SAINS MAKANAN"
+  },
+  "PPA3113": {
+    "faculty": "PUSAT PENDIDIKAN ASAS DAN LANJUTAN",
+    "title": "PENGURUSAN MAKANAN HALAL"
+  },
+  "PPA3133 ": {
+    "faculty": "PUSAT PENDIDIKAN ASAS DAN LANJUTAN",
+    "title": "ISU DAN KEPENTINGAN TANAH BENCAH"
+  },
+  "PPA3143": {
+    "faculty": "PUSAT PENDIDIKAN ASAS DAN LANJUTAN",
+    "title": "KIMIA DAN MASYARAKAT"
+  },
+  "PPA3162": {
+    "faculty": "PUSAT PENDIDIKAN ASAS DAN LANJUTAN",
+    "title": "ORGANISMA INVASIF"
+  },
+  "PPA3173": {
+    "faculty": "PUSAT PENDIDIKAN ASAS DAN LANJUTAN",
+    "title": "SUSTAINABLE DEVELOPMENT"
+  },
+  "PPA3183": {
+    "faculty": "PUSAT PENDIDIKAN ASAS DAN LANJUTAN",
+    "title": "ANIMALS AND SOCIETY"
+  },
+  "PPA3202": {
+    "faculty": "PUSAT PENDIDIKAN ASAS DAN LANJUTAN",
+    "title": "KEWANGAN PERIBADI"
+  },
+  "PPA3223": {
+    "faculty": "PUSAT PENDIDIKAN ASAS DAN LANJUTAN",
+    "title": "INVESTMENT IN FINANCIAL MARKET"
+  },
+  "PPA3263": {
+    "faculty": "PUSAT PENDIDIKAN ASAS DAN LANJUTAN",
+    "title": "ECONOMIC SUSTAINABILITY"
+  },
+  "QFZ3012": {
+    "faculty": "FAKULTI SAINS DAN SEKITARAN MARIN",
+    "title": "MEKANIK KLASIK"
+  },
+  "QFZ3022": {
+    "faculty": "FAKULTI SAINS DAN SEKITARAN MARIN",
+    "title": "FIZIK GELOMBANG DAN OPTIK"
+  },
+  "QFZ3032": {
+    "faculty": "FAKULTI SAINS DAN SEKITARAN MARIN",
+    "title": "FIZIK ELEKTRIK DAN MAGNET"
+  },
+  "QFZ3042": {
+    "faculty": "FAKULTI SAINS DAN SEKITARAN MARIN",
+    "title": "TEKNIK SAINS FIZIK"
+  },
+  "QFZ3052": {
+    "faculty": "FAKULTI SAINS DAN SEKITARAN MARIN",
+    "title": "FIZIK TERMA"
+  },
+  "QFZ3063": {
+    "faculty": "FAKULTI SAINS DAN SEKITARAN MARIN",
+    "title": "KAEDAH BERANGKA DAN FIZIK KOMPUTASI"
+  },
+  "QFZ3073": {
+    "faculty": "FAKULTI SAINS DAN SEKITARAN MARIN",
+    "title": "SAINS KEADAAN PEPEJAL"
+  },
+  "QFZ3083": {
+    "faculty": "FAKULTI SAINS DAN SEKITARAN MARIN",
+    "title": "TEKNIK NANOFIZIK 1"
+  },
+  "QFZ3093": {
+    "faculty": "FAKULTI SAINS DAN SEKITARAN MARIN",
+    "title": "TEKNIK NANOFIZIK 2"
+  },
+  "QFZ3113": {
+    "faculty": "FAKULTI SAINS DAN SEKITARAN MARIN",
+    "title": "FIZIK MARIN"
+  },
+  "QFZ3123": {
+    "faculty": "FAKULTI SAINS DAN SEKITARAN MARIN",
+    "title": "FIZIK NANOBAHAN"
+  },
+  "QFZ3133": {
+    "faculty": "FAKULTI SAINS DAN SEKITARAN MARIN",
+    "title": "KAEDAH PENYELIDIKAN FIZIK"
+  },
+  "QFZ3143": {
+    "faculty": "FAKULTI SAINS DAN SEKITARAN MARIN",
+    "title": "FIZIK KUANTUM"
+  },
+  "QFZ3153": {
+    "faculty": "FAKULTI SAINS DAN SEKITARAN MARIN",
+    "title": "PENGENALAN ELEKTRONIK"
+  },
+  "QFZ3163": {
+    "faculty": "FAKULTI SAINS DAN SEKITARAN MARIN",
+    "title": "FIZIK MATEMATIK"
+  },
+  "QFZ3173": {
+    "faculty": "FAKULTI SAINS DAN SEKITARAN MARIN",
+    "title": "PENGATURCARAAN ASAS UNTUK AHLI FIZIK"
+  },
+  "QFZ3183": {
+    "faculty": "FAKULTI SAINS DAN SEKITARAN MARIN",
+    "title": "FIZIK MODEN"
+  },
+  "QFZ3703": {
+    "faculty": "FAKULTI SAINS DAN SEKITARAN MARIN",
+    "title": "PENGENALAN FIZIK"
+  },
+  "QFZ3713": {
+    "faculty": "FAKULTI SAINS DAN SEKITARAN MARIN",
+    "title": "PENGUKURAN DAN PERALATAN"
+  },
+  "QFZ3723": {
+    "faculty": "FAKULTI SAINS DAN SEKITARAN MARIN",
+    "title": "FIZIK SINARAN"
+  },
+  "QFZ3733": {
+    "faculty": "FAKULTI SAINS DAN SEKITARAN MARIN",
+    "title": "PENGENALAN KEPADA FIZIK MAKANAN"
+  },
+  "QFZ3743": {
+    "faculty": "FAKULTI SAINS DAN SEKITARAN MARIN",
+    "title": "FIZIK ATOM DAN MOLEKUL"
+  },
+  "QFZ3753": {
+    "faculty": "FAKULTI SAINS DAN SEKITARAN MARIN",
+    "title": "AKUSTIK"
+  },
+  "QFZ3763": {
+    "faculty": "FAKULTI SAINS DAN SEKITARAN MARIN",
+    "title": "TEKNOLOGI FILEM NIPIS"
+  },
+  "QFZ3773": {
+    "faculty": "FAKULTI SAINS DAN SEKITARAN MARIN",
+    "title": "SAINS KEADAAN  PEPEJAL LANJUTAN"
+  },
+  "QFZ3783": {
+    "faculty": "FAKULTI SAINS DAN SEKITARAN MARIN",
+    "title": "ELEKTRONIK DIGITAL"
+  },
+  "QFZ3793": {
+    "faculty": "FAKULTI SAINS DAN SEKITARAN MARIN",
+    "title": "SINTESIS DAN FABRIKASI NANOBAHAN"
+  },
+  "QFZ3803": {
+    "faculty": "FAKULTI SAINS DAN SEKITARAN MARIN",
+    "title": "NANOBAHAN TERMAJU"
+  },
+  "QFZ3813": {
+    "faculty": "FAKULTI SAINS DAN SEKITARAN MARIN",
+    "title": "FENOMENA KUANTUM DALAM NANOSTRUKTUR"
+  },
+  "QFZ3823": {
+    "faculty": "FAKULTI SAINS DAN SEKITARAN MARIN",
+    "title": "PERANTI NANOSEMIKONDUKTOR"
+  },
+  "QFZ3833": {
+    "faculty": "FAKULTI SAINS DAN SEKITARAN MARIN",
+    "title": "PEMPROSESAN NANOBAHAN"
+  },
+  "QFZ3843": {
+    "faculty": "FAKULTI SAINS DAN SEKITARAN MARIN",
+    "title": "SISTEM DAN ISYARAT"
+  },
+  "QFZ3853": {
+    "faculty": "FAKULTI SAINS DAN SEKITARAN MARIN",
+    "title": "FABRIKASI NANOPERANTI"
+  },
+  "QFZ3863": {
+    "faculty": "FAKULTI SAINS DAN SEKITARAN MARIN",
+    "title": "INSTRUMENTASI"
+  },
+  "QFZ3873": {
+    "faculty": "FAKULTI SAINS DAN SEKITARAN MARIN",
+    "title": "KAEDAH BERANGKA LANJUTAN"
+  },
+  "QFZ49014-I": {
+    "faculty": "FAKULTI SAINS DAN SEKITARAN MARIN",
+    "title": "PEMBELAJARAN BERASASKAN-KERJA 1"
+  },
+  "QFZ49114-I": {
+    "faculty": "FAKULTI SAINS DAN SEKITARAN MARIN",
+    "title": "PEMBELAJARAN BERASASKAN-KERJA 2"
+  },
+  "QFZ4982": {
+    "faculty": "FAKULTI SAINS DAN SEKITARAN MARIN",
+    "title": "PROJEK ILMIAH TAHUN AKHIR 1"
+  },
+  "QFZ4994": {
+    "faculty": "FAKULTI SAINS DAN SEKITARAN MARIN",
+    "title": "PROJEK ILMIAH TAHUN AKHIR 2"
+  },
+  "STM3013": {
+    "faculty": "FAKULTI PERIKANAN DAN SAINS MAKANAN",
+    "title": "FOOD MICROBIOLOGY (MIKROBIOLOGI MAKANAN)"
+  },
+  "STM3023": {
+    "faculty": "FAKULTI PERIKANAN DAN SAINS MAKANAN",
+    "title": "FOOD SAFETY MANAGEMENT (PENGURUSAN KESELAMATAN MAKANAN)"
+  },
+  "STM3043": {
+    "faculty": "FAKULTI PERIKANAN DAN SAINS MAKANAN",
+    "title": "MIKROBIOLOGI MAKANAN LANJUTAN"
+  },
+  "STM3123": {
+    "faculty": "FAKULTI PERIKANAN DAN SAINS MAKANAN",
+    "title": "PRINCIPLES OF FOOD PROCESSING AND PRESERVATION (PRINSIP PEMPROSESAN DAN PENGAWETAN MAKANAN"
+  },
+  "STM3133": {
+    "faculty": "FAKULTI PERIKANAN DAN SAINS MAKANAN",
+    "title": "PEMPROSESAN MAKANAN"
+  },
+  "STM3143": {
+    "faculty": "FAKULTI PERIKANAN DAN SAINS MAKANAN",
+    "title": "ASAS KEJURUTERAAN MAKANAN"
+  },
+  "STM3153": {
+    "faculty": "FAKULTI PERIKANAN DAN SAINS MAKANAN",
+    "title": "UNIT OPERASI DALAM PEMPROSESAN MAKANAN"
+  },
+  "STM3163": {
+    "faculty": "FAKULTI PERIKANAN DAN SAINS MAKANAN",
+    "title": "PEMBUNGKUSAN MAKANAN"
+  },
+  "STM3173": {
+    "faculty": "FAKULTI PERIKANAN DAN SAINS MAKANAN",
+    "title": "PRODUCT DEVELOPMENT (PERKEMBANGAN PRODUK)"
+  },
+  "STM3183": {
+    "faculty": "FAKULTI PERIKANAN DAN SAINS MAKANAN",
+    "title": "PRINSIP PENGAWETAN MAKANAN"
+  },
+  "STM3213": {
+    "faculty": "FAKULTI PERIKANAN DAN SAINS MAKANAN",
+    "title": "KAEDAH PENYELIDIKAN MAKANAN"
+  },
+  "STM3222": {
+    "faculty": "FAKULTI PERIKANAN DAN SAINS MAKANAN",
+    "title": "SENSORY EVALUATION (PENILAIAN DERIA)"
+  },
+  "STM3233": {
+    "faculty": "FAKULTI PERIKANAN DAN SAINS MAKANAN",
+    "title": "FOOD SCIENCE RESEARCH METHODOLOGY (KAEDAH PENYELIDIKAN SAINS MAKANAN)"
+  },
+  "STM3313": {
+    "faculty": "FAKULTI PERIKANAN DAN SAINS MAKANAN",
+    "title": "INTRODUCTION TO FOOD CHEMISTRY (PENGENALAN KIMIA MAKANAN)"
+  },
+  "STM3323": {
+    "faculty": "FAKULTI PERIKANAN DAN SAINS MAKANAN",
+    "title": "CHEMICAL ANALYSIS OF FOOD (ANALISIS KIMIA MAKANAN)"
+  },
+  "STM3334": {
+    "faculty": "FAKULTI PERIKANAN DAN SAINS MAKANAN",
+    "title": "KIMIA MAKANAN"
+  },
+  "STM3343": {
+    "faculty": "FAKULTI PERIKANAN DAN SAINS MAKANAN",
+    "title": "INSTRUMENTATION IN FOOD ANALYSIS (PERALATAN DALAM ANALISIS MAKANAN"
+  },
+  "STM3412": {
+    "faculty": "FAKULTI PERIKANAN DAN SAINS MAKANAN",
+    "title": "PENGENALAN SAINS MAKANAN"
+  },
+  "STM3423": {
+    "faculty": "FAKULTI PERIKANAN DAN SAINS MAKANAN",
+    "title": "INGREDIEN MAKANAN"
+  },
+  "STM3433": {
+    "faculty": "FAKULTI PERIKANAN DAN SAINS MAKANAN",
+    "title": "NUTRITIONAL CHANGES IN FOOD (PERUBAHAN PEMAKANAN DALAM MAKANAN)"
+  },
+  "STM3443": {
+    "faculty": "FAKULTI PERIKANAN DAN SAINS MAKANAN",
+    "title": "KOMODITI MAKANAN"
+  },
+  "STM3513": {
+    "faculty": "FAKULTI PERIKANAN DAN SAINS MAKANAN",
+    "title": "PRINCIPLES OF HUMAN NUTRITION (PRINSIP PEMAKANAN MANUSIA)"
+  },
+  "STM3523": {
+    "faculty": "FAKULTI PERIKANAN DAN SAINS MAKANAN",
+    "title": "LIFE SPAN NUTRITION (PEMAKANAN SEPANJANG HAYAT)"
+  },
+  "STM3533": {
+    "faculty": "FAKULTI PERIKANAN DAN SAINS MAKANAN",
+    "title": "COMMUNITY NUTRITION (PEMAKANAN KOMUNITI)"
+  },
+  "STM3553": {
+    "faculty": "FAKULTI PERIKANAN DAN SAINS MAKANAN",
+    "title": "NUTRITION AND HEALTH (PEMAKANAN DAN KESIHATAN)"
+  },
+  "STM3612": {
+    "faculty": "FAKULTI PERIKANAN DAN SAINS MAKANAN",
+    "title": "SANITASI KILANG MAKANAN"
+  },
+  "STM3622": {
+    "faculty": "FAKULTI PERIKANAN DAN SAINS MAKANAN",
+    "title": "PERUNDANGAN MAKANAN)"
+  },
+  "STM3633": {
+    "faculty": "FAKULTI PERIKANAN DAN SAINS MAKANAN",
+    "title": "JAMINAN DAN KAWALAN KUALITI MAKANAN"
+  },
+  "STM3652": {
+    "faculty": "FAKULTI PERIKANAN DAN SAINS MAKANAN",
+    "title": " FOOD LAW (PERUNDANGAN MAKANAN)"
+  },
+  "STM3713": {
+    "faculty": "FAKULTI PERIKANAN DAN SAINS MAKANAN",
+    "title": "PRINCIPLES OF FOOD PREPARATION (PRINSIP PENYEDIAAN MAKANAN)"
+  },
+  "STM3722": {
+    "faculty": "FAKULTI PERIKANAN DAN SAINS MAKANAN",
+    "title": "PRACTICAL OF FOOD PREPARATION (AMALI PENYEDIAAN MAKANAN)"
+  },
+  "STM3734": {
+    "faculty": "FAKULTI PERIKANAN DAN SAINS MAKANAN",
+    "title": "ASAS PENYEDIAAN MAKANAN"
+  },
+  "STM3743": {
+    "faculty": "FAKULTI PERIKANAN DAN SAINS MAKANAN",
+    "title": "MENU PLANNING AND EXPENSES (PERANCANGAN MENU DAN PERBELANJAAN"
+  },
+  "STM3753": {
+    "faculty": "FAKULTI PERIKANAN DAN SAINS MAKANAN",
+    "title": "PASTRY AND BAKERY (PASTRI DAN BAKERI)"
+  },
+  "STM3764": {
+    "faculty": "FAKULTI PERIKANAN DAN SAINS MAKANAN",
+    "title": "COMMERCIAL FOOD PRODUCTION (PENGELUARAN MAKANAN KOMERSIAL)"
+  },
+  "STM3773": {
+    "faculty": "FAKULTI PERIKANAN DAN SAINS MAKANAN",
+    "title": "FOOD SERVICE FACILITIES PLANNING (PERANCANGAN FASILITI PERKHIDMATAN MAKANAN)"
+  },
+  "STM3783": {
+    "faculty": "FAKULTI PERIKANAN DAN SAINS MAKANAN",
+    "title": "FOOD SERVICE OPERATION SYSTEM (SISTEM OPERASI PERKHIDMATAN MAKANAN)"
+  },
+  "STM3793": {
+    "faculty": "FAKULTI PERIKANAN DAN SAINS MAKANAN",
+    "title": "FOOD AND CULTURE (MAKANAN DAN KEBUDAYAAN)"
+  },
+  "STM4033": {
+    "faculty": "FAKULTI PERIKANAN DAN SAINS MAKANAN",
+    "title": "TOKSIKOLOGI MAKANAN"
+  },
+  "STM4053": {
+    "faculty": "FAKULTI PERIKANAN DAN SAINS MAKANAN",
+    "title": "BIOTEKNOLOGI MAKANAN"
+  },
+  "STM4241": {
+    "faculty": "FAKULTI PERIKANAN DAN SAINS MAKANAN",
+    "title": "SEMINAR (SEMINAR)"
+  },
+  "STM4543": {
+    "faculty": "FAKULTI PERIKANAN DAN SAINS MAKANAN",
+    "title": "NUTRITION THERAPY (PEMAKANAN TERAPI)"
+  },
+  "STM4563": {
+    "faculty": "FAKULTI PERIKANAN DAN SAINS MAKANAN",
+    "title": "ADVANCED NUTRITION (PEMAKANAN LANJUTAN)"
+  },
+  "STM4643": {
+    "faculty": "FAKULTI PERIKANAN DAN SAINS MAKANAN",
+    "title": "HALAL FOOD MANAGEMENT (PENGURUSAN MAKANAN HALAL)"
+  },
+  "STM4663": {
+    "faculty": "FAKULTI PERIKANAN DAN SAINS MAKANAN",
+    "title": "PENGURUSAN SISA INDUSTRI MAKANAN"
+  },
+  "STM4978": {
+    "faculty": "FAKULTI PERIKANAN DAN SAINS MAKANAN",
+    "title": "INDUSTRIAL TRAINING (LATIHAN INDUSTRI)"
+  },
+  "STM4981": {
+    "faculty": "FAKULTI PERIKANAN DAN SAINS MAKANAN",
+    "title": "FINAL YEAR PROJECT I (PROJEK ILMIAH TAHUN AKHIR I)"
+  },
+  "STM4995": {
+    "faculty": "FAKULTI PERIKANAN DAN SAINS MAKANAN",
+    "title": "FINAL YEAR PROJECT II (PROJEK ILMIAH TAHUN AKHIR II)"
+  },
+  "STS5004": {
+    "faculty": "FAKULTI TEKNOLOGI KEJURUTERAAN KELAUTAN DAN INFORMATIK",
+    "title": "OCEANOGRAPHY DATA ANALYSIS"
+  },
+  "STS5014": {
+    "faculty": "FAKULTI TEKNOLOGI KEJURUTERAAN KELAUTAN DAN INFORMATIK",
+    "title": "TIME SERIES ANALYSIS IN MARINE"
+  },
+  "STS5024": {
+    "faculty": "FAKULTI TEKNOLOGI KEJURUTERAAN KELAUTAN DAN INFORMATIK",
+    "title": "PREDICTIVE ANALYSIS"
+  },
+  "STS5034": {
+    "faculty": "FAKULTI TEKNOLOGI KEJURUTERAAN KELAUTAN DAN INFORMATIK",
+    "title": "EXPLORATORY MARINE DATA ANALYSIS"
+  },
+  "STS5044": {
+    "faculty": "FAKULTI TEKNOLOGI KEJURUTERAAN KELAUTAN DAN INFORMATIK",
+    "title": "DATA ANALYSIS USING R"
+  },
+  "TL3201-M": {
+    "faculty": "FAKULTI TEKNOLOGI KEJURUTERAAN KELAUTAN DAN INFORMATIK",
+    "title": "AIR POLLUTION"
+  },
+  "TL4122-M": {
+    "faculty": "FAKULTI TEKNOLOGI KEJURUTERAAN KELAUTAN DAN INFORMATIK",
+    "title": "AIR POLLUTION MONITORING"
+  },
+  "TOU 4113": {
+    "faculty": "FAKULTI PERNIAGAAN,EKONOMI DAN PEMBANGUNAN SOSIAL",
+    "title": "INTRODUCTION TO TOURISM"
+  },
+  "TOU4012": {
+    "faculty": "FAKULTI PERNIAGAAN,EKONOMI DAN PEMBANGUNAN SOSIAL",
+    "title": "TOURISM INDUSTRY IN MALAYSIA "
+  },
+  "TOU4012E": {
+    "faculty": "FAKULTI PERNIAGAAN,EKONOMI DAN PEMBANGUNAN SOSIAL",
+    "title": "TOURISM INDUSTRY IN MALAYSIA  (MOOC)"
+  },
+  "TOU4022": {
+    "faculty": "FAKULTI PERNIAGAAN,EKONOMI DAN PEMBANGUNAN SOSIAL",
+    "title": "TRANSPORTATION TOURISM"
+  },
+  "TOU4032": {
+    "faculty": "FAKULTI PERNIAGAAN,EKONOMI DAN PEMBANGUNAN SOSIAL",
+    "title": "OUTDOOR RECREATIONAL TOURISM"
+  },
+  "TOU4042": {
+    "faculty": "FAKULTI PERNIAGAAN,EKONOMI DAN PEMBANGUNAN SOSIAL",
+    "title": "FRONT OFFICE MANAGEMENT"
+  },
+  "TOU4052": {
+    "faculty": "FAKULTI PERNIAGAAN,EKONOMI DAN PEMBANGUNAN SOSIAL",
+    "title": "INTRODUCTION TO FOOD SERVICE MANAGEMENT"
+  },
+  "TOU4133": {
+    "faculty": "FAKULTI PERNIAGAAN,EKONOMI DAN PEMBANGUNAN SOSIAL",
+    "title": "COMPUTER RESERVATION SYSTEM"
+  },
+  "TOU4143": {
+    "faculty": "FAKULTI PERNIAGAAN,EKONOMI DAN PEMBANGUNAN SOSIAL",
+    "title": "HUMAN RESOURCE MANAGEMENT"
+  },
+  "TOU4213": {
+    "faculty": "FAKULTI PERNIAGAAN,EKONOMI DAN PEMBANGUNAN SOSIAL",
+    "title": "TOURIST BEHAVIOR"
+  },
+  "TOU4223": {
+    "faculty": "FAKULTI PERNIAGAAN,EKONOMI DAN PEMBANGUNAN SOSIAL",
+    "title": "TOURISM RESEARCH "
+  },
+  "TOU4233": {
+    "faculty": "FAKULTI PERNIAGAAN,EKONOMI DAN PEMBANGUNAN SOSIAL",
+    "title": "PARK AND RECREATION MANAGEMENT"
+  },
+  "TOU4243": {
+    "faculty": "FAKULTI PERNIAGAAN,EKONOMI DAN PEMBANGUNAN SOSIAL",
+    "title": "INTERNATIONAL TOURISM"
+  },
+  "TOU4253": {
+    "faculty": "FAKULTI PERNIAGAAN,EKONOMI DAN PEMBANGUNAN SOSIAL",
+    "title": "TOURISM GEOGRAPHY"
+  },
+  "TOU4263": {
+    "faculty": "FAKULTI PERNIAGAAN,EKONOMI DAN PEMBANGUNAN SOSIAL",
+    "title": "TOURISM OPERATION MANAGEMENT"
+  },
+  "TOU4273": {
+    "faculty": "FAKULTI PERNIAGAAN,EKONOMI DAN PEMBANGUNAN SOSIAL",
+    "title": "TOURISM AND HOSPITALITY LAW"
+  },
+  "TOU4313": {
+    "faculty": "FAKULTI PERNIAGAAN,EKONOMI DAN PEMBANGUNAN SOSIAL",
+    "title": "CULTURE AND HERITAGE TOURISM"
+  },
+  "TOU4323": {
+    "faculty": "FAKULTI PERNIAGAAN,EKONOMI DAN PEMBANGUNAN SOSIAL",
+    "title": "TOURISM PRODUCT DEVELOPMENT"
+  },
+  "TOU4333": {
+    "faculty": "FAKULTI PERNIAGAAN,EKONOMI DAN PEMBANGUNAN SOSIAL",
+    "title": "MEETING INCENTIVE CONFERENCE AND EVENTS "
+  },
+  "TOU4343": {
+    "faculty": "FAKULTI PERNIAGAAN,EKONOMI DAN PEMBANGUNAN SOSIAL",
+    "title": "ISLAND AND COASTAL PLANNING AND DEVELOPMENT"
+  },
+  "TOU49712": {
+    "faculty": "FAKULTI PERNIAGAAN,EKONOMI DAN PEMBANGUNAN SOSIAL",
+    "title": "INDUSTRIAL TRAINING"
+  },
+  "TOU4983": {
+    "faculty": "FAKULTI PERNIAGAAN,EKONOMI DAN PEMBANGUNAN SOSIAL",
+    "title": "FINAL YEAR PROJECT 1"
+  },
+  "TOU4993": {
+    "faculty": "FAKULTI PERNIAGAAN,EKONOMI DAN PEMBANGUNAN SOSIAL",
+    "title": "FINAL YEAR PROJECT II"
+  }
+}
